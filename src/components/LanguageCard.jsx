@@ -19,7 +19,7 @@ export default function LanguageCard({ item, onNext, showHint }) {
     setShowTranslation(true)
   }
 
-  const instruction = showTranslation ? 'Click to continue →' : 'Click to reveal translation'
+  const instruction = showTranslation ? 'Tap to continue →' : 'Tap to reveal translation'
   const translationWordCount = (item.translation ?? '').trim().split(/\s+/).filter(Boolean).length
   const newLabel = translationWordCount > 1 ? 'new phrase' : 'new word'
 
