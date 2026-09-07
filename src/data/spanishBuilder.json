@@ -1,0 +1,2342 @@
+[
+  {
+    "english": "We are going to start",
+    "translation": "Vamos a comenzar / vamos a empezar",
+    "new": true
+  },
+  {
+    "english": "we're going to start",
+    "translation": "comenzamos / empezamos",
+    "new": true
+  },
+  {
+    "english": "let's start",
+    "translation": "empecemos",
+    "new": true
+  },
+  {
+    "english": "I like...",
+    "translation": "Me gusta..."
+  },
+  {
+    "english": "I like to be here",
+    "translation": "Me gusta estar aquí"
+  },
+  {
+    "english": "I want to do it but...",
+    "translation": "Quiero hacerlo pero..."
+  },
+  {
+    "english": "I won't do it, I won't do it today because...",
+    "translation": "no lo haré, no voy a hacerlo hoy porque...",
+    "explanation": "(lo haré, lo hará I will do it, he/she/you will do it)"
+  },
+  {
+    "english": "...I'm very busy",
+    "translation": "...estoy muy ocupado"
+  },
+  {
+    "english": "...I'm too busy...",
+    "translation": "...estoy demasiado ocupado..."
+  },
+  {
+    "english": "...to do it",
+    "translation": "...para hacerlo"
+  },
+  {
+    "english": "I feel like...",
+    "translation": "Tengo ganas de..."
+  },
+  {
+    "english": "I feel like doing it",
+    "translation": "Tengo ganas de hacerlo"
+  },
+  {
+    "english": "I don't feel like going there",
+    "translation": "No tengo ganas de ir allí"
+  },
+  {
+    "english": "I don't feel like staying here",
+    "translation": "No tengo ganas de quedarme aquí"
+  },
+  {
+    "english": "I feel like going out",
+    "translation": "Tengo ganas de salir"
+  },
+  {
+    "english": "It seems to me that, I think that...",
+    "translation": "Me parece que...",
+    "new": true
+  },
+  {
+    "english": "I believe that..., I think that...",
+    "translation": "creo que..., pienso que...",
+    "new": true
+  },
+  {
+    "english": "It seems to me that she doesn't feel like going here",
+    "translation": "Me parece que ella no tiene ganas de ir allí"
+  },
+  {
+    "english": "I agree with you",
+    "translation": "Estoy de acuerdo con usted",
+    "new": true
+  },
+  {
+    "english": "OK, agreed",
+    "translation": "De acuerdo"
+  },
+  {
+    "english": "I don't agree with him",
+    "translation": "No estoy de acuerdo con él"
+  },
+  {
+    "english": "What is your opinion?",
+    "translation": "¿Cuál es su opinión?",
+    "new": true
+  },
+  {
+    "english": "What is your opinion?",
+    "translation": "¿Cuál es tu opinión?",
+    "new": true
+  },
+  {
+    "english": "What do you think?",
+    "translation": "¿Qué piensa?, ¿Qué piensas, Roberto?, ¿Qué piensan ustedes?",
+    "new": true
+  },
+  {
+    "english": "It interests me",
+    "translation": "Me interesa",
+    "new": true
+  },
+  {
+    "english": "It interests me a lot, very much",
+    "translation": "Me interesa mucho, muchísimo",
+    "new": true
+  },
+  {
+    "english": "Unfortunately it's doesn't interest me",
+    "translation": "Desafortunadamente no me interesa",
+    "new": true
+  },
+  {
+    "english": "I think that...",
+    "translation": "Creo que..."
+  },
+  {
+    "english": "I think that he will be there...",
+    "translation": "Creo que él va a estar allí..."
+  },
+  {
+    "english": "...this afternoon",
+    "translation": "...esta tarde"
+  },
+  {
+    "english": "It's too late to do it",
+    "translation": "Es demasiado tarde para hacerlo"
+  },
+  {
+    "english": "I think that he is going to be here tonight",
+    "translation": "Creo que él va a estar aquí esta noche",
+    "explanation": "(tarde means \"late\" as well as \"afternoon\"; es tarde use \"it is late\")"
+  },
+  {
+    "english": "We will see",
+    "translation": "Veremos, vamos a ver",
+    "new": true
+  },
+  {
+    "english": "It won't be possible...",
+    "translation": "No será posible..."
+  },
+  {
+    "english": "...to do it like this, in this way",
+    "translation": "...hacerlo así"
+  },
+  {
+    "english": "I don't think so, I don't believe it",
+    "translation": "No lo creo"
+  },
+  {
+    "english": "sure, surely",
+    "translation": "seguro, seguramente",
+    "new": true
+  },
+  {
+    "english": "Of course",
+    "translation": "Claro",
+    "new": true
+  },
+  {
+    "english": "Naturally",
+    "translation": "Naturalmente",
+    "new": true
+  },
+  {
+    "english": "Of course I'm sure",
+    "translation": "Claro que estoy seguro"
+  },
+  {
+    "english": "Look...",
+    "translation": "Mira / Mire...",
+    "new": true
+  },
+  {
+    "english": "...it's on the table",
+    "translation": "...está sobre la mesa",
+    "new": true
+  },
+  {
+    "english": "Will / Can you put it, could you put it...",
+    "translation": "¿Puede ponerlo, podría ponerlo..."
+  },
+  {
+    "english": "...under the table?",
+    "translation": "...debajo de la mesa?",
+    "new": true
+  },
+  {
+    "english": "It is necessary...",
+    "translation": "Es necesario..."
+  },
+  {
+    "english": "We have to...",
+    "translation": "Tenemos que..."
+  },
+  {
+    "english": "One must...",
+    "translation": "Hay que..."
+  },
+  {
+    "english": "...to go there",
+    "translation": "...ir allí"
+  },
+  {
+    "english": "It is not necessary to buy it...",
+    "translation": "No es necesario / No hay que comprarlo..."
+  },
+  {
+    "english": "...because it is very expensive",
+    "translation": "...porque es muy caro"
+  },
+  {
+    "english": "I need, I need it",
+    "translation": "Necesito, lo necesito"
+  },
+  {
+    "english": "I don't need it now",
+    "translation": "No lo necesito ahora"
+  },
+  {
+    "english": "It is all I need",
+    "translation": "Es todo lo que necesito"
+  },
+  {
+    "english": "This / That is all I need",
+    "translation": "Esto / Eso es todo lo que necesito",
+    "explanation": "(Note the use of lo que in the middle of the sentence, literally, \"all what I need\")"
+  },
+  {
+    "english": "It is all I want",
+    "translation": "Es todo lo que quiero"
+  },
+  {
+    "english": "Is this all you want?",
+    "translation": "¿Esto es todo lo que quiere?"
+  },
+  {
+    "english": "I want something else",
+    "translation": "Quiero algo más"
+  },
+  {
+    "english": "Do you need anything else?",
+    "translation": "¿Necesita algo más?"
+  },
+  {
+    "english": "No thank you, that's all",
+    "translation": "No gracias, esto es todo"
+  },
+  {
+    "english": "Will you / Can you show me?",
+    "translation": "¿Puede mostrarme...?",
+    "new": true
+  },
+  {
+    "english": "Yes, I'll show you",
+    "translation": "Sí, voy a mostrarle, le muestro",
+    "new": true
+  },
+  {
+    "english": "Will you / Can you / Could you tell me...",
+    "translation": "¿Puede / podría decirme...",
+    "explanation": "(Present tense used for future: mostrar means \"to show\", muestro means \"I show, I'll show\"; le muestro, \"I'll show you\". The future is often expressed by the present tense in translation)"
+  },
+  {
+    "english": "...what time it is going to be ready?",
+    "translation": "...a qué hora va a estar listo?"
+  },
+  {
+    "english": "...what time it will be ready?",
+    "translation": "...a qué hora estará listo?"
+  },
+  {
+    "english": "I will find out (lit. inform myself)",
+    "translation": "Voy a informarme"
+  },
+  {
+    "english": "I need certain information",
+    "translation": "Necesito cierta información",
+    "new": true
+  },
+  {
+    "english": "I have to find out",
+    "translation": "Tenge que informarme",
+    "new": true
+  },
+  {
+    "english": "I will tell you tomorrow",
+    "translation": "Voy a decirle mañana, le diré mañana"
+  },
+  {
+    "english": "I will not be able...",
+    "translation": "No voy a poder, no podré...",
+    "explanation": "(poder means \"to be able\"; podré I will be able)"
+  },
+  {
+    "english": "...to do it",
+    "translation": "...hacerlo"
+  },
+  {
+    "english": "He will not be able to come with us",
+    "translation": "No podrá venir con nosotros"
+  },
+  {
+    "english": "He isn't going to be able to come with us",
+    "translation": "No va a poder venir con nosotros"
+  },
+  {
+    "english": "I am looking for it...",
+    "translation": "Lo busco, lo estoy buscando...",
+    "explanation": "(buscar means \"to look for\")",
+    "new": true
+  },
+  {
+    "english": "...but I can't find it",
+    "translation": "...pero no puedo encontrarlo"
+  },
+  {
+    "english": "Do you have something for me?",
+    "translation": "¿Tiene algo para mí?"
+  },
+  {
+    "english": "No, I don't have anything, I have nothing",
+    "translation": "No, no tengo nada"
+  },
+  {
+    "english": "I don't have it any longer, any more",
+    "translation": "Ya no tengo más",
+    "new": true
+  },
+  {
+    "english": "There is a message for you",
+    "translation": "Hay un mensaje para usted",
+    "new": true
+  },
+  {
+    "english": "There are some messages for you",
+    "translation": "Hay unos mensajes para usted",
+    "new": true
+  },
+  {
+    "english": "Are there messages for me?",
+    "translation": "¿Hay mensajes para mí?"
+  },
+  {
+    "english": "Is there any message for me?",
+    "translation": "¿Hay algún mensaje para mí?",
+    "new": true
+  },
+  {
+    "english": "Yes, there are some",
+    "translation": "Sí, hay algunos",
+    "new": true
+  },
+  {
+    "english": "How much is it?",
+    "translation": "¿Cuánto es?"
+  },
+  {
+    "english": "How much is this / that?",
+    "translation": "¿Cuánto es esto / eso?"
+  },
+  {
+    "english": "How much does it cost?",
+    "translation": "¿Cuánto cuesta?"
+  },
+  {
+    "english": "What is the price?",
+    "translation": "¿Cuál es el precio?",
+    "new": true
+  },
+  {
+    "english": "How much is it worth?",
+    "translation": "¿Cuánto vale?",
+    "new": true
+  },
+  {
+    "english": "It's not worth much",
+    "translation": "No vale mucho"
+  },
+  {
+    "english": "How much do I owe you?",
+    "translation": "¿Cuánto le debo?",
+    "new": true
+  },
+  {
+    "english": "It's fine, all right",
+    "translation": "Está muy bien",
+    "explanation": "(debo means \"I must, I'm supposed to, I should\". ¿Qué debo hacer? is \"What should I do?\". Debo salir is \"I must go out\")"
+  },
+  {
+    "english": "It's OK like this",
+    "translation": "Está bien así"
+  },
+  {
+    "english": "I think that...",
+    "translation": "Me parece que / creo que..."
+  },
+  {
+    "english": "...he will decide to do it",
+    "translation": "...va a decidir / decidirá hacerlo",
+    "new": true
+  },
+  {
+    "english": "I'm going to do it...",
+    "translation": "Voy a hacerlo..."
+  },
+  {
+    "english": "...immediately / right now",
+    "translation": "... inmediatamente / ahora mismo",
+    "new": true
+  },
+  {
+    "english": "...right away",
+    "translation": "...en seguida",
+    "new": true
+  },
+  {
+    "english": "I want to do it",
+    "translation": "Quiero hacerlo"
+  },
+  {
+    "english": "I would like to do it",
+    "translation": "Me gustaría hacerlo"
+  },
+  {
+    "english": "I would like to know...",
+    "translation": "Me gustaría saber...",
+    "explanation": "(me gusta means \"I like\", me gustaría \"I would like\")"
+  },
+  {
+    "english": "...at what time...",
+    "translation": "...a qué hora..."
+  },
+  {
+    "english": "...he can / will be able to / could...",
+    "translation": "...él puede / podrá / podría..."
+  },
+  {
+    "english": "...be here",
+    "translation": "...estar aquí"
+  },
+  {
+    "english": "I will not forget...",
+    "translation": "No olvidaré / no voy a olvidar...",
+    "explanation": "(olvidar means \"to forget\")"
+  },
+  {
+    "english": "...to tell / to give you / him / her / them",
+    "translation": "...decirle / darle",
+    "new": true
+  },
+  {
+    "english": "...to give it to you / him / her / them",
+    "translation": "...dárselo",
+    "new": true
+  },
+  {
+    "english": "I'm going to give it to you",
+    "translation": "Voy a dárselo a usted"
+  },
+  {
+    "english": "I feel like doing it...",
+    "translation": "Tengo ganas de hacerlo..."
+  },
+  {
+    "english": "...but I don't know if I can do it now",
+    "translation": "...pero no sé si puedo hacerlo ahora"
+  },
+  {
+    "english": "It's not worth the trouble...",
+    "translation": "No vale la pena...",
+    "new": true
+  },
+  {
+    "english": "...to go there / going there",
+    "translation": "...ir allí"
+  },
+  {
+    "english": "We can go there if you want",
+    "translation": "Podemos ir allí si quiere / si quieres"
+  },
+  {
+    "english": "Do you want to come with me?",
+    "translation": "¿Quiere / quieres conmigo?"
+  },
+  {
+    "english": "I'd like to go with you",
+    "translation": "Me gustaría ir con usted / contigo"
+  },
+  {
+    "english": "Would you like to come with me?",
+    "translation": "¿Le gustaría / Te gustaría venir conmigo?"
+  },
+  {
+    "english": "Yes, of course",
+    "translation": "Sí, claro que sí / ¿cómo no?"
+  },
+  {
+    "english": "I'd like to very much",
+    "translation": "Me gustaría mucho"
+  },
+  {
+    "english": "With much pleasure",
+    "translation": "Con mucho gusto"
+  },
+  {
+    "english": "That's nice of you",
+    "translation": "Gracias por su gentileza",
+    "new": true
+  },
+  {
+    "english": "Agreed, OK",
+    "translation": "De acuerdo / Vale"
+  },
+  {
+    "english": "This / That pleases me, I like it",
+    "translation": "Esto / Eso me gusta"
+  },
+  {
+    "english": "It's a good idea",
+    "translation": "Es una buena idea",
+    "new": true
+  },
+  {
+    "english": "You are right",
+    "translation": "Tiene razón",
+    "new": true
+  },
+  {
+    "english": "You are quite right",
+    "translation": "Tiene toda la razón",
+    "new": true
+  },
+  {
+    "english": "You are right and I agree with you",
+    "translation": "Tiene razón y estoy de acuerdo con usted"
+  },
+  {
+    "english": "I like to stay / staying here...",
+    "translation": "Me gusta quedarme aquí..."
+  },
+  {
+    "english": "...because I'm tired",
+    "translation": "...porque estoy cansado"
+  },
+  {
+    "english": "I like to rest",
+    "translation": "Me gusta descansar",
+    "new": true
+  },
+  {
+    "english": "I'm going to rest...",
+    "translation": "Voy a descansar..."
+  },
+  {
+    "english": "...for a little / for a while",
+    "translation": "...un poco / un rato",
+    "new": true
+  },
+  {
+    "english": "...because I'm very tired",
+    "translation": "...porque estoy muy cansado"
+  },
+  {
+    "english": "Is it worth going to see it tonight?",
+    "translation": "¿Vale la pena ir a verlo esta noche?"
+  },
+  {
+    "english": "No, it's not worth it",
+    "translation": "No, no vale la pena"
+  },
+  {
+    "english": "It's incredible!",
+    "translation": "¡Es increíble!",
+    "new": true
+  },
+  {
+    "english": "I don't believe it",
+    "translation": "No lo creo"
+  },
+  {
+    "english": "It's incredible what you're telling me",
+    "translation": "Es increíble lo que me dice"
+  },
+  {
+    "english": "It's great / magnificent / extraordinary",
+    "translation": "Es magnifico / extraordinario",
+    "new": true
+  },
+  {
+    "english": "It's excellent",
+    "translation": "Es excelente",
+    "new": true
+  },
+  {
+    "english": "This is very interesting",
+    "translation": "Esto es muy interesante"
+  },
+  {
+    "english": "It interests me a lot to see it",
+    "translation": "Me interesa mucho verlo"
+  },
+  {
+    "english": "I am very interested",
+    "translation": "Estoy muy interesado",
+    "new": true
+  },
+  {
+    "english": "I'm very interested to go and see it",
+    "translation": "Me interesa mucho ir a verlo"
+  },
+  {
+    "english": "She is very charming, lovely, nice",
+    "translation": "Ella es encantadora",
+    "new": true
+  },
+  {
+    "english": "I like very much to go there with you",
+    "translation": "Me gusta mucho ir allí con usted"
+  },
+  {
+    "english": "I'm sorry",
+    "translation": "Lo siento"
+  },
+  {
+    "english": "I'm sorry to tell you...",
+    "translation": "Siento decirle..."
+  },
+  {
+    "english": "...that I can't go to see it",
+    "translation": "...que no puedo ir a verlo"
+  },
+  {
+    "english": "...with you tonight",
+    "translation": "...con usted / contigo esta noche"
+  },
+  {
+    "english": "I'm sorry to tell you...",
+    "translation": "Siento decirle..."
+  },
+  {
+    "english": "...that I wouldn't be able to go and see it",
+    "translation": "...que no podría ir a verlo"
+  },
+  {
+    "english": "...because I'm very busy",
+    "translation": "...porque estoy muy ocupado"
+  },
+  {
+    "english": "...I shall be / I'm going to be very busy",
+    "translation": "...porque estaré / voy a estar muy ocupado"
+  },
+  {
+    "english": "I have to do it",
+    "translation": "Tengo que hacerlo"
+  },
+  {
+    "english": "I would have to do it",
+    "translation": "Tendría que hacerlo"
+  },
+  {
+    "english": "He has to do it",
+    "translation": "Tiene que hacerlo"
+  },
+  {
+    "english": "He would have to do it",
+    "translation": "Tendría que hacerlo"
+  },
+  {
+    "english": "We would have to go there",
+    "translation": "Tendríamos que ir allí",
+    "new": true
+  },
+  {
+    "english": "You should tell me",
+    "translation": "Tendría que decirme"
+  },
+  {
+    "english": "I should do it",
+    "translation": "Debería hacerlo",
+    "new": true
+  },
+  {
+    "english": "You should wait for me",
+    "translation": "Debería esperarme"
+  },
+  {
+    "english": "I like very much to travel",
+    "translation": "Me gusta mucho / Me encanta viajar",
+    "new": true
+  },
+  {
+    "english": "I think I'm going on holiday...",
+    "translation": "Creo que me voy de vacaciones...",
+    "explanation": "(de vacaciones means \"on holiday\")",
+    "new": true
+  },
+  {
+    "english": "...first to Spain",
+    "translation": "...primero a España",
+    "new": true
+  },
+  {
+    "english": "...and then, later to Italy",
+    "translation": "...y luego, más tarde a Italia",
+    "new": true
+  },
+  {
+    "english": "I would like...",
+    "translation": "Me gustaría..."
+  },
+  {
+    "english": "...to see him / to go and see him",
+    "translation": "...verle / ir a verle"
+  },
+  {
+    "english": "I think I'm going to leave soon...",
+    "translation": "Creo que voy a salir pronto..."
+  },
+  {
+    "english": "...because I can't wait",
+    "translation": "...porque no puedo esperar"
+  },
+  {
+    "english": "When do you think you will leave?",
+    "translation": "¿Cuándo cree que va a salir?",
+    "new": true
+  },
+  {
+    "english": "I think I'll leave soon",
+    "translation": "Pienso salir pronto"
+  },
+  {
+    "english": "When do you think you'll leave?",
+    "translation": "¿Cuándo piensa salir?"
+  },
+  {
+    "english": "I hope to leave soon",
+    "translation": "Espero salir pronto"
+  },
+  {
+    "english": "How long do you think...",
+    "translation": "¿Cuánto tiempo piensa..."
+  },
+  {
+    "english": "...you'll stay in Madrid?",
+    "translation": "...quedarse en Madrid?"
+  },
+  {
+    "english": "I think I'll stay a week in Spain",
+    "translation": "Pienso quedarme una semana en España",
+    "new": true
+  },
+  {
+    "english": "I feel like...",
+    "translation": "Tengo ganas de..."
+  },
+  {
+    "english": "...going to the cinema night",
+    "translation": "...ir al cine esta noche",
+    "new": true
+  },
+  {
+    "english": "...(in order) to see a film, a picture",
+    "translation": "...para ver una película",
+    "new": true
+  },
+  {
+    "english": "an interesting picture",
+    "translation": "una película interesante"
+  },
+  {
+    "english": "She doesn't feel like going there...",
+    "translation": "Ella no tiene ganas de ir allí..."
+  },
+  {
+    "english": "...tonight, perhaps tomorrow",
+    "translation": "...esta noche, quizás mañana",
+    "new": true
+  },
+  {
+    "english": "I think I'll leave / go away...",
+    "translation": "Pienso salir / irme...",
+    "new": true
+  },
+  {
+    "english": "...next week",
+    "translation": "...la semana que viene"
+  },
+  {
+    "english": "...next month",
+    "translation": "...el mes que viene",
+    "new": true
+  },
+  {
+    "english": "...or in two weeks",
+    "translation": "...o en dos semanas"
+  },
+  {
+    "english": "I want to have it",
+    "translation": "Quiero tenerlo"
+  },
+  {
+    "english": "I'm going to buy it",
+    "translation": "Voy a comprarlo"
+  },
+  {
+    "english": "I'm not going to buy it because...",
+    "translation": "No voy a comprarlo porque..."
+  },
+  {
+    "english": "...it's too expensive",
+    "translation": "...es demasiado caro"
+  },
+  {
+    "english": "...it's very expensive",
+    "translation": "...es muy caro"
+  },
+  {
+    "english": "I don't plan to buy it",
+    "translation": "No pienso comprarlo"
+  },
+  {
+    "english": "I don't intend to buy it",
+    "translation": "No tengo la intención de comprarlo",
+    "explanation": "(pensar \"to think\" is used for planning. esperar \"to hope\" also means \"to expect\")",
+    "new": true
+  },
+  {
+    "english": "I don't intend to do it",
+    "translation": "No tengo la intención de hacerlo",
+    "explanation": "(pronunciation of letter “c”: the letter “c” followed by “i” or “e” is pronounced “th” in Castilian translation but “s\" in other parts of the translation-speaking world. But before “a”, “o”, “u” it is always \"k\". You'll hear intenthión in Castilian translation, but intensión in many other parts of Spain and in Latin America. Another example: Barthelona and Barselona)"
+  },
+  {
+    "english": "I plan to go there with you",
+    "translation": "Pienso ir allí con usted",
+    "explanation": "(English words ending in “-tion”: lots of words ending in -tion in English end in -ción in translation. Other examples: condición, reservación, confirmación, etc)"
+  },
+  {
+    "english": "I expect / I hope to go there with you",
+    "translation": "Espero ir allí con usted"
+  },
+  {
+    "english": "I'm going to take it",
+    "translation": "Voy a tomarlo",
+    "new": true
+  },
+  {
+    "english": "It will be ready soon",
+    "translation": "Va a estar listo pronto"
+  },
+  {
+    "english": "At what time...",
+    "translation": "¿A qué hora..."
+  },
+  {
+    "english": "...are you going to be here?",
+    "translation": "...va a estar aquí?"
+  },
+  {
+    "english": "I don't have time to do it",
+    "translation": "No tengo tiempo de hacerlo"
+  },
+  {
+    "english": "He doesn't have time to do it",
+    "translation": "No tiene tiempo de hacerlo"
+  },
+  {
+    "english": "We don't have time to do it",
+    "translation": "No tenemos tiempo de hacerlo"
+  },
+  {
+    "english": "How much time do you have?",
+    "translation": "¿Cuánto tiempo tiene?"
+  },
+  {
+    "english": "I don't know when...",
+    "translation": "No sé cuándo..."
+  },
+  {
+    "english": "...it will be ready",
+    "translation": "...va a estar / estará listo"
+  },
+  {
+    "english": "I think...",
+    "translation": "Creo que..."
+  },
+  {
+    "english": "...it will be ready soon",
+    "translation": "...va a estar / estará listo pronto"
+  },
+  {
+    "english": "Should I open the window?",
+    "translation": "¿Debo abrir la ventana?",
+    "explanation": "(abrir means \"to open\"; abro is \"I open\", I'm opening\". cerrar means \"to close\"; cierro is \"I close\", \"I'm closing\")",
+    "new": true
+  },
+  {
+    "english": "Shall I open the window?",
+    "translation": "¿Abro la ventana?",
+    "new": true
+  },
+  {
+    "english": "I'm closing the door",
+    "translation": "Cierro la puerta",
+    "new": true
+  },
+  {
+    "english": "Shall I close the door?",
+    "translation": "¿Cierro la puerta?"
+  },
+  {
+    "english": "I'm waiting for you",
+    "translation": "Le espero",
+    "explanation": "(Asking questions: all you have to do to change a statement \"I'm closing the door\" into a question \"shall I close the door?\" is to make it sound like a question, with the right inflection in your voice. The order of the worst doesn't change. In written translation, you put a question mark ¿ at the beginning and as well as ? at the end of the question)"
+  },
+  {
+    "english": "Shall I wait for you?",
+    "translation": "¿Le espero?"
+  },
+  {
+    "english": "Shall I accompany you?",
+    "translation": "¿Le acompaño?",
+    "new": true
+  },
+  {
+    "english": "Shall I go / come with you?",
+    "translation": "¿Voy / vengo con usted?"
+  },
+  {
+    "english": "I'll call you later / tomorrow",
+    "translation": "Le llamo más tarde / mañana"
+  },
+  {
+    "english": "Shall I call you later?",
+    "translation": "¿Le llamo más tarde?"
+  },
+  {
+    "english": "We are leaving",
+    "translation": "Salimos"
+  },
+  {
+    "english": "Shall we leave?",
+    "translation": "¿Salimos?"
+  },
+  {
+    "english": "We are going to do it",
+    "translation": "Vamos a hacerlo"
+  },
+  {
+    "english": "What shall we do?",
+    "translation": "¿Qué vamos a hacer?"
+  },
+  {
+    "english": "I know he won't be able to do it",
+    "translation": "Yo sé que no va a poder hacerlo"
+  },
+  {
+    "english": "I have to go and see it",
+    "translation": "Tengo que ir a verlo"
+  },
+  {
+    "english": "I am going to see it",
+    "translation": "Voy a ir a verlo"
+  },
+  {
+    "english": "He was going to see it",
+    "translation": "Iba a verlo"
+  },
+  {
+    "english": "I was going to do it",
+    "translation": "Iba a hacerlo"
+  },
+  {
+    "english": "He wasn't going to do it",
+    "translation": "No iba a hacerlo"
+  },
+  {
+    "english": "I wasn't going to tell you...",
+    "translation": "No iba a decirle..."
+  },
+  {
+    "english": "...that I was going to do it for you",
+    "translation": "...que iba a hacerlo para usted"
+  },
+  {
+    "english": "I was going to buy it",
+    "translation": "Iba a comprarlo"
+  },
+  {
+    "english": "I wasn't going to find it",
+    "translation": "No iba a encontrarlo"
+  },
+  {
+    "english": "He was going to be here this afternoon",
+    "translation": "Él iba a estar aquí esta mañana"
+  },
+  {
+    "english": "I wasn't going to wait",
+    "translation": "No iba a esperar"
+  },
+  {
+    "english": "I wasn't going to wait for you",
+    "translation": "No iba a esperarle",
+    "new": true
+  },
+  {
+    "english": "I know, I know it, I don't know it",
+    "translation": "Sé, lo sé, no lo sé"
+  },
+  {
+    "english": "I don't know where it is",
+    "translation": "No sé dónde está"
+  },
+  {
+    "english": "I can't find it",
+    "translation": "No puedo encontrarlo"
+  },
+  {
+    "english": "Can you tell me where it is?",
+    "translation": "¿Puede decirme dónde está?"
+  },
+  {
+    "english": "Could you / would you be able to tell me?",
+    "translation": "¿Podría decirme?"
+  },
+  {
+    "english": "I have to know (it)",
+    "translation": "Tengo que saberlo"
+  },
+  {
+    "english": "What do you know?",
+    "translation": "¿Qué sabe?",
+    "explanation": "(saber means \"to know\". sé means \"I know\"; sabe \"he/she knows\", \"you know\"; sabes \"you know\" (informal); saben \"you know\", \"they know\")"
+  },
+  {
+    "english": "Why don't you know (it)? (to a friend)",
+    "translation": "¿Por qué no lo sabes?"
+  },
+  {
+    "english": "Nobody knows where it is",
+    "translation": "Nadie sabe dónde está"
+  },
+  {
+    "english": "Nobody can find it",
+    "translation": "Nadie puede encontrarlo"
+  },
+  {
+    "english": "I knew (it)",
+    "translation": "Lo sabía",
+    "explanation": "(sabía means \"I knew\", \"he/she knew\", \"you knew\"; sabías is \"you knew\" (informal); sabían \"you knew\", \"they knew\")"
+  },
+  {
+    "english": "I didn't know (it)",
+    "translation": "No lo sabía"
+  },
+  {
+    "english": "I didn't know you were going to be here",
+    "translation": "No sabía que usted iba a estar aquí"
+  },
+  {
+    "english": "I wasn't going to tell you...",
+    "translation": "No iba a decirle..."
+  },
+  {
+    "english": "...that I was going to buy it for you",
+    "translation": "...que iba a comprarlo para usted"
+  },
+  {
+    "english": "I didn't know...",
+    "translation": "No sabía que...",
+    "explanation": "(llegar means \"to arrive\")"
+  },
+  {
+    "english": "...you were going to arrive today",
+    "translation": "...iba a llegar hoy"
+  },
+  {
+    "english": "I knew everything was going to be ready",
+    "translation": "Yo sabía que todo iba a estar listo"
+  },
+  {
+    "english": "I know that I never...",
+    "translation": "Sé que nunca...",
+    "new": true
+  },
+  {
+    "english": "...will be able to do it that way",
+    "translation": "...voy a poder / podré hacerlo así"
+  },
+  {
+    "english": "What is there?",
+    "translation": "¿Qué hay?"
+  },
+  {
+    "english": "What is there to eat?",
+    "translation": "¿Qué hay para comer?",
+    "explanation": "(¿Qué hay? can also mean \"What's up?\", \"What's the matter?\", \"What's going on?\""
+  },
+  {
+    "english": "What is there to drink?",
+    "translation": "¿Qué hay para beber?",
+    "new": true
+  },
+  {
+    "english": "Can I offer you something...",
+    "translation": "¿Puedo ofrecerle algo...",
+    "explanation": "(ofrecer means \"to offer\")",
+    "new": true
+  },
+  {
+    "english": "...to drink?",
+    "translation": "...para beber?"
+  },
+  {
+    "english": "Yes, but first I have to...",
+    "translation": "Sí, pero primero tengo que..."
+  },
+  {
+    "english": "...make a phone call",
+    "translation": "...hacer una llamada telefónica",
+    "new": true
+  },
+  {
+    "english": "...telephone",
+    "translation": "...llamar por teléfono",
+    "new": true
+  },
+  {
+    "english": "And afterwards I'm going to leave",
+    "translation": "Y después, voy a salir",
+    "new": true
+  },
+  {
+    "english": "the first time",
+    "translation": "la primera vez",
+    "new": true
+  },
+  {
+    "english": "the second time",
+    "translation": "la segunda vez",
+    "new": true
+  },
+  {
+    "english": "the third time",
+    "translation": "la tercera vez",
+    "new": true
+  },
+  {
+    "english": "the next time",
+    "translation": "la próxima vez",
+    "new": true
+  },
+  {
+    "english": "two times, twice",
+    "translation": "dos veces",
+    "new": true
+  },
+  {
+    "english": "many times",
+    "translation": "muchas veces"
+  },
+  {
+    "english": "I'm going to do it many times",
+    "translation": "Voy a hacerlo muchas veces"
+  },
+  {
+    "english": "I don't feel like doing it",
+    "translation": "No tengo ganas de hacerlo"
+  },
+  {
+    "english": "I don't feel like going there alone",
+    "translation": "No tengo ganas de ir allí solo",
+    "new": true
+  },
+  {
+    "english": "I'm going to do it",
+    "translation": "Voy a hacerlo"
+  },
+  {
+    "english": "I was going to do it",
+    "translation": "Iba a hacerlo"
+  },
+  {
+    "english": "I didn't know you were going to be here",
+    "translation": "No sabía que iba a estar aquí"
+  },
+  {
+    "english": "I didn't know you were going to be here",
+    "translation": "Yo no sabía que usted iba a estar aquí",
+    "explanation": "(If you need clarifiers, put them in! Add yo, tú, él/ella, usted where necessary)"
+  },
+  {
+    "english": "He didn't know she was going to be here",
+    "translation": "Él no sabía que ella iba a estar aquí"
+  },
+  {
+    "english": "I didn't know you were going to leave...",
+    "translation": "No sabía que iba a salir..."
+  },
+  {
+    "english": "...this afternoon",
+    "translation": "...esta tarde"
+  },
+  {
+    "english": "We are going to start...",
+    "translation": "Vamos a empezar..."
+  },
+  {
+    "english": "...soon / right away",
+    "translation": "...pronto / en seguida"
+  },
+  {
+    "english": "...immediately",
+    "translation": "...inmediatamente"
+  },
+  {
+    "english": "I'm going to wait",
+    "translation": "Voy a esperar"
+  },
+  {
+    "english": "He was going to wait",
+    "translation": "Iba a esperar"
+  },
+  {
+    "english": "He wasn't going to wait",
+    "translation": "No iba a esperar"
+  },
+  {
+    "english": "I didn't know...",
+    "translation": "No sabía..."
+  },
+  {
+    "english": "...that you were going to be here...",
+    "translation": "...que iba a estar aquí..."
+  },
+  {
+    "english": "...today / this morning",
+    "translation": "...hoy / esta mañana"
+  },
+  {
+    "english": "I didn't know...",
+    "translation": "No sabía..."
+  },
+  {
+    "english": "...that you were (all) going to be here",
+    "translation": "...que iban a estar aquí"
+  },
+  {
+    "english": "Generally / usually...",
+    "translation": "Generalmente...",
+    "new": true
+  },
+  {
+    "english": "...I don't do it that way",
+    "translation": "...no lo hago así",
+    "explanation": "(English words ending in -ly: the ending -ly in English is usually -mente in translation. \"specially\" is especialmente)"
+  },
+  {
+    "english": "Generally I don't like doing it",
+    "translation": "Generalmente no me gusta hacerlo",
+    "explanation": "(English words ending -ty: words ending in -ty usually end in -tad or -dad in translation: especialidad; libertad; oportunidad; cualidad)"
+  },
+  {
+    "english": "Generally I don't go there",
+    "translation": "Generalmente no voy allí"
+  },
+  {
+    "english": "Often",
+    "translation": "A menudo",
+    "new": true
+  },
+  {
+    "english": "Frequently",
+    "translation": "Frecuentemente",
+    "new": true
+  },
+  {
+    "english": "I almost never go there",
+    "translation": "Casi nunca voy allí",
+    "new": true
+  },
+  {
+    "english": "I have just",
+    "translation": "Acabo de...",
+    "explanation": "(acabar means \"to finish\". acabo de + Infinitive (to have just...) is an easy way of expressing the past tense!)"
+  },
+  {
+    "english": "I have just seen it",
+    "translation": "Acabo de verlo"
+  },
+  {
+    "english": "He has just left",
+    "translation": "Acaba de salir"
+  },
+  {
+    "english": "I have just arrived...",
+    "translation": "Acabo de llegar..."
+  },
+  {
+    "english": "...two days ago",
+    "translation": "...hace dos días"
+  },
+  {
+    "english": "He has just called me...",
+    "translation": "Acaba de llamarme..."
+  },
+  {
+    "english": "...ten minutes ago",
+    "translation": "...hace diez minutos"
+  },
+  {
+    "english": "She has just gone out / left",
+    "translation": "Ella acaba de salir / de irse",
+    "new": true
+  },
+  {
+    "english": "I have just told you",
+    "translation": "Acabo de decirle"
+  },
+  {
+    "english": "I have just bought it",
+    "translation": "Acabo de comprarlo"
+  },
+  {
+    "english": "I have just spoken to him",
+    "translation": "Acabo de hablar con él"
+  },
+  {
+    "english": "He has just told me",
+    "translation": "Acaba de decirme"
+  },
+  {
+    "english": "I'll come back...",
+    "translation": "Voy a volver / Volveré...",
+    "explanation": "(volver means \"to come back\", \"return\")",
+    "new": true
+  },
+  {
+    "english": "...right away / soon",
+    "translation": "...en seguida / pronto"
+  },
+  {
+    "english": "She will come back...",
+    "translation": "Va a volver / Volverá...",
+    "new": true
+  },
+  {
+    "english": "...very soon / later",
+    "translation": "...muy pronto / más tarde"
+  },
+  {
+    "english": "She has just left ten minutes ago...",
+    "translation": "Acaba de salir hace diez minutos..."
+  },
+  {
+    "english": "...and she'll come back later",
+    "translation": "...y va a volver / volverá más tarde"
+  },
+  {
+    "english": "I don't feel like going out now...",
+    "translation": "No tengo ganas de salir ahora..."
+  },
+  {
+    "english": "...because I'm very tired",
+    "translation": "...porque estoy muy cansado / cansada"
+  },
+  {
+    "english": "I would rather / I would prefer to...",
+    "translation": "Prefiero...",
+    "explanation": "(preferir means \"to prefer\"; prefiero \"I would rather...\")"
+  },
+  {
+    "english": "...stay here",
+    "translation": "quedarme aquí"
+  },
+  {
+    "english": "I have just bought a book...",
+    "translation": "Acabo de comprar un libro..."
+  },
+  {
+    "english": "...that I find very interesting",
+    "translation": "...que encuentro muy interesante"
+  },
+  {
+    "english": "I find it very interesting",
+    "translation": "Lo encuentro muy interesante"
+  },
+  {
+    "english": "I think it is very interesting",
+    "translation": "Creo que es muy interesante"
+  },
+  {
+    "english": "I have been waiting ten minutes for you",
+    "translation": "Hace diez minutos que le espero"
+  },
+  {
+    "english": "How long...",
+    "translation": "¿Cuánto tiempo hace que…",
+    "explanation": "(To say how long you have been waiting, doing something, working etc, use hace, literally \"it makes\" + que + the present tense)"
+  },
+  {
+    "english": "...have you been here in Madrid?",
+    "translation": "...está aquí en Madrid?"
+  },
+  {
+    "english": "I would like...",
+    "translation": "Quisiera / Me gustaría / Quiero..."
+  },
+  {
+    "english": "...to talk to him",
+    "translation": "...hablar con él"
+  },
+  {
+    "english": "...to see it",
+    "translation": "...verlo"
+  },
+  {
+    "english": "He isn't in / isn't there",
+    "translation": "No está allí"
+  },
+  {
+    "english": "What time will he be here?",
+    "translation": "¿A qué hora va a estar / estará aquí?"
+  },
+  {
+    "english": "Do you know what time...",
+    "translation": "¿Sabe a qué hora..."
+  },
+  {
+    "english": "...he will arrive?",
+    "translation": "...va a llegar / llegará / llega?",
+    "new": true
+  },
+  {
+    "english": "... he will come back / return?",
+    "translation": "...va a volver / volverá / vuelve?"
+  },
+  {
+    "english": "Can / Could you tell me...",
+    "translation": "Puede / podría decirme..."
+  },
+  {
+    "english": "...what time he will be here?",
+    "translation": "...a qué hora estará / va a estar aquí?"
+  },
+  {
+    "english": "to leave the key",
+    "translation": "dejar la llave",
+    "explanation": "(irse means \"to leave\", \"to go away\". dejar means this \"to leave (behind)\" and also \"to let\", ie \"to let someone do something\")",
+    "new": true
+  },
+  {
+    "english": "to leave a message",
+    "translation": "dejar un mensaje"
+  },
+  {
+    "english": "Can you let me work?",
+    "translation": "¿Puede dejarme trabajar?",
+    "new": true
+  },
+  {
+    "english": "I'd like to leave a message",
+    "translation": "Me gustaría dejar un mensaje"
+  },
+  {
+    "english": "Can I leave a message?",
+    "translation": "¿Puedo dejar un mensaje?"
+  },
+  {
+    "english": "Can I leave you a message?",
+    "translation": "¿Puedo dejarle un mensaje?",
+    "new": true
+  },
+  {
+    "english": "Can / Could you tell me...?",
+    "translation": "¿Puede / Podría decirme...?"
+  },
+  {
+    "english": "Can / Could you tell him...",
+    "translation": "¿Puede / Podría decirle..."
+  },
+  {
+    "english": "...that I'll call him later?",
+    "translation": "...que le llamaré más tarde?"
+  },
+  {
+    "english": "...that I'll call him tomorrow?",
+    "translation": "...que le llamaré mañana?"
+  },
+  {
+    "english": "...that I'll call him next week?",
+    "translation": "...que le llamaré la semana que viene?"
+  },
+  {
+    "english": "next time",
+    "translation": "la próxima vez"
+  },
+  {
+    "english": "once, twice",
+    "translation": "una vez, dos veces",
+    "explanation": "(Three words for “time”: vez as the sense of one of a number of occasions; tiempo is the general word for a period or passing of time; hora is the point of time marked on a clock)"
+  },
+  {
+    "english": "three, four, five times",
+    "translation": "tres, cuatro, cinco veces",
+    "new": true
+  },
+  {
+    "english": "six, seven, eight times",
+    "translation": "seis, siete, ocho veces",
+    "new": true
+  },
+  {
+    "english": "nine, ten times",
+    "translation": "nueve, diez veces",
+    "new": true
+  },
+  {
+    "english": "eleven, twelve, thirteen times",
+    "translation": "once, doce, trece veces",
+    "new": true
+  },
+  {
+    "english": "fourteen, fifteen times",
+    "translation": "catorce, quince veces",
+    "new": true
+  },
+  {
+    "english": "the first time",
+    "translation": "la primera vez"
+  },
+  {
+    "english": "It's the last time",
+    "translation": "Es la última vez",
+    "new": true
+  },
+  {
+    "english": "I don't know how to express it exactly...",
+    "translation": "No sé cómo expresarlo exactamente…",
+    "explanation": "(expresar means \"to express\", expresarse \"to express oneself\")",
+    "new": true
+  },
+  {
+    "english": "I don't know how to say it exactly...",
+    "translation": "No sé cómo decirlo exactamente...",
+    "explanation": "(exacto \"exact\" becomes exactamente \"exactly\". The -o- changes to -a- before adding -mente. Another example: seguro becomes seguramente)"
+  },
+  {
+    "english": "...in translation",
+    "translation": "...en español"
+  },
+  {
+    "english": "How do you say it in translation?",
+    "translation": "¿Cómo lo dice en español?"
+  },
+  {
+    "english": "How does one say it in translation?",
+    "translation": "¿Cómo se dice en español?"
+  },
+  {
+    "english": "One speaks translation; translation is spoken here",
+    "translation": "Se habla español aquí",
+    "explanation": "(Special use of se: se is frequently used to mean \"one\" or \"you\", or to say something \"is done\")"
+  },
+  {
+    "english": "I write to you",
+    "translation": "le escribo",
+    "explanation": "(escribir means \"to write\")"
+  },
+  {
+    "english": "He writes to me often",
+    "translation": "Me escribe a menudo"
+  },
+  {
+    "english": "...frequently",
+    "translation": "...frecuentemente"
+  },
+  {
+    "english": "How do you write it / spell it?",
+    "translation": "¿Cómo se escribe?"
+  },
+  {
+    "english": "Can you write it down?",
+    "translation": "¿Puede escribirlo?",
+    "new": true
+  },
+  {
+    "english": "Write it down, please",
+    "translation": "Escríbalo, por favor",
+    "new": true
+  },
+  {
+    "english": "One can / It is possible / allowed...",
+    "translation": "Se puede..."
+  },
+  {
+    "english": "Can one come in?",
+    "translation": "¿Se puede entrar aquí?",
+    "new": true
+  },
+  {
+    "english": "Can one do it?",
+    "translation": "¿Se puede hacerlo?"
+  },
+  {
+    "english": "Can one pass / come in?",
+    "translation": "¿Se puede pasar?"
+  },
+  {
+    "english": "Where can one find it?",
+    "translation": "¿Dónde se puede encontrarlo?"
+  },
+  {
+    "english": "Are you sure about this?",
+    "translation": "¿Está seguro de esto?"
+  },
+  {
+    "english": "absolutely, totally",
+    "translation": "absolutamente / totalmente",
+    "new": true
+  },
+  {
+    "english": "Yes, I'm absolutely sure",
+    "translation": "Sí, estoy absolutamente seguro"
+  },
+  {
+    "english": "I know because...",
+    "translation": "Lo sé porque...",
+    "explanation": "(Note that you say seguro if you are a man, segura if you are a woman)"
+  },
+  {
+    "english": "...I've just read it...",
+    "translation": "...acabo de leerlo...",
+    "new": true
+  },
+  {
+    "english": "...in the newspaper",
+    "translation": "...en el periódico",
+    "new": true
+  },
+  {
+    "english": "...in today's newspaper",
+    "translation": "...en el periódico de hoy"
+  },
+  {
+    "english": "Can / Could you tell me where...",
+    "translation": "¿Puede / Podría decirme dónde..."
+  },
+  {
+    "english": "...I can find a good restaurant?",
+    "translation": "...puedo encontrar un buen restaurante?",
+    "new": true
+  },
+  {
+    "english": "not very far from here",
+    "translation": "no muy lejos de aquí",
+    "new": true
+  },
+  {
+    "english": "It's very far, a long way",
+    "translation": "Está muy lejos"
+  },
+  {
+    "english": "Is it far from here?",
+    "translation": "¿Está lejos de aqui?",
+    "new": true
+  },
+  {
+    "english": "No, it's not far from here",
+    "translation": "No, no está lejos de aquí"
+  },
+  {
+    "english": "It's near here",
+    "translation": "Está cerca de aquí",
+    "new": true
+  },
+  {
+    "english": "You can walk",
+    "translation": "Puede ir a pie",
+    "new": true
+  },
+  {
+    "english": "Can I walk?",
+    "translation": "¿Puedo ir a pie?"
+  },
+  {
+    "english": "One can walk",
+    "translation": "Se puede ir a pie"
+  },
+  {
+    "english": "I need a car",
+    "translation": "Necesito un coche",
+    "new": true
+  },
+  {
+    "english": "...to go to the restaurant",
+    "translation": "...para ir al restaurante",
+    "explanation": "(In Spain a car is un coche, but in Mexico it's un carro)"
+  },
+  {
+    "english": "I'd like to hire a car",
+    "translation": "Quisiera alquilar un coche",
+    "explanation": "(\"to rent a car\" in Spain is alquilar un coche but in Mexico it's rentar un carro)",
+    "new": true
+  },
+  {
+    "english": "Where can I hire a car?",
+    "translation": "¿Dónde puedo alquilar un coche?"
+  },
+  {
+    "english": "How much is it per day?",
+    "translation": "¿Cuánto es por día?",
+    "new": true
+  },
+  {
+    "english": "How much does it cost...",
+    "translation": "¿Cuánto cuesta..."
+  },
+  {
+    "english": "...per week?",
+    "translation": "...por semana?"
+  },
+  {
+    "english": "...per month?",
+    "translation": "...por mes?"
+  },
+  {
+    "english": "Can you / Could you tell me...",
+    "translation": "¿Puede / Podría decirme...",
+    "explanation": "(¿dónde? asks where someone or something is, ¿a dónde? asks where someone is going. ¿Dónde está? but ¿A dónde va?)"
+  },
+  {
+    "english": "...where to go...",
+    "translation": "...a dónde ir..."
+  },
+  {
+    "english": "...to find what I want?",
+    "translation": "...para encontrar lo que quiero?"
+  },
+  {
+    "english": "...to find what I'm looking for?",
+    "translation": "...para encontrar lo que busco?"
+  },
+  {
+    "english": "I would like to know...",
+    "translation": "Me gustaría / Quisiera saber..."
+  },
+  {
+    "english": "...what I have to do...",
+    "translation": "...lo que tengo que hacer..."
+  },
+  {
+    "english": "...to get what I want",
+    "translation": "...para obtener lo que quiero",
+    "new": true
+  },
+  {
+    "english": "...to get what I'm looking for",
+    "translation": "...para obtener lo que busco"
+  },
+  {
+    "english": "I want to know...",
+    "translation": "Quiero saber...",
+    "explanation": "(hay que means \"one has to\")"
+  },
+  {
+    "english": "...what one has to do...",
+    "translation": "...lo que hay que hacer..."
+  },
+  {
+    "english": "...in order to obtain it",
+    "translation": "...para obtenerlo",
+    "new": true
+  },
+  {
+    "english": "I would like to know...",
+    "translation": "Me gustaría saber..."
+  },
+  {
+    "english": "...where one has to go...",
+    "translation": "...a dónde hay que ir..."
+  },
+  {
+    "english": "...to have it / to find it",
+    "translation": "...para obtenerlo / encontrarlo"
+  },
+  {
+    "english": "...to buy it",
+    "translation": "...para comprarlo"
+  },
+  {
+    "english": "Can you give me an explanation?",
+    "translation": "¿Puede darme una explicación?",
+    "new": true
+  },
+  {
+    "english": "Can you tell me where it is?",
+    "translation": "¿Puede explicarme dónde está?",
+    "explanation": "(explicar means \"to explain\"; una explicación is \"an explanation\". This is an exception to the rule that most English words ending in -ation are identical in translation, with the ending -ación. However, remember that most do obey this rule: información, preparación, reservación etc. It's also worth noting that the verbs associated with these nouns are all -ar verbs: informar, preparar, reservar)",
+    "new": true
+  },
+  {
+    "english": "Thank you",
+    "translation": "Gracias"
+  },
+  {
+    "english": "I thank you very much",
+    "translation": "Le agradezco mucho",
+    "new": true
+  },
+  {
+    "english": "I really do thank you very much",
+    "translation": "Realmente le agradezco mucho",
+    "new": true
+  },
+  {
+    "english": "I am angry, annoyed",
+    "translation": "Estoy enojado / enojada",
+    "new": true
+  },
+  {
+    "english": "I'm very angry, annoyed",
+    "translation": "Estoy muy enojado / enojada"
+  },
+  {
+    "english": "I'm furious",
+    "translation": "Estoy furioso / furiosa",
+    "explanation": "(In Spain you'll often hear: Estoy enfadado / enfadada, which also means \"I'm annoyed, angry\")",
+    "new": true
+  },
+  {
+    "english": "I'm worried (lit. it preoccupies me)",
+    "translation": "Me preocupa",
+    "new": true
+  },
+  {
+    "english": "I'm very worried",
+    "translation": "Me preocupa mucho"
+  },
+  {
+    "english": "I'm worried about seeing this",
+    "translation": "Me preocupa ver esto"
+  },
+  {
+    "english": "I'm not worried",
+    "translation": "No me preocupa"
+  },
+  {
+    "english": "I'm bored",
+    "translation": "Estoy aburrido / aburrida",
+    "new": true
+  },
+  {
+    "english": "I'm very bored",
+    "translation": "Estoy muy aburrido"
+  },
+  {
+    "english": "Are you bored?",
+    "translation": "¿Está aburrido?"
+  },
+  {
+    "english": "I don't like being bored",
+    "translation": "No me gusta estar aburrido"
+  },
+  {
+    "english": "I think...",
+    "translation": "Creo que... / Me parece que..."
+  },
+  {
+    "english": "...everything is all right",
+    "translation": "...todo está bien"
+  },
+  {
+    "english": "I'm going to see it once",
+    "translation": "Voy a verlo una vez"
+  },
+  {
+    "english": "I'm going to go and see it",
+    "translation": "Voy a ir a verlo"
+  },
+  {
+    "english": "I don't see it often",
+    "translation": "No lo veo a menudo"
+  },
+  {
+    "english": "At least...",
+    "translation": "Por lo menos..."
+  },
+  {
+    "english": "...I'll see it once",
+    "translation": "...lo veré / voy a verlo una vez",
+    "explanation": "(menos means \"less\"; más o menos means \"more or less\")",
+    "new": true
+  },
+  {
+    "english": "Can you come...",
+    "translation": "¿Puede / puedes / pueden venir...",
+    "explanation": "(temprano means \"early\")"
+  },
+  {
+    "english": "...a little earlier?",
+    "translation": "...un poco más temprano?",
+    "new": true
+  },
+  {
+    "english": "It's very full",
+    "translation": "Está muy lleno",
+    "explanation": "(lleno means \"full\"; llenar is \"to fill up\")",
+    "new": true
+  },
+  {
+    "english": "Can you fill it up?",
+    "translation": "¿Puede llenarlo?",
+    "new": true
+  },
+  {
+    "english": "It's not very clean",
+    "translation": "No está muy limpio",
+    "explanation": "(limpio is \"clean\"; sucio is \"dirty\")",
+    "new": true
+  },
+  {
+    "english": "It's dirty",
+    "translation": "Está sucio",
+    "new": true
+  },
+  {
+    "english": "It's perfect",
+    "translation": "Es perfecto",
+    "new": true
+  },
+  {
+    "english": "Perfectly",
+    "translation": "Perfectamente",
+    "new": true
+  },
+  {
+    "english": "I don't like the heat",
+    "translation": "No me gusta el calor",
+    "explanation": "(calor is it \"heat\"; frío is \"cold\". For hot weather you say hace calor, literally \"it makes heat\". But a hot person says tengo calor, literally \"I have heat\")",
+    "new": true
+  },
+  {
+    "english": "It's hot / cold (weather)",
+    "translation": "Hace calor / frío hoy",
+    "new": true
+  },
+  {
+    "english": "I'm hot / cold",
+    "translation": "Tengo calor / frío"
+  },
+  {
+    "english": "Are you cold?",
+    "translation": "¿Tiene frío?"
+  },
+  {
+    "english": "I can't stand the heat",
+    "translation": "No puedo soportar el calor",
+    "new": true
+  },
+  {
+    "english": "I'm hungry",
+    "translation": "Tengo hambre",
+    "explanation": "(hambre is \"hunger\", sed is \"thirst\")"
+  },
+  {
+    "english": "I have to eat something...",
+    "translation": "Tengo que comer algo..."
+  },
+  {
+    "english": "...because I'm hungry",
+    "translation": "...porque tengo hambre"
+  },
+  {
+    "english": "I'm thirsty",
+    "translation": "Tengo sed",
+    "new": true
+  },
+  {
+    "english": "I have to drink something...",
+    "translation": "Tengo que beber algo..."
+  },
+  {
+    "english": "...because I'm thirsty",
+    "translation": "...porque tengo sed"
+  },
+  {
+    "english": "I think I can do it...",
+    "translation": "Pienso / Creo que puedo hacerlo"
+  },
+  {
+    "english": "...myself",
+    "translation": "...yo mismo"
+  },
+  {
+    "english": "I want the same",
+    "translation": "Quiero lo mismo",
+    "explanation": "(mismo means \"self\" and also \"same\"; la misma cosa is \"the same thing\"; lo mismo is \"the same\")"
+  },
+  {
+    "english": "I'm going to take / have the same",
+    "translation": "Voy a tomar lo mismo"
+  },
+  {
+    "english": "It's not the same",
+    "translation": "No es lo mismo"
+  },
+  {
+    "english": "I'm (very) surprised",
+    "translation": "Estoy (muy) sorprendido",
+    "new": true
+  },
+  {
+    "english": "It surprises me",
+    "translation": "Me sorprende",
+    "new": true
+  },
+  {
+    "english": "It doesn't surprise me",
+    "translation": "No me sorprende"
+  },
+  {
+    "english": "This / That doesn't surprise me",
+    "translation": "Esto / Eso no me sorprende"
+  },
+  {
+    "english": "Can / Will you bring me something?",
+    "translation": "¿Puede traerme algo?",
+    "explanation": "(traer means \"to bring\"; dar \"to give\"; mostrar \"to show\")",
+    "new": true
+  },
+  {
+    "english": "Can you give me something?",
+    "translation": "¿Puede darme algo?"
+  },
+  {
+    "english": "Can you show me something?",
+    "translation": "¿Puede mostrarme algo?"
+  },
+  {
+    "english": "Can you show it to me?",
+    "translation": "¿Puede mostrármelo?",
+    "new": true
+  },
+  {
+    "english": "Can you bring it to me?",
+    "translation": "¿Puede traérmelo?",
+    "explanation": "(Note that the personal me \"me\" comes before the object lo \"it\" and that they are joined together at the end of the infinitive)",
+    "new": true
+  },
+  {
+    "english": "When can you bring it to me...?",
+    "translation": "¿Cuándo puede traérmelo...?"
+  },
+  {
+    "english": "...because I need it and...",
+    "translation": "...porque lo necesito y..."
+  },
+  {
+    "english": "...I have to have it",
+    "translation": "...tengo que tenerlo"
+  },
+  {
+    "english": "Where do you live?",
+    "translation": "¿Dónde vive / vives / viven?",
+    "explanation": "(vivir is \"to live\")",
+    "new": true
+  },
+  {
+    "english": "Do you live here?",
+    "translation": "¿Usted vive aquí?"
+  },
+  {
+    "english": "He knows where it is",
+    "translation": "Sabe donde está",
+    "explanation": "(saber is \"to know\" in the sense of knowing a fact or some general knowledge. conocer is \"to know\" in the sense of being acquainted with somebody or something)"
+  },
+  {
+    "english": "I know...",
+    "translation": "Conozco...",
+    "new": true
+  },
+  {
+    "english": "...the city / the country",
+    "translation": "...la ciudad / el país",
+    "new": true
+  },
+  {
+    "english": "I'm going to call / phone him",
+    "translation": "Voy a llamarle",
+    "explanation": "(Personal a: conocer a... is used for \"to know a person\". Whenever the object of a verb is a person, not a thing, you always insert a between the verb and the person)"
+  },
+  {
+    "english": "I'm going to call / phone my friend",
+    "translation": "Voy a llamar a mi amigo"
+  },
+  {
+    "english": "He wants it",
+    "translation": "Lo quiere",
+    "explanation": "(querer means \"to want\" and also \"to love\")"
+  },
+  {
+    "english": "He loves his girlfriend",
+    "translation": "Él quiere a su amiga",
+    "new": true
+  },
+  {
+    "english": "I know the city",
+    "translation": "Conozco la ciudad"
+  },
+  {
+    "english": "I know this lady",
+    "translation": "Conozco a esta señora",
+    "new": true
+  },
+  {
+    "english": "I don't know Madrid",
+    "translation": "No conozco Madrid"
+  },
+  {
+    "english": "I don't know anybody",
+    "translation": "No conozco a nadie"
+  },
+  {
+    "english": "Do you know this city?",
+    "translation": "¿Conoce esta ciudad?"
+  },
+  {
+    "english": "Do you know this lady?",
+    "translation": "¿Conoce a esta señora?"
+  },
+  {
+    "english": "Do you know where it is?",
+    "translation": "¿Sabe dónde está?"
+  },
+  {
+    "english": "My friend comes here...",
+    "translation": "Mi amigo viene aquí..."
+  },
+  {
+    "english": "...every day",
+    "translation": "...todos los días"
+  },
+  {
+    "english": "He usually comes here",
+    "translation": "Suele venir aquí",
+    "new": true
+  },
+  {
+    "english": "He usually does it...",
+    "translation": "Suele hacerlo..."
+  },
+  {
+    "english": "...almost every day",
+    "translation": "...casi todos los días"
+  },
+  {
+    "english": "Perhaps you don't like...",
+    "translation": "Quizás no le gusta...",
+    "explanation": "(quizás, quizá means \"perhaps\", \"maybe\")"
+  },
+  {
+    "english": "Perhaps you wouldn't like...",
+    "translation": "Quizá no le gustaría...",
+    "new": true
+  },
+  {
+    "english": "...to stay here...",
+    "translation": "...quedarse aquí..."
+  },
+  {
+    "english": "...because there are many people",
+    "translation": "...porque hay mucha gente"
+  },
+  {
+    "english": "There are so many people here",
+    "translation": "Hay tanta gente aquí",
+    "explanation": "(la gente is \"people\", tanto / tanta means \"so much\", \"so many\")",
+    "new": true
+  },
+  {
+    "english": "For my part...",
+    "translation": "Por mi parte...",
+    "new": true
+  },
+  {
+    "english": "...I'm not going to stay here now",
+    "translation": "...no voy a quedarme aquí ahora"
+  },
+  {
+    "english": "There's a lot of noise",
+    "translation": "Hay mucho ruido",
+    "new": true
+  },
+  {
+    "english": "There were many people here yesterday",
+    "translation": "Había mucha gente aquí ayer",
+    "explanation": "(hay is \"there is\", \"there are\"; habla \"there was\", \"there were\"; habrá \"there will be\")"
+  },
+  {
+    "english": "There will be many people",
+    "translation": "Habrá mucha gente",
+    "new": true
+  },
+  {
+    "english": "There was too much noise",
+    "translation": "Había demasiado ruido"
+  },
+  {
+    "english": "There will be a lot of noise",
+    "translation": "Habrá mucho ruido"
+  },
+  {
+    "english": "There will be much more noise...",
+    "translation": "Habrá mucho más ruido..."
+  },
+  {
+    "english": "There will be much less noise...",
+    "translation": "Habrá mucho menos ruido..."
+  },
+  {
+    "english": "...here tomorrow",
+    "translation": "...aquí mañana"
+  },
+  {
+    "english": "I hope to have...",
+    "translation": "Espero tener..."
+  },
+  {
+    "english": "I hope I'll have...",
+    "translation": "Espero que voy a tener..."
+  },
+  {
+    "english": "...the opportunity...",
+    "translation": "...la oportunidad / la ocasión...",
+    "new": true
+  },
+  {
+    "english": "...of seeing it",
+    "translation": "...de verlo"
+  },
+  {
+    "english": "I hope to have the opportunity...",
+    "translation": "Espero tener la ocasión..."
+  },
+  {
+    "english": "...to see my friends",
+    "translation": "...de ver a mis amigos",
+    "new": true
+  },
+  {
+    "english": "...to visit my friends",
+    "translation": "...de visitar a mis amigos",
+    "new": true
+  },
+  {
+    "english": "I'm going to phone my friend...",
+    "translation": "Voy a llamar a mi amigo...",
+    "explanation": "(Note the use of the personal a again)"
+  },
+  {
+    "english": "...to find out if he can come...",
+    "translation": "...para saber si puede venir..."
+  },
+  {
+    "english": "...with us",
+    "translation": "...con nosotros"
+  },
+  {
+    "english": "What time shall we meet tomorrow?",
+    "translation": "¿A qué hora nos vemos mañana?",
+    "explanation": "(vemos means \"we see\"; nos vemos \"we see each other\", \"we meet\")"
+  },
+  {
+    "english": "At the same time",
+    "translation": "A la misma hora",
+    "new": true
+  },
+  {
+    "english": "At ten o'clock",
+    "translation": "A las diez",
+    "new": true
+  },
+  {
+    "english": "We will meet...",
+    "translation": "Vamos a vernos / nos veremos..."
+  },
+  {
+    "english": "We'll meet...",
+    "translation": "Nos vemos..."
+  },
+  {
+    "english": "...tomorrow at the same time",
+    "translation": "...mañana a la misma hora"
+  },
+  {
+    "english": "Now I can make myself understood...",
+    "translation": "Ahora puedo hacerme entender…",
+    "new": true
+  },
+  {
+    "english": "...in translation",
+    "translation": "...en español"
+  },
+  {
+    "english": "I think that's enough",
+    "translation": "Me parece que es suficiente",
+    "new": true
+  },
+  {
+    "english": "Good luck!",
+    "translation": "¡Buena suerte!",
+    "new": true
+  },
+  {
+    "english": "I wish you good luck",
+    "translation": "Le deseo buena suerte",
+    "new": true
+  },
+  {
+    "english": "Goodbye, until soon / until later",
+    "translation": "Adiós, hasta luego",
+    "new": true
+  },
+  {
+    "english": "Have a good journey!",
+    "translation": "¡Buen viaje!",
+    "new": true
+  }
+]

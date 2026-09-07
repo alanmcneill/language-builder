@@ -1,0 +1,3813 @@
+[
+  {
+    "english": "to buy",
+    "translation": "comprar"
+  },
+  {
+    "english": "I am buying it",
+    "translation": "lo compro"
+  },
+  {
+    "english": "I don't buy it because it is very expensive",
+    "translation": "no lo compro porque es muy caro"
+  },
+  {
+    "english": "why don't you buy it?",
+    "translation": "¿por qué no lo compra?"
+  },
+  {
+    "english": "why aren't you buying it?",
+    "translation": "¿por qué no lo compra?"
+  },
+  {
+    "english": "to understand",
+    "translation": "comprender, entender"
+  },
+  {
+    "english": "I understand",
+    "translation": "comprendo"
+  },
+  {
+    "english": "I understand it",
+    "translation": "lo entiendo"
+  },
+  {
+    "english": "you understand",
+    "translation": "comprende, entiende",
+    "new": true
+  },
+  {
+    "english": "why don't you understand me?",
+    "translation": "¿por qué no me entiende?"
+  },
+  {
+    "english": "why don't you understand me? (friend)",
+    "translation": "¿por qué no me entiendes?"
+  },
+  {
+    "english": "why don't you understand me? (plural)",
+    "translation": "¿por qué no me entienden?",
+    "new": true
+  },
+  {
+    "english": "they don't understand me",
+    "translation": "no me entienden"
+  },
+  {
+    "english": "he is preparing it for me",
+    "translation": "lo prepara para mí",
+    "new": true
+  },
+  {
+    "english": "he is right now preparing it for me",
+    "translation": "está preparándolo, lo está preparando",
+    "new": true
+  },
+  {
+    "english": "why don't you do it?",
+    "translation": "¿por qué no lo hace?"
+  },
+  {
+    "english": "why aren't you doing it? (friend)",
+    "translation": "¿por qué no lo haces?"
+  },
+  {
+    "english": "why don't you do it? (plural)",
+    "translation": "¿por qué no lo hacen?"
+  },
+  {
+    "english": "he is right now in the process of doing it",
+    "translation": "está haciéndolo, lo está haciendo",
+    "new": true
+  },
+  {
+    "english": "he is leaving right now",
+    "translation": "está saliendo"
+  },
+  {
+    "english": "he is leaving tomorrow",
+    "translation": "está saliendo mañana"
+  },
+  {
+    "english": "I don't understand what you are saying",
+    "translation": "no comprendo lo que dice"
+  },
+  {
+    "english": "to say, to tell",
+    "translation": "decir"
+  },
+  {
+    "english": "they are telling me",
+    "translation": "me dicen",
+    "new": true
+  },
+  {
+    "english": "you are telling me",
+    "translation": "me dice"
+  },
+  {
+    "english": "why don't you tell me? (plural)",
+    "translation": "¿por qué no me dicen?"
+  },
+  {
+    "english": "why don't you tell me? (friend)",
+    "translation": "¿por qué no me dices?",
+    "new": true
+  },
+  {
+    "english": "we are telling you",
+    "translation": "le decimos"
+  },
+  {
+    "english": "to understand",
+    "translation": "entender, comprender"
+  },
+  {
+    "english": "why don't you understand me?",
+    "translation": "¿por qué no me comprende?"
+  },
+  {
+    "english": "why don't you understand me?",
+    "translation": "¿por qué no me entiende?"
+  },
+  {
+    "english": "to start, to commence",
+    "translation": "empezar, comencar"
+  },
+  {
+    "english": "why don't you start?",
+    "translation": "¿por qué no empieza?"
+  },
+  {
+    "english": "why don't you start? (plural)",
+    "translation": "¿por qué no empiezan?",
+    "new": true
+  },
+  {
+    "english": "I am starting now",
+    "translation": "empiezo ahora"
+  },
+  {
+    "english": "why don't you start? (friend)",
+    "translation": "¿por qué no comiencas?"
+  },
+  {
+    "english": "why don't you start? (friend)",
+    "translation": "¿por qué no empiezas?",
+    "new": true
+  },
+  {
+    "english": "to buy",
+    "translation": "comprar"
+  },
+  {
+    "english": "I don't buy it",
+    "translation": "no lo compro"
+  },
+  {
+    "english": "why don't you buy it? (friend)",
+    "translation": "¿por qué no lo compras?",
+    "new": true
+  },
+  {
+    "english": "why don't you buy it? (plural)",
+    "translation": "¿por qué no lo compran?"
+  },
+  {
+    "english": "we are buying it",
+    "translation": "lo compramos"
+  },
+  {
+    "english": "you are not buying the house, he is not buying the house",
+    "translation": "no compra la casa"
+  },
+  {
+    "english": "buy the house!",
+    "translation": "¡compre la casa!"
+  },
+  {
+    "english": "don't buy it!",
+    "translation": "¡no lo compre!"
+  },
+  {
+    "english": "don't buy it! (friend)",
+    "translation": "¡no lo compres!"
+  },
+  {
+    "english": "don't buy it! (plural)",
+    "translation": "¡no lo compren!"
+  },
+  {
+    "english": "buy it!",
+    "translation": "¡comprelo!"
+  },
+  {
+    "english": "don't buy it!",
+    "translation": "¡no lo compre!"
+  },
+  {
+    "english": "buy it! (plural)",
+    "translation": "¡comprenlo!"
+  },
+  {
+    "english": "don't buy them! (plural)",
+    "translation": "¡no los compren!"
+  },
+  {
+    "english": "don't buy them! (friend)",
+    "translation": "¡no los compres!"
+  },
+  {
+    "english": "buy it! (friend)",
+    "translation": "¡compralo!",
+    "explanation": "(for a positive command, talking to a friend, you don't switch tracks and you drop the -s)",
+    "new": true
+  },
+  {
+    "english": "to call",
+    "translation": "llamar"
+  },
+  {
+    "english": "I am calling you",
+    "translation": "le llamo"
+  },
+  {
+    "english": "I am calling you (friend)",
+    "translation": "te llamo"
+  },
+  {
+    "english": "he is calling me",
+    "translation": "me llama",
+    "new": true
+  },
+  {
+    "english": "why don't you call me? (friend)",
+    "translation": "¿por qué no me llamas?",
+    "new": true
+  },
+  {
+    "english": "why don't you call me? (plural)",
+    "translation": "¿por qué no me llaman?",
+    "new": true
+  },
+  {
+    "english": "we are calling you",
+    "translation": "le llamamos",
+    "new": true
+  },
+  {
+    "english": "we are calling you (friend)",
+    "translation": "te llamamos"
+  },
+  {
+    "english": "call me tomorrow!",
+    "translation": "¡llameme mañana!"
+  },
+  {
+    "english": "don't call me today!",
+    "translation": "¡no me llame hoy!",
+    "new": true
+  },
+  {
+    "english": "don't call me today! (friend)",
+    "translation": "¡no me llames hoy!",
+    "new": true
+  },
+  {
+    "english": "call me! (friend)",
+    "translation": "¡llamame!"
+  },
+  {
+    "english": "call me!",
+    "translation": "¡llameme!"
+  },
+  {
+    "english": "to have",
+    "translation": "tener"
+  },
+  {
+    "english": "you have",
+    "translation": "tiene"
+  },
+  {
+    "english": "why don't you have it for me?",
+    "translation": "¿por qué no lo tiene para mí?"
+  },
+  {
+    "english": "we don't have it",
+    "translation": "no lo tenemos"
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I have it",
+    "translation": "lo tengo"
+  },
+  {
+    "english": "I don't have it",
+    "translation": "no lo tengo"
+  },
+  {
+    "english": "I have to see it",
+    "translation": "tengo que verlo"
+  },
+  {
+    "english": "to say, to tell",
+    "translation": "decir"
+  },
+  {
+    "english": "you say, you tell",
+    "translation": "dice"
+  },
+  {
+    "english": "I tell",
+    "translation": "digo"
+  },
+  {
+    "english": "I am telling you",
+    "translation": "le digo"
+  },
+  {
+    "english": "I am telling you (friend)",
+    "translation": "te digo"
+  },
+  {
+    "english": "why don't you tell me? (friend)",
+    "translation": "¿por qué no me dices?"
+  },
+  {
+    "english": "why don't you tell me? (plural)",
+    "translation": "¿por qué no me dicen?"
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I am telling, I am saying",
+    "translation": "digo"
+  },
+  {
+    "english": "to have",
+    "translation": "tener"
+  },
+  {
+    "english": "to come",
+    "translation": "venir"
+  },
+  {
+    "english": "he is coming with us",
+    "translation": "viene con nosotros"
+  },
+  {
+    "english": "we are coming",
+    "translation": "venimos"
+  },
+  {
+    "english": "I am coming",
+    "translation": "vengo"
+  },
+  {
+    "english": "to do, to make",
+    "translation": "hacer"
+  },
+  {
+    "english": "what are you doing?",
+    "translation": "¿qué hace?"
+  },
+  {
+    "english": "to know",
+    "translation": "saber"
+  },
+  {
+    "english": "do you know it?",
+    "translation": "¿lo sabe?"
+  },
+  {
+    "english": "do you know it? (friend)",
+    "translation": "¿lo sabes?",
+    "new": true
+  },
+  {
+    "english": "why don't you know it? (plural)",
+    "translation": "¿por qué no lo saben?",
+    "new": true
+  },
+  {
+    "english": "we know it",
+    "translation": "lo sabemos",
+    "new": true
+  },
+  {
+    "english": "I know it",
+    "translation": "lo sé"
+  },
+  {
+    "english": "I don't know it",
+    "translation": "no lo sé"
+  },
+  {
+    "english": "to know (general knowledge)",
+    "translation": "saber"
+  },
+  {
+    "english": "to know, be acquainted with (somebody, somewhere)",
+    "translation": "conocer",
+    "new": true
+  },
+  {
+    "english": "I know",
+    "translation": "conosco",
+    "new": true
+  },
+  {
+    "english": "I don't know him",
+    "translation": "no lo conosco"
+  },
+  {
+    "english": "I don't know her",
+    "translation": "no la conosco"
+  },
+  {
+    "english": "do you know Pedro?",
+    "translation": "¿conoce a Pedro?",
+    "new": true
+  },
+  {
+    "english": "do you know my friend?",
+    "translation": "¿conoce a mi amigo?",
+    "new": true
+  },
+  {
+    "english": "do you know Madrid?",
+    "translation": "¿conoce Madrid?"
+  },
+  {
+    "english": "I don't know him",
+    "translation": "no lo conosco"
+  },
+  {
+    "english": "I don't know it",
+    "translation": "no lo sé"
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I am saying, I am telling",
+    "translation": "digo"
+  },
+  {
+    "english": "I am doing, I am making",
+    "translation": "hago"
+  },
+  {
+    "english": "I am doing it",
+    "translation": "lo hago"
+  },
+  {
+    "english": "I have it",
+    "translation": "lo tengo"
+  },
+  {
+    "english": "I am telling you (friend)",
+    "translation": "te digo"
+  },
+  {
+    "english": "I am coming",
+    "translation": "vengo"
+  },
+  {
+    "english": "to leave",
+    "translation": "salir"
+  },
+  {
+    "english": "I am leaving",
+    "translation": "salgo"
+  },
+  {
+    "english": "I am leaving tomorrow",
+    "translation": "salgo mañana"
+  },
+  {
+    "english": "at what time are you leaving?",
+    "translation": "¿a qué hora sale?"
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I come",
+    "translation": "vengo"
+  },
+  {
+    "english": "I am doing",
+    "translation": "hago"
+  },
+  {
+    "english": "I am telling",
+    "translation": "digo"
+  },
+  {
+    "english": "I am leaving",
+    "translation": "salgo"
+  },
+  {
+    "english": "to put",
+    "translation": "poner"
+  },
+  {
+    "english": "I am putting",
+    "translation": "pongo"
+  },
+  {
+    "english": "I am putting it here",
+    "translation": "lo pongo aquí"
+  },
+  {
+    "english": "where are you putting it?",
+    "translation": "¿dónde lo pone?"
+  },
+  {
+    "english": "why don't you put it here? (friend)",
+    "translation": "¿por qué no lo pones aquí?"
+  },
+  {
+    "english": "to compose",
+    "translation": "componer"
+  },
+  {
+    "english": "to oppose",
+    "translation": "oponer"
+  },
+  {
+    "english": "to suppose",
+    "translation": "suponer"
+  },
+  {
+    "english": "I suppose",
+    "translation": "supongo"
+  },
+  {
+    "english": "to bring",
+    "translation": "traer"
+  },
+  {
+    "english": "I am bringing it",
+    "translation": "lo traigo"
+  },
+  {
+    "english": "to hear",
+    "translation": "oír",
+    "new": true
+  },
+  {
+    "english": "I hear",
+    "translation": "oigo",
+    "new": true
+  },
+  {
+    "english": "come with me!",
+    "translation": "¡venga conmigo!"
+  },
+  {
+    "english": "don't leave!",
+    "translation": "¡no salga!"
+  },
+  {
+    "english": "don't leave! (friend)",
+    "translation": "¡no salgas!"
+  },
+  {
+    "english": "don't leave! (plural)",
+    "translation": "¡no salgan!"
+  },
+  {
+    "english": "tell me!",
+    "translation": "¡digame!"
+  },
+  {
+    "english": "don't tell me!",
+    "translation": "¡no me diga!"
+  },
+  {
+    "english": "tell it to me!",
+    "translation": "¡dígamelo!",
+    "new": true
+  },
+  {
+    "english": "don't tell it to me!",
+    "translation": "¡no me lo diga!"
+  },
+  {
+    "english": "tell it to him!",
+    "translation": "¡dígaselo!",
+    "new": true
+  },
+  {
+    "english": "tell it to her!",
+    "translation": "¡dígaselo!"
+  },
+  {
+    "english": "tell it to them!",
+    "translation": "¡dígaselo!"
+  },
+  {
+    "english": "don't tell it to him, tell it to me!",
+    "translation": "¡no se lo diga, digamelo!",
+    "new": true
+  },
+  {
+    "english": "don't do it!",
+    "translation": "¡no lo haga!"
+  },
+  {
+    "english": "don't do it!",
+    "translation": "¡no lo haga!"
+  },
+  {
+    "english": "don't do it! (friend)",
+    "translation": "¡no lo hagas!",
+    "new": true
+  },
+  {
+    "english": "don't do it! (plural)",
+    "translation": "¡no lo hagan!",
+    "new": true
+  },
+  {
+    "english": "do it! (plural)",
+    "translation": "¡hagalo!"
+  },
+  {
+    "english": "to put",
+    "translation": "poner"
+  },
+  {
+    "english": "I am putting it here",
+    "translation": "lo pongo aquí"
+  },
+  {
+    "english": "I want to do it",
+    "translation": "quiero hacerlo"
+  },
+  {
+    "english": "I can do it",
+    "translation": "puedo hacerlo"
+  },
+  {
+    "english": "I cannot do it",
+    "translation": "no lo puedo hacer"
+  },
+  {
+    "english": "I am right now in the process of doing it",
+    "translation": "estoy haciéndolo, lo estoy haciendo"
+  },
+  {
+    "english": "do it!",
+    "translation": "¡hágalo!",
+    "new": true
+  },
+  {
+    "english": "don't do it!",
+    "translation": "¡no lo haga!"
+  },
+  {
+    "english": "I am not doing it",
+    "translation": "no lo hago"
+  },
+  {
+    "english": "why don't you do it?",
+    "translation": "¿por qué no lo hace?"
+  },
+  {
+    "english": "why don't you do it? (friend)",
+    "translation": "¿por qué no lo haces?"
+  },
+  {
+    "english": "why don't you do it? (plural)",
+    "translation": "¿por qué no lo hacen?"
+  },
+  {
+    "english": "do it! (plural)",
+    "translation": "¡hágalo!"
+  },
+  {
+    "english": "don't do it now! (plural)",
+    "translation": "¡no lo hagan ahora!"
+  },
+  {
+    "english": "put it here!",
+    "translation": "¡póngalo aquí!",
+    "new": true
+  },
+  {
+    "english": "don't put it there!",
+    "translation": "¡no lo ponga allí!"
+  },
+  {
+    "english": "bring it!",
+    "translation": "¡tráigalo!",
+    "new": true
+  },
+  {
+    "english": "bring me something!",
+    "translation": "¡tráigame algo!",
+    "new": true
+  },
+  {
+    "english": "bring it to me!",
+    "translation": "¡tráigamelo!",
+    "new": true
+  },
+  {
+    "english": "don't bring it to me today because I don't need it today",
+    "translation": "no me lo traiga hoy porque no lo necesito hoy",
+    "new": true
+  },
+  {
+    "english": "I hear it",
+    "translation": "lo oigo"
+  },
+  {
+    "english": "hear it!",
+    "translation": "¡óigalo!",
+    "new": true
+  },
+  {
+    "english": "tell it to me, don't tell it to him!",
+    "translation": "¡dígamelo, no se lo diga!"
+  },
+  {
+    "english": "tell it to him!",
+    "translation": "¡digaselo!",
+    "new": true
+  },
+  {
+    "english": "but don't tell it to him today!",
+    "translation": "¡pero no se lo diga hoy!"
+  },
+  {
+    "english": "tell me! (friend)",
+    "translation": "¡dime!",
+    "explanation": "(for positive commands to a friend, you drop the -go ending completely)",
+    "new": true
+  },
+  {
+    "english": "tell it to me! (friend)",
+    "translation": "¡dímelo!",
+    "new": true
+  },
+  {
+    "english": "don't tell it to me! (friend)",
+    "translation": "¡no me lo digas!"
+  },
+  {
+    "english": "don't tell it to me! (plural)",
+    "translation": "¡no me lo digan!",
+    "new": true
+  },
+  {
+    "english": "tell it to me! (friend)",
+    "translation": "¡dímelo!"
+  },
+  {
+    "english": "come with me! (friend)",
+    "translation": "¡ven conmigo!"
+  },
+  {
+    "english": "have it! (friend)",
+    "translation": "¡tenlo!",
+    "new": true
+  },
+  {
+    "english": "put it here! (friend)",
+    "translation": "¡ponlo aquí!",
+    "new": true
+  },
+  {
+    "english": "don't put it there, put it here! (friend)",
+    "translation": "¡no lo pon gas allí, ponlo aquí!",
+    "new": true
+  },
+  {
+    "english": "leave! (friend)",
+    "translation": "¡sal!",
+    "new": true
+  },
+  {
+    "english": "don't leave! (friend)",
+    "translation": "¡no salgas!"
+  },
+  {
+    "english": "don't leave! (plural)",
+    "translation": "¡no salgan!"
+  },
+  {
+    "english": "it is important that you be here",
+    "translation": "es importante que esté aquí",
+    "explanation": "(Verbs in the subjunctive, like the imperative, switch tracks. For -go verbs, the -ga ending is used with everyone, including \"you friend\")",
+    "new": true
+  },
+  {
+    "english": "it is important that you call me",
+    "translation": "es importante que me llame",
+    "explanation": "(in the subjunctive, there is no -o ending for \"I\")"
+  },
+  {
+    "english": "it is important that you all call me",
+    "translation": "es importante que me llamen",
+    "new": true
+  },
+  {
+    "english": "it is very important for you to call me later (friend)",
+    "translation": "es muy importante que me llames más tarde"
+  },
+  {
+    "english": "it is not necessary for you to wait for me",
+    "translation": "no es necesario que me espere"
+  },
+  {
+    "english": "to write",
+    "translation": "escribir"
+  },
+  {
+    "english": "to study",
+    "translation": "estudiar",
+    "explanation": "(in translation, no words begin with st-, sc-, sp-. translation speakers have to insert an e- before those letters)",
+    "new": true
+  },
+  {
+    "english": "student",
+    "translation": "estudiante",
+    "new": true
+  },
+  {
+    "english": "school",
+    "translation": "escuela",
+    "new": true
+  },
+  {
+    "english": "to write",
+    "translation": "escribir"
+  },
+  {
+    "english": "Spain",
+    "translation": "España"
+  },
+  {
+    "english": "why don't you write to me?",
+    "translation": "¿por qué no me escribe?"
+  },
+  {
+    "english": "write to me!",
+    "translation": "¡escribame!",
+    "new": true
+  },
+  {
+    "english": "because it's very important that you write to me",
+    "translation": "porque es muy importante que me escriba",
+    "new": true
+  },
+  {
+    "english": "I love you (I want you - friend)",
+    "translation": "te quiero",
+    "explanation": "(in translation, you cannot say literally \"I want you to write to me\".  In translation, \"I want you\" means \"I love you\")"
+  },
+  {
+    "english": "what do you want me to write to him?",
+    "translation": "¿qué quiere que lo escriba?"
+  },
+  {
+    "english": "I want you to do it, I want that you do it",
+    "translation": "quiero que lo haga"
+  },
+  {
+    "english": "I want you to do it (friend)",
+    "translation": "quiero que lo hagas"
+  },
+  {
+    "english": "I want you to do it (plural)",
+    "translation": "quiero que lo hagan"
+  },
+  {
+    "english": "what do you want me to do?",
+    "translation": "¿qué quiere que haga?"
+  },
+  {
+    "english": "why don't you want me to tell it to him?",
+    "translation": "¿por qué no quiere que se lo diga?"
+  },
+  {
+    "english": "I think that he can do it",
+    "translation": "pienso que puede hacerlo"
+  },
+  {
+    "english": "I don't think that he can do it",
+    "translation": "pienso que pueda hacerlo",
+    "explanation": "(that sentence is not subjunctive, but the next one is because there is an element of uncertainty)",
+    "new": true
+  },
+  {
+    "english": "I want you to call me later",
+    "translation": "quiero que me llame más tarde"
+  },
+  {
+    "english": "I want you to write to me",
+    "translation": "quiero que me escriba"
+  },
+  {
+    "english": "he wants me to send it to him",
+    "translation": "quiere que se lo mande",
+    "new": true
+  },
+  {
+    "english": "we will buy it",
+    "translation": "lo compraremos",
+    "explanation": "(end of recording)"
+  },
+  {
+    "english": "he will buy it",
+    "translation": "lo comprará"
+  },
+  {
+    "english": "they will buy it",
+    "translation": "lo comprarán"
+  },
+  {
+    "english": "you will buy it (friend)",
+    "translation": "lo comprarás"
+  },
+  {
+    "english": "I will write to you",
+    "translation": "le escribiré",
+    "new": true
+  },
+  {
+    "english": "he will write to you",
+    "translation": "le escribirá",
+    "new": true
+  },
+  {
+    "english": "we will write to you",
+    "translation": "le escribiremos",
+    "new": true
+  },
+  {
+    "english": "you will write to me",
+    "translation": "me escribirá"
+  },
+  {
+    "english": "you will write to me (friend)",
+    "translation": "me escribirás",
+    "new": true
+  },
+  {
+    "english": "they won't write to me",
+    "translation": "no me escribirán",
+    "new": true
+  },
+  {
+    "english": "to take",
+    "translation": "tomar"
+  },
+  {
+    "english": "I won't take it",
+    "translation": "no lo tomaré"
+  },
+  {
+    "english": "we will take it",
+    "translation": "lo tomaremos"
+  },
+  {
+    "english": "they won't take it",
+    "translation": "no lo tomarán",
+    "new": true
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I will have",
+    "translation": "tendré"
+  },
+  {
+    "english": "I leave",
+    "translation": "salgo"
+  },
+  {
+    "english": "I will leave",
+    "translation": "saldré"
+  },
+  {
+    "english": "we will leave",
+    "translation": "saldremos"
+  },
+  {
+    "english": "they will leave",
+    "translation": "saldrán"
+  },
+  {
+    "english": "you will leave (friend)",
+    "translation": "saldrás"
+  },
+  {
+    "english": "I come",
+    "translation": "vengo"
+  },
+  {
+    "english": "I will come",
+    "translation": "vendré",
+    "new": true
+  },
+  {
+    "english": "we will come",
+    "translation": "vendremos",
+    "new": true
+  },
+  {
+    "english": "you will come (friend)",
+    "translation": "vendrás",
+    "new": true
+  },
+  {
+    "english": "to sell",
+    "translation": "vender"
+  },
+  {
+    "english": "I will sell it",
+    "translation": "lo venderé"
+  },
+  {
+    "english": "I will come",
+    "translation": "vendré"
+  },
+  {
+    "english": "I put",
+    "translation": "pongo"
+  },
+  {
+    "english": "I will put",
+    "translation": "pondré"
+  },
+  {
+    "english": "I won't put it here",
+    "translation": "no lo pondré aquí"
+  },
+  {
+    "english": "I will call you tomorrow",
+    "translation": "le llamaré mañana"
+  },
+  {
+    "english": "I am going to call you tomorrow",
+    "translation": "voy a llamarle mañana"
+  },
+  {
+    "english": "I call you tomorrow",
+    "translation": "le llamo mañana"
+  },
+  {
+    "english": "I call you tomorrow (friend)",
+    "translation": "te llamo mañana"
+  },
+  {
+    "english": "to stay",
+    "translation": "quedarse"
+  },
+  {
+    "english": "I am staying",
+    "translation": "me quedo"
+  },
+  {
+    "english": "we are staying",
+    "translation": "nos quedamos"
+  },
+  {
+    "english": "he is staying",
+    "translation": "se queda"
+  },
+  {
+    "english": "they are staying",
+    "translation": "se quedan"
+  },
+  {
+    "english": "you are staying (friend)",
+    "translation": "te quedas",
+    "new": true
+  },
+  {
+    "english": "I am going to stay",
+    "translation": "voy a quedarme"
+  },
+  {
+    "english": "I want to know how long you are going to stay",
+    "translation": "quiero saber cuanto tiempo va a quedarse"
+  },
+  {
+    "english": "I will stay here a few days",
+    "translation": "me quedaré unos días"
+  },
+  {
+    "english": "I am telling",
+    "translation": "digo"
+  },
+  {
+    "english": "I am doing",
+    "translation": "hago"
+  },
+  {
+    "english": "I will tell",
+    "translation": "diré"
+  },
+  {
+    "english": "I will do",
+    "translation": "haré"
+  },
+  {
+    "english": "I won't do it",
+    "translation": "no lo haré"
+  },
+  {
+    "english": "I will tell you later why we won't do it",
+    "translation": "le diré más tarde por qué no lo haremos"
+  },
+  {
+    "english": "he won't tell me",
+    "translation": "no me dirá"
+  },
+  {
+    "english": "he won't tell me why he won't do it",
+    "translation": "no me dirá por qué no lo hará"
+  },
+  {
+    "english": "tell me!",
+    "translation": "¡dígame!",
+    "new": true
+  },
+  {
+    "english": "tell me! (friend)",
+    "translation": "¡dime!"
+  },
+  {
+    "english": "put it here! (friend)",
+    "translation": "¡ponlo aquí!"
+  },
+  {
+    "english": "make a reservation!",
+    "translation": "¡haga una reservación!"
+  },
+  {
+    "english": "make a reservation! (friend)",
+    "translation": "¡haz una reservación!",
+    "explanation": "(the imperative of \"make, do\" to a friend is haz)",
+    "new": true
+  },
+  {
+    "english": "do it! (friend)",
+    "translation": "¡hazlo!",
+    "new": true
+  },
+  {
+    "english": "don't do it! (friend)",
+    "translation": "¡no lo hagas!"
+  },
+  {
+    "english": "river",
+    "translation": "río",
+    "new": true
+  },
+  {
+    "english": "I will leave",
+    "translation": "saldré"
+  },
+  {
+    "english": "I would leave",
+    "translation": "saldría"
+  },
+  {
+    "english": "we would leave",
+    "translation": "saldríamos",
+    "new": true
+  },
+  {
+    "english": "he would do it",
+    "translation": "lo haría"
+  },
+  {
+    "english": "he will do it",
+    "translation": "lo hará"
+  },
+  {
+    "english": "I wouldn't do it",
+    "translation": "no lo haría"
+  },
+  {
+    "english": "they wouldn't do it",
+    "translation": "no lo harían"
+  },
+  {
+    "english": "we wouldn't do it",
+    "translation": "no lo haríamos",
+    "new": true
+  },
+  {
+    "english": "I wouldn't tell you why we wouldn't do it",
+    "translation": "no le diría por qué no lo haríamos"
+  },
+  {
+    "english": "to wait",
+    "translation": "esperar"
+  },
+  {
+    "english": "he won't wait",
+    "translation": "no esperará",
+    "new": true
+  },
+  {
+    "english": "he will wait",
+    "translation": "esperará"
+  },
+  {
+    "english": "he wouldn't wait",
+    "translation": "no esperaría",
+    "new": true
+  },
+  {
+    "english": "to prepare",
+    "translation": "preparar"
+  },
+  {
+    "english": "I will prepare it",
+    "translation": "lo prepararé",
+    "new": true
+  },
+  {
+    "english": "he wouldn't prepare it",
+    "translation": "no lo prepararía",
+    "new": true
+  },
+  {
+    "english": "I like",
+    "translation": "me gusta"
+  },
+  {
+    "english": "I like to see it",
+    "translation": "me gusta verlo"
+  },
+  {
+    "english": "I don't like to do it",
+    "translation": "no me gusta hacerlo"
+  },
+  {
+    "english": "I would like to see it, it would please me",
+    "translation": "me gustaría verlo"
+  },
+  {
+    "english": "I would like to see you",
+    "translation": "me gustaría verle"
+  },
+  {
+    "english": "I have spoken",
+    "translation": "he hablado"
+  },
+  {
+    "english": "I have bought",
+    "translation": "he comprado"
+  },
+  {
+    "english": "I have bought it",
+    "translation": "lo he comprado"
+  },
+  {
+    "english": "we have bought it",
+    "translation": "lo hemos comprado"
+  },
+  {
+    "english": "they have bought it",
+    "translation": "lo han comprado",
+    "new": true
+  },
+  {
+    "english": "he has sold it",
+    "translation": "lo ha vendido"
+  },
+  {
+    "english": "we have eaten",
+    "translation": "hemos comido"
+  },
+  {
+    "english": "he has left",
+    "translation": "ha salido"
+  },
+  {
+    "english": "I spoke",
+    "translation": "hablé",
+    "explanation": "(now here is a simple past tense, called the \"past historic\")",
+    "new": true
+  },
+  {
+    "english": "to take",
+    "translation": "tomar"
+  },
+  {
+    "english": "I took it",
+    "translation": "lo tomé",
+    "new": true
+  },
+  {
+    "english": "I called",
+    "translation": "llamé",
+    "new": true
+  },
+  {
+    "english": "I accepted",
+    "translation": "acepté",
+    "new": true
+  },
+  {
+    "english": "I didn't accept it",
+    "translation": "no lo acepté"
+  },
+  {
+    "english": "I bought it",
+    "translation": "lo compré",
+    "new": true
+  },
+  {
+    "english": "I will buy",
+    "translation": "compraré"
+  },
+  {
+    "english": "I bought",
+    "translation": "compré"
+  },
+  {
+    "english": "to wait",
+    "translation": "esperar"
+  },
+  {
+    "english": "I waited",
+    "translation": "esperé",
+    "new": true
+  },
+  {
+    "english": "I will wait",
+    "translation": "esperaré"
+  },
+  {
+    "english": "I spoke",
+    "translation": "hablé"
+  },
+  {
+    "english": "he spoke, she spoke, you spoke",
+    "translation": "habló",
+    "new": true
+  },
+  {
+    "english": "I speak",
+    "translation": "hablo"
+  },
+  {
+    "english": "I am buying it",
+    "translation": "lo compro"
+  },
+  {
+    "english": "he bought it, she bought it, you bought it",
+    "translation": "lo compró",
+    "new": true
+  },
+  {
+    "english": "I sold",
+    "translation": "vendí",
+    "explanation": "(that is the -ar track.  On the other track, you use the ending -í for \"I\", and the ending -ió for \"you, he, she\")",
+    "new": true
+  },
+  {
+    "english": "I left",
+    "translation": "salí",
+    "new": true
+  },
+  {
+    "english": "he left, you left",
+    "translation": "salió",
+    "new": true
+  },
+  {
+    "english": "I understood",
+    "translation": "comprendí",
+    "new": true
+  },
+  {
+    "english": "he understood, you understood",
+    "translation": "comprendió",
+    "new": true
+  },
+  {
+    "english": "he sold it",
+    "translation": "lo vendió",
+    "new": true
+  },
+  {
+    "english": "I didn't sell it",
+    "translation": "no lo vendí"
+  },
+  {
+    "english": "I bought it",
+    "translation": "lo compré"
+  },
+  {
+    "english": "why didn't you buy it?",
+    "translation": "¿por qué no lo compró?"
+  },
+  {
+    "english": "why did you sell it?",
+    "translation": "¿por qué lo vendió?"
+  },
+  {
+    "english": "I didn't sell it",
+    "translation": "no lo vendí"
+  },
+  {
+    "english": "why did you sell it?",
+    "translation": "¿por qué lo vendió?"
+  },
+  {
+    "english": "why didn't you sell it?",
+    "translation": "¿por qué no lo vendió?"
+  },
+  {
+    "english": "to lose",
+    "translation": "perder",
+    "new": true
+  },
+  {
+    "english": "I lost it",
+    "translation": "lo perdí",
+    "new": true
+  },
+  {
+    "english": "when did you lose it?",
+    "translation": "¿cuándo lo perdió?",
+    "new": true
+  },
+  {
+    "english": "at what time did you leave?",
+    "translation": "¿a qué hora salió?"
+  },
+  {
+    "english": "when did you arrive?",
+    "translation": "¿cuándo llegó?",
+    "new": true
+  },
+  {
+    "english": "yesterday",
+    "translation": "ayer",
+    "new": true
+  },
+  {
+    "english": "last night",
+    "translation": "anoche",
+    "new": true
+  },
+  {
+    "english": "I called you yesterday",
+    "translation": "le llamé ayer"
+  },
+  {
+    "english": "he called me last night",
+    "translation": "me llamó anoche",
+    "new": true
+  },
+  {
+    "english": "I call myself..., my name is...",
+    "translation": "me llamo..."
+  },
+  {
+    "english": "I call you tomorrow",
+    "translation": "le llamo mañana"
+  },
+  {
+    "english": "he called you",
+    "translation": "le llamó"
+  },
+  {
+    "english": "I spoke",
+    "translation": "hablé"
+  },
+  {
+    "english": "did you speak?",
+    "translation": "¿habló?"
+  },
+  {
+    "english": "to start",
+    "translation": "empezar, comencar"
+  },
+  {
+    "english": "I started",
+    "translation": "empezé",
+    "new": true
+  },
+  {
+    "english": "at what time did you start?",
+    "translation": "?a qué hora empezó?",
+    "new": true
+  },
+  {
+    "english": "I left",
+    "translation": "salí"
+  },
+  {
+    "english": "I am leaving",
+    "translation": "salgo"
+  },
+  {
+    "english": "he is leaving",
+    "translation": "sale"
+  },
+  {
+    "english": "at what time are you leaving? (plural)",
+    "translation": "¿a que hora salen?",
+    "new": true
+  },
+  {
+    "english": "at what time did you leave?",
+    "translation": "¿a que hora salió?"
+  },
+  {
+    "english": "I didn't eat",
+    "translation": "no comí",
+    "new": true
+  },
+  {
+    "english": "why didn't you eat?",
+    "translation": "¿por qué no comió?",
+    "new": true
+  },
+  {
+    "english": "I called you this morning",
+    "translation": "le llamé esta mañana"
+  },
+  {
+    "english": "at what time did you call me?",
+    "translation": "¿a qué hora me llamó?"
+  },
+  {
+    "english": "I call you tomorrow",
+    "translation": "le llamo mañana"
+  },
+  {
+    "english": "he is calling you",
+    "translation": "le llama"
+  },
+  {
+    "english": "he called me",
+    "translation": "me llamó"
+  },
+  {
+    "english": "why didn't you call me?",
+    "translation": "¿por qué no me llamó?"
+  },
+  {
+    "english": "I wrote to you",
+    "translation": "le escribí",
+    "new": true
+  },
+  {
+    "english": "he wrote to me",
+    "translation": "me escribió",
+    "new": true
+  },
+  {
+    "english": "why didn't you write to me?",
+    "translation": "¿por qué no me escribió?"
+  },
+  {
+    "english": "to see",
+    "translation": "ver"
+  },
+  {
+    "english": "I saw it",
+    "translation": "lo ví",
+    "new": true
+  },
+  {
+    "english": "I didn't see it",
+    "translation": "no lo ví"
+  },
+  {
+    "english": "did you see it?",
+    "translation": "¿lo vió?",
+    "new": true
+  },
+  {
+    "english": "I didn't understand it",
+    "translation": "no lo entendí",
+    "new": true
+  },
+  {
+    "english": "they spoke",
+    "translation": "hablaron",
+    "explanation": "(for \"they\", on the -ar track you use the ending -aron)",
+    "new": true
+  },
+  {
+    "english": "they called me",
+    "translation": "me llamaron",
+    "new": true
+  },
+  {
+    "english": "at what time did you call me? (plural)",
+    "translation": "¿a qué hora me llamaron?"
+  },
+  {
+    "english": "they arrived",
+    "translation": "llegaron",
+    "new": true
+  },
+  {
+    "english": "at what time did you arrive? (plural)",
+    "translation": "¿a qué hora llegaron?"
+  },
+  {
+    "english": "I arrived here two hours ago",
+    "translation": "llegé aquí hace dos horas",
+    "new": true
+  },
+  {
+    "english": "at what time?",
+    "translation": "¿a qué hora?"
+  },
+  {
+    "english": "two hours ago",
+    "translation": "hace dos horas"
+  },
+  {
+    "english": "they didn't arrive yet, they still didn't arrive",
+    "translation": "todavía no llegaron"
+  },
+  {
+    "english": "they left",
+    "translation": "salieron",
+    "new": true
+  },
+  {
+    "english": "at what time did you leave? (plural)",
+    "translation": "¿a qué hora salieron?"
+  },
+  {
+    "english": "they didn't eat",
+    "translation": "no comieron",
+    "new": true
+  },
+  {
+    "english": "they wrote to me",
+    "translation": "me escribieron",
+    "new": true
+  },
+  {
+    "english": "they talked to me, they spoke to me",
+    "translation": "me hablaron"
+  },
+  {
+    "english": "I am staying",
+    "translation": "me quedo"
+  },
+  {
+    "english": "I am not staying",
+    "translation": "no me quedo"
+  },
+  {
+    "english": "I stayed",
+    "translation": "me quedé",
+    "new": true
+  },
+  {
+    "english": "he stayed",
+    "translation": "se quedó",
+    "new": true
+  },
+  {
+    "english": "he didn't stay",
+    "translation": "no se quedó"
+  },
+  {
+    "english": "they stayed",
+    "translation": "se quedaron",
+    "new": true
+  },
+  {
+    "english": "you spoke (friend)",
+    "translation": "hablaste",
+    "explanation": "(for \"you friend\", the ending is -aste on the -ar track)",
+    "new": true
+  },
+  {
+    "english": "at what time did you call me? (friend)",
+    "translation": "¿a qué hora me llamaste?",
+    "new": true
+  },
+  {
+    "english": "why didn't you call me? (friend)",
+    "translation": "¿por qué no me llamaste?"
+  },
+  {
+    "english": "at what time did you leave? (friend)",
+    "translation": "¿a qué hora saliste?",
+    "new": true
+  },
+  {
+    "english": "why didn't you sell it? (friend)",
+    "translation": "¿por qué no lo vendiste?",
+    "new": true
+  },
+  {
+    "english": "why didn't you sell it?",
+    "translation": "¿por qué no lo vendió?"
+  },
+  {
+    "english": "why didn't you sell it? (plural)",
+    "translation": "¿por qué no lo vendieron?",
+    "new": true
+  },
+  {
+    "english": "they sold it",
+    "translation": "lo vendieron"
+  },
+  {
+    "english": "I didn't sell it",
+    "translation": "no lo vendí"
+  },
+  {
+    "english": "I bought it",
+    "translation": "lo compré"
+  },
+  {
+    "english": "he didn't buy it",
+    "translation": "no lo compró"
+  },
+  {
+    "english": "they bought it",
+    "translation": "lo compraron",
+    "new": true
+  },
+  {
+    "english": "they sold it",
+    "translation": "lo vendieron"
+  },
+  {
+    "english": "why didn't you sell it? (friend)",
+    "translation": "¿por qué no lo vendiste?",
+    "explanation": "(on the other track, the ending is -iste)"
+  },
+  {
+    "english": "why didn't you call me? (friend)",
+    "translation": "¿por qué no me llamaste?"
+  },
+  {
+    "english": "I spoke",
+    "translation": "hablé"
+  },
+  {
+    "english": "they spoke",
+    "translation": "hablaron"
+  },
+  {
+    "english": "you spoke (friend)",
+    "translation": "hablaste"
+  },
+  {
+    "english": "we spoke",
+    "translation": "hablamos",
+    "explanation": "(for \"we\", the ending in the present and the past historic is the same)"
+  },
+  {
+    "english": "we speak",
+    "translation": "hablamos"
+  },
+  {
+    "english": "we spoke",
+    "translation": "hablamos"
+  },
+  {
+    "english": "we are arriving, we arrive",
+    "translation": "llegamos"
+  },
+  {
+    "english": "we arrived",
+    "translation": "llegamos"
+  },
+  {
+    "english": "we arrived yesterday",
+    "translation": "llegamos ayer"
+  },
+  {
+    "english": "we arrive tomorrow",
+    "translation": "llegamos mañana"
+  },
+  {
+    "english": "he left",
+    "translation": "salió"
+  },
+  {
+    "english": "they left",
+    "translation": "salieron"
+  },
+  {
+    "english": "you left (friend)",
+    "translation": "saliste"
+  },
+  {
+    "english": "I left",
+    "translation": "salí"
+  },
+  {
+    "english": "we left",
+    "translation": "salimos"
+  },
+  {
+    "english": "we leave, we are leaving",
+    "translation": "salimos"
+  },
+  {
+    "english": "to sell",
+    "translation": "vender"
+  },
+  {
+    "english": "we sold",
+    "translation": "vendimos",
+    "explanation": "(with -er verbs, there is a distinction between \"we\" past and \"we\" present)",
+    "new": true
+  },
+  {
+    "english": "we are selling",
+    "translation": "vendemos"
+  },
+  {
+    "english": "we sold",
+    "translation": "vendimos"
+  },
+  {
+    "english": "we eat, we are eating",
+    "translation": "comemos"
+  },
+  {
+    "english": "we ate",
+    "translation": "comimos",
+    "new": true
+  },
+  {
+    "english": "I am doing",
+    "translation": "hago",
+    "explanation": "(the -go on verbs are a little different. However, they all follow the same pattern, on both tracks)"
+  },
+  {
+    "english": "I am doing it",
+    "translation": "lo hago"
+  },
+  {
+    "english": "I am not doing it",
+    "translation": "no lo hago"
+  },
+  {
+    "english": "I did, I made",
+    "translation": "hice",
+    "new": true
+  },
+  {
+    "english": "he did, he made",
+    "translation": "hizo",
+    "new": true
+  },
+  {
+    "english": "I did it",
+    "translation": "lo hice"
+  },
+  {
+    "english": "he did it",
+    "translation": "lo hizo"
+  },
+  {
+    "english": "he didn't do it",
+    "translation": "no lo hizo"
+  },
+  {
+    "english": "why didn't you do it?",
+    "translation": "¿por qué no lo hizo?"
+  },
+  {
+    "english": "I didn't do it",
+    "translation": "no lo hice"
+  },
+  {
+    "english": "he made a reservation for us",
+    "translation": "hizo una reservación para nosotros"
+  },
+  {
+    "english": "I say",
+    "translation": "digo"
+  },
+  {
+    "english": "I said",
+    "translation": "dije",
+    "new": true
+  },
+  {
+    "english": "I told",
+    "translation": "dije"
+  },
+  {
+    "english": "I told you",
+    "translation": "le dije"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo",
+    "new": true
+  },
+  {
+    "english": "to do",
+    "translation": "hacer"
+  },
+  {
+    "english": "I did",
+    "translation": "hice"
+  },
+  {
+    "english": "he told me that he didn't do it",
+    "translation": "me dijo que no lo hizo"
+  },
+  {
+    "english": "I told you",
+    "translation": "le dije"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "he told me that he didn't do it",
+    "translation": "me dijo que no lo hizo"
+  },
+  {
+    "english": "why didn't you tell me?",
+    "translation": "¿por qué no me dijo?"
+  },
+  {
+    "english": "why didn't you tell it to me?",
+    "translation": "¿por qué no me lo dijo?"
+  },
+  {
+    "english": "why didn't you tell it to him?",
+    "translation": "¿por qué no se lo dijo?"
+  },
+  {
+    "english": "I did, I made",
+    "translation": "hice"
+  },
+  {
+    "english": "I told, I said",
+    "translation": "dije"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "to put",
+    "translation": "poner"
+  },
+  {
+    "english": "I am putting",
+    "translation": "pongo"
+  },
+  {
+    "english": "I put (past)",
+    "translation": "puse",
+    "new": true
+  },
+  {
+    "english": "he put (past)",
+    "translation": "puso",
+    "new": true
+  },
+  {
+    "english": "where did you put (past) it?",
+    "translation": "¿dónde lo puso?"
+  },
+  {
+    "english": "to be able",
+    "translation": "poder"
+  },
+  {
+    "english": "I couldn't do it",
+    "translation": "no pude hacerlo",
+    "explanation": "(\"to be able\" in the past is pud-)",
+    "new": true
+  },
+  {
+    "english": "he couldn't do it",
+    "translation": "no pudo hacerlo",
+    "new": true
+  },
+  {
+    "english": "I did",
+    "translation": "hice"
+  },
+  {
+    "english": "I said, I told",
+    "translation": "dije"
+  },
+  {
+    "english": "I put (past)",
+    "translation": "puse"
+  },
+  {
+    "english": "I could",
+    "translation": "pude"
+  },
+  {
+    "english": "to want",
+    "translation": "querer"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quise",
+    "new": true
+  },
+  {
+    "english": "I wanted it",
+    "translation": "lo quise"
+  },
+  {
+    "english": "he wanted it",
+    "translation": "lo quiso",
+    "new": true
+  },
+  {
+    "english": "I did",
+    "translation": "hice"
+  },
+  {
+    "english": "I said, I told",
+    "translation": "dije"
+  },
+  {
+    "english": "I put (past)",
+    "translation": "puse"
+  },
+  {
+    "english": "I could",
+    "translation": "pude"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quise"
+  },
+  {
+    "english": "wine",
+    "translation": "vino",
+    "new": true
+  },
+  {
+    "english": "he came",
+    "translation": "vino"
+  },
+  {
+    "english": "he came with wine",
+    "translation": "vino con vino"
+  },
+  {
+    "english": "I came",
+    "translation": "vine",
+    "new": true
+  },
+  {
+    "english": "I have",
+    "translation": "tengo"
+  },
+  {
+    "english": "I had",
+    "translation": "tuve",
+    "new": true
+  },
+  {
+    "english": "he had",
+    "translation": "tuvo",
+    "new": true
+  },
+  {
+    "english": "I was",
+    "translation": "estuve",
+    "new": true
+  },
+  {
+    "english": "he was",
+    "translation": "estuvo",
+    "new": true
+  },
+  {
+    "english": "I put (past)",
+    "translation": "puse",
+    "explanation": "(for \"they\", the ending for all these verbs is -ieron, and for \"we\", the ending for all these verbs is -imos)"
+  },
+  {
+    "english": "he put (past)",
+    "translation": "puso"
+  },
+  {
+    "english": "they put (past)",
+    "translation": "pusieron",
+    "new": true
+  },
+  {
+    "english": "you put (friend, past)",
+    "translation": "pusiste",
+    "new": true
+  },
+  {
+    "english": "we put (past)",
+    "translation": "pusimos",
+    "new": true
+  },
+  {
+    "english": "I did, I made",
+    "translation": "hice"
+  },
+  {
+    "english": "he did, he made, you made",
+    "translation": "hizo"
+  },
+  {
+    "english": "they did, they made, you all made",
+    "translation": "hicieron",
+    "new": true
+  },
+  {
+    "english": "you did (friend)",
+    "translation": "hiciste",
+    "new": true
+  },
+  {
+    "english": "we did",
+    "translation": "hicimos",
+    "new": true
+  },
+  {
+    "english": "he came",
+    "translation": "vino"
+  },
+  {
+    "english": "they came",
+    "translation": "vinieron",
+    "new": true
+  },
+  {
+    "english": "you came (friend)",
+    "translation": "viniste",
+    "new": true
+  },
+  {
+    "english": "we came",
+    "translation": "vinimos",
+    "new": true
+  },
+  {
+    "english": "I could",
+    "translation": "pude",
+    "explanation": "(end of recording)"
+  },
+  {
+    "english": "they could",
+    "translation": "pudieron",
+    "new": true
+  },
+  {
+    "english": "we could",
+    "translation": "pudimos",
+    "new": true
+  },
+  {
+    "english": "you could (friend)",
+    "translation": "pudiste",
+    "new": true
+  },
+  {
+    "english": "he couldn't",
+    "translation": "no pude"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "they told me",
+    "translation": "me dijeron",
+    "new": true
+  },
+  {
+    "english": "why didn't you tell me? (plural)",
+    "translation": "¿por qué no me dijo?"
+  },
+  {
+    "english": "they didn't tell me",
+    "translation": "no me dijeron"
+  },
+  {
+    "english": "they came with me",
+    "translation": "venieron con mí",
+    "new": true
+  },
+  {
+    "english": "they didn't have it",
+    "translation": "no lo tuvieron",
+    "new": true
+  },
+  {
+    "english": "I wanted it",
+    "translation": "lo quise"
+  },
+  {
+    "english": "he didn't want it",
+    "translation": "no lo quiso"
+  },
+  {
+    "english": "they wanted it",
+    "translation": "lo quisieron",
+    "new": true
+  },
+  {
+    "english": "you wanted it (friend)",
+    "translation": "lo quisiste",
+    "new": true
+  },
+  {
+    "english": "we didn't want it",
+    "translation": "no lo quisimos",
+    "new": true
+  },
+  {
+    "english": "I have bought it",
+    "translation": "lo he comprado",
+    "explanation": "(now back to the \"diving\" past)"
+  },
+  {
+    "english": "I have not bought it",
+    "translation": "no lo he comprado"
+  },
+  {
+    "english": "we have bought it",
+    "translation": "lo hemos comprado"
+  },
+  {
+    "english": "they have bought it",
+    "translation": "lo han comprado"
+  },
+  {
+    "english": "where have you bought it? (friend)",
+    "translation": "¿dónde lo has comprado?",
+    "new": true
+  },
+  {
+    "english": "where did you buy it?",
+    "translation": "¿dónde lo compró?"
+  },
+  {
+    "english": "he has sold it",
+    "translation": "lo ha vendido"
+  },
+  {
+    "english": "he sold it",
+    "translation": "lo vendío",
+    "new": true
+  },
+  {
+    "english": "why didn't you sell it?",
+    "translation": "¿por qué no lo vendió?"
+  },
+  {
+    "english": "why didn't you sell it? (friend)",
+    "translation": "¿por qué no lo vendiste?"
+  },
+  {
+    "english": "he has not sold it",
+    "translation": "no lo ha vendido"
+  },
+  {
+    "english": "he would buy it",
+    "translation": "lo compraría",
+    "new": true
+  },
+  {
+    "english": "I wouldn't buy it",
+    "translation": "no lo compraría"
+  },
+  {
+    "english": "they wouldn't buy it",
+    "translation": "no lo comprarían",
+    "new": true
+  },
+  {
+    "english": "you wouldn't buy it (friend)",
+    "translation": "no lo comprarías",
+    "new": true
+  },
+  {
+    "english": "we wouldn't buy it",
+    "translation": "no lo compraríamos",
+    "new": true
+  },
+  {
+    "english": "I will leave",
+    "translation": "saldré",
+    "explanation": "(for \"will\" and \"would\", there are some contractions in the stem, but never in the endings)"
+  },
+  {
+    "english": "he won't leave",
+    "translation": "no saldró",
+    "new": true
+  },
+  {
+    "english": "he wouldn't leave",
+    "translation": "no saldría"
+  },
+  {
+    "english": "we won't leave",
+    "translation": "no saldrimos",
+    "new": true
+  },
+  {
+    "english": "we wouldn't leave",
+    "translation": "no saldríamos"
+  },
+  {
+    "english": "I would put it here",
+    "translation": "lo pondría aquí",
+    "new": true
+  },
+  {
+    "english": "I won't put it here",
+    "translation": "no lo pondré aquí"
+  },
+  {
+    "english": "we will put it here",
+    "translation": "lo pondremos aquí"
+  },
+  {
+    "english": "we wouldn't put it here",
+    "translation": "no lo pondríamos aquí",
+    "new": true
+  },
+  {
+    "english": "he wouldn't come with us",
+    "translation": "no vendría con nosotros",
+    "new": true
+  },
+  {
+    "english": "he wouldn't sell it",
+    "translation": "no lo vendería",
+    "new": true
+  },
+  {
+    "english": "he would come here with us and he would sell it",
+    "translation": "vendría aquí con nosotros y lo vendería"
+  },
+  {
+    "english": "I will do it",
+    "translation": "lo haré"
+  },
+  {
+    "english": "I won't do it",
+    "translation": "no lo haré"
+  },
+  {
+    "english": "I wouldn't do it",
+    "translation": "no lo haría"
+  },
+  {
+    "english": "we wouldn't do it",
+    "translation": "no lo haríamos"
+  },
+  {
+    "english": "we won't do it",
+    "translation": "no lo haremos"
+  },
+  {
+    "english": "I will tell you later",
+    "translation": "le diré más tarde"
+  },
+  {
+    "english": "he wouldn't tell me",
+    "translation": "no me diría"
+  },
+  {
+    "english": "we wouldn't tell you",
+    "translation": "no le diríamos",
+    "new": true
+  },
+  {
+    "english": "I will have it for you",
+    "translation": "lo tendré para usted"
+  },
+  {
+    "english": "to go",
+    "translation": "ir"
+  },
+  {
+    "english": "I am going to do it",
+    "translation": "voy a hacerlo"
+  },
+  {
+    "english": "he is going to do it",
+    "translation": "va a hacerlo"
+  },
+  {
+    "english": "they are going to do it",
+    "translation": "van a hacerlo"
+  },
+  {
+    "english": "we are going to do it",
+    "translation": "vamos a hacerlo"
+  },
+  {
+    "english": "to go",
+    "translation": "ir"
+  },
+  {
+    "english": "I will go",
+    "translation": "iré"
+  },
+  {
+    "english": "I will go to see it",
+    "translation": "iré a verlo"
+  },
+  {
+    "english": "I wouldn't go",
+    "translation": "no iría",
+    "new": true
+  },
+  {
+    "english": "we wouldn't go",
+    "translation": "no iríamos",
+    "new": true
+  },
+  {
+    "english": "to be able",
+    "translation": "poder"
+  },
+  {
+    "english": "I will be able to do it",
+    "translation": "podré hacerlo",
+    "new": true
+  },
+  {
+    "english": "he won't be able to do it",
+    "translation": "no podrá hacerlo",
+    "new": true
+  },
+  {
+    "english": "he wouldn't be able to it",
+    "translation": "no podría hacerlo",
+    "new": true
+  },
+  {
+    "english": "can you tell me, will you tell me",
+    "translation": "puede decirme",
+    "explanation": "(in English, \"could you\" means \"would you be able to\")"
+  },
+  {
+    "english": "can you tell me where it is, will you tell me where it is",
+    "translation": "puede decirme dónde está"
+  },
+  {
+    "english": "could you tell me where it is, would you be able to tell me where it is?",
+    "translation": "¿podría decirme dónde está?"
+  },
+  {
+    "english": "could you come with me?",
+    "translation": "¿podría venir conmigo?"
+  },
+  {
+    "english": "can you wait for me, will you wait for me",
+    "translation": "puede esperarme",
+    "new": true
+  },
+  {
+    "english": "could you wait for me?",
+    "translation": "podría esperarme"
+  },
+  {
+    "english": "I must have it",
+    "translation": "devo tenerlo",
+    "explanation": "(dever can mean \"must\", \"have to\", \"shall/should\", \"to owe\")",
+    "new": true
+  },
+  {
+    "english": "I speak",
+    "translation": "hablo"
+  },
+  {
+    "english": "I understand",
+    "translation": "entiendo"
+  },
+  {
+    "english": "I am eating",
+    "translation": "como",
+    "new": true
+  },
+  {
+    "english": "I must",
+    "translation": "devo"
+  },
+  {
+    "english": "I must do it now",
+    "translation": "devo hacerlo ahora"
+  },
+  {
+    "english": "you must do it",
+    "translation": "deve hacerlo",
+    "new": true
+  },
+  {
+    "english": "I have to do it",
+    "translation": "tengo que hacerlo"
+  },
+  {
+    "english": "how much is it?",
+    "translation": "¿cuánto es?"
+  },
+  {
+    "english": "how much does it cost?",
+    "translation": "¿cuánto cuesta?",
+    "new": true
+  },
+  {
+    "english": "how much do I owe?",
+    "translation": "¿cuánto devo?"
+  },
+  {
+    "english": "I will have to do it",
+    "translation": "tendré que hacerlo"
+  },
+  {
+    "english": "I will have to do it",
+    "translation": "deveré hacerlo",
+    "new": true
+  },
+  {
+    "english": "I would have to do it",
+    "translation": "tendría que hacerlo"
+  },
+  {
+    "english": "I would have to do it",
+    "translation": "devería hacerlo",
+    "new": true
+  },
+  {
+    "english": "you should tell me (friend)",
+    "translation": "deverías decirme",
+    "explanation": "(devería is also used in the sense of \"I should do something\", meaning \"I ought to do something\")",
+    "new": true
+  },
+  {
+    "english": "I have sold it",
+    "translation": "lo he vendido"
+  },
+  {
+    "english": "I would have sold it",
+    "translation": "lo habría vendido",
+    "explanation": "(after any form of haber, there is nowhere to go but to dive)",
+    "new": true
+  },
+  {
+    "english": "I wouldn't have sold it",
+    "translation": "no lo habría vendido"
+  },
+  {
+    "english": "made in Spain",
+    "translation": "hecho en España"
+  },
+  {
+    "english": "I have done it",
+    "translation": "lo he hecho"
+  },
+  {
+    "english": "I haven't done it",
+    "translation": "no lo he hecho"
+  },
+  {
+    "english": "I wouldn't have done it",
+    "translation": "no lo habría hecho"
+  },
+  {
+    "english": "I have told you",
+    "translation": "le he dicho"
+  },
+  {
+    "english": "he has told me",
+    "translation": "me ha dicho"
+  },
+  {
+    "english": "I would have told you",
+    "translation": "le habría dicho"
+  },
+  {
+    "english": "to see",
+    "translation": "ver"
+  },
+  {
+    "english": "I haven't seen it",
+    "translation": "no lo he visto"
+  },
+  {
+    "english": "we would have seen it",
+    "translation": "lo habríamos visto",
+    "new": true
+  },
+  {
+    "english": "I would have gone",
+    "translation": "habríamos ido",
+    "new": true
+  },
+  {
+    "english": "it is possible",
+    "translation": "es posible",
+    "explanation": "(in diving, estar becomes estado, and ser becomes sido)"
+  },
+  {
+    "english": "it would have been possible",
+    "translation": "habrías sido posible",
+    "new": true
+  },
+  {
+    "english": "it wouldn't have been possible that way",
+    "translation": "no habrías sido posible así"
+  },
+  {
+    "english": "I am right now doing it",
+    "translation": "estoy haciendolo",
+    "explanation": "(for the English -ing tenses, in translation use the endings -ando and -iendo)",
+    "new": true
+  },
+  {
+    "english": "I am doing it every day",
+    "translation": "lo hago todos los días"
+  },
+  {
+    "english": "I was speaking",
+    "translation": "hablaba",
+    "explanation": "(the English past -ing is expressed in translation with -aba on the -ar track, and -ía on the other track)"
+  },
+  {
+    "english": "he was speaking",
+    "translation": "hablaba"
+  },
+  {
+    "english": "she was speaking",
+    "translation": "hablaba"
+  },
+  {
+    "english": "you were speaking",
+    "translation": "hablaba"
+  },
+  {
+    "english": "they were speaking",
+    "translation": "hablaban",
+    "new": true
+  },
+  {
+    "english": "they were calling",
+    "translation": "llamaban",
+    "new": true
+  },
+  {
+    "english": "they were buying",
+    "translation": "compraban",
+    "new": true
+  },
+  {
+    "english": "they were selling",
+    "translation": "vendían",
+    "new": true
+  },
+  {
+    "english": "they were doing it",
+    "translation": "lo hacían"
+  },
+  {
+    "english": "they were telling me",
+    "translation": "me decían",
+    "new": true
+  },
+  {
+    "english": "we were telling you",
+    "translation": "le decíamos",
+    "new": true
+  },
+  {
+    "english": "we were doing it",
+    "translation": "lo hacíamos",
+    "new": true
+  },
+  {
+    "english": "I was going",
+    "translation": "iba",
+    "explanation": "(there are only two or three exceptions in translation language)",
+    "new": true
+  },
+  {
+    "english": "I was going to",
+    "translation": "iba a"
+  },
+  {
+    "english": "I was going to do it",
+    "translation": "iba a hacerlo"
+  },
+  {
+    "english": "I was not going to tell you that I was going to do it",
+    "translation": "no iba a decirle que iba a hacerlo"
+  },
+  {
+    "english": "he was going to be here",
+    "translation": "iba estar aquí"
+  },
+  {
+    "english": "you haven't told me that you were going to arrive today",
+    "translation": "no me ha dicho que iba a llegar hoy"
+  },
+  {
+    "english": "I would have waited for you",
+    "translation": "le habría esperado"
+  },
+  {
+    "english": "I told",
+    "translation": "dije"
+  },
+  {
+    "english": "you told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "you didn't tell me",
+    "translation": "no me dijo"
+  },
+  {
+    "english": "you didn't tell me (friend)",
+    "translation": "no me dijiste",
+    "new": true
+  },
+  {
+    "english": "you didn't tell me (plural)",
+    "translation": "no me dijeron"
+  },
+  {
+    "english": "I did, I made",
+    "translation": "hice"
+  },
+  {
+    "english": "I said, I told",
+    "translation": "dije"
+  },
+  {
+    "english": "I came",
+    "translation": "vine"
+  },
+  {
+    "english": "I put (past)",
+    "translation": "puse"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quise"
+  },
+  {
+    "english": "I had",
+    "translation": "tuve"
+  },
+  {
+    "english": "I was",
+    "translation": "estuve"
+  },
+  {
+    "english": "I made, I did",
+    "translation": "hice",
+    "explanation": "(in the past historic, haber is hub- and \"could\" is pud-)"
+  },
+  {
+    "english": "he did",
+    "translation": "hico",
+    "new": true
+  },
+  {
+    "english": "they did",
+    "translation": "hicieron"
+  },
+  {
+    "english": "you did (friend)",
+    "translation": "hiciste"
+  },
+  {
+    "english": "we did",
+    "translation": "hicimos"
+  },
+  {
+    "english": "I put",
+    "translation": "puse"
+  },
+  {
+    "english": "they put",
+    "translation": "pusieron"
+  },
+  {
+    "english": "you put (friend)",
+    "translation": "pusiste"
+  },
+  {
+    "english": "we put",
+    "translation": "pusimos"
+  },
+  {
+    "english": "they had",
+    "translation": "tuvieron"
+  },
+  {
+    "english": "you had (friend)",
+    "translation": "tuviste",
+    "new": true
+  },
+  {
+    "english": "we had",
+    "translation": "tuvimos",
+    "new": true
+  },
+  {
+    "english": "I said, I told",
+    "translation": "dije"
+  },
+  {
+    "english": "he said, he told",
+    "translation": "dijo"
+  },
+  {
+    "english": "they said",
+    "translation": "dijeron"
+  },
+  {
+    "english": "they told me",
+    "translation": "me dijeron"
+  },
+  {
+    "english": "you didn't tell me (plural)",
+    "translation": "no me dijeron"
+  },
+  {
+    "english": "we told you",
+    "translation": "le dijimos",
+    "new": true
+  },
+  {
+    "english": "you didn't tell me that you were going to arrive today",
+    "translation": "no me dijo que iba a llegar hoy"
+  },
+  {
+    "english": "you didn't tell me that you were going to arrive today (friend)",
+    "translation": "no me dijiste que ibas a llegar hoy",
+    "new": true
+  },
+  {
+    "english": "I would have waited for you",
+    "translation": "le habría esperado"
+  },
+  {
+    "english": "I would have waited for you (friend)",
+    "translation": "te habrías esperado"
+  },
+  {
+    "english": "I was waiting",
+    "translation": "esperaba"
+  },
+  {
+    "english": "I was waiting for you",
+    "translation": "le esperaba"
+  },
+  {
+    "english": "I was waiting for you (friend)",
+    "translation": "te esperaba"
+  },
+  {
+    "english": "he is waiting from me",
+    "translation": "me esperaba"
+  },
+  {
+    "english": "he was doing it",
+    "translation": "lo hacía",
+    "explanation": "(the \"was -ing\" and \"were -ing\" could be called the \"wing\" tenses, in translation, -aba and -ía)"
+  },
+  {
+    "english": "I was telling you",
+    "translation": "le decía"
+  },
+  {
+    "english": "he did it every day",
+    "translation": "lo hacía todos los días",
+    "explanation": "(In translation, the wing tense can also express a broken line: \"I did it very often\", \"I did it all the time\", \"I used to do it\".  In English, you don't make a distinction)"
+  },
+  {
+    "english": "he is speaking",
+    "translation": "habla"
+  },
+  {
+    "english": "he was speaking",
+    "translation": "hablaba"
+  },
+  {
+    "english": "he spoke (this morning)",
+    "translation": "habló"
+  },
+  {
+    "english": "he spoke (every day)",
+    "translation": "hablaba"
+  },
+  {
+    "english": "to do, to make",
+    "translation": "hacer"
+  },
+  {
+    "english": "I did it (it is done)",
+    "translation": "lo hice"
+  },
+  {
+    "english": "he did it (this morning)",
+    "translation": "lo hizo"
+  },
+  {
+    "english": "he did it (every day, very often)",
+    "translation": "lo hacía"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "he told me (every day)",
+    "translation": "me decía"
+  },
+  {
+    "english": "he put it here",
+    "translation": "lo puso"
+  },
+  {
+    "english": "he put it here (every day)",
+    "translation": "lo ponía",
+    "new": true
+  },
+  {
+    "english": "and I cannot see it",
+    "translation": "y no puedo verlo"
+  },
+  {
+    "english": "I don't know where it is",
+    "translation": "no sé dónde está"
+  },
+  {
+    "english": "he put it here (this morning)",
+    "translation": "lo puso aquí"
+  },
+  {
+    "english": "he put it here (every day)",
+    "translation": "lo ponía aquí"
+  },
+  {
+    "english": "he told me",
+    "translation": "me dijo"
+  },
+  {
+    "english": "he was telling me",
+    "translation": "me decía"
+  },
+  {
+    "english": "he told me (all the time)",
+    "translation": "me decía"
+  },
+  {
+    "english": "I knew",
+    "translation": "supe",
+    "explanation": "(\"I knew\" is rarely used, except in the context of finding something out)",
+    "new": true
+  },
+  {
+    "english": "I knew it, I found out",
+    "translation": "lo supe"
+  },
+  {
+    "english": "he knew",
+    "translation": "supo",
+    "new": true
+  },
+  {
+    "english": "they knew",
+    "translation": "supieron",
+    "new": true
+  },
+  {
+    "english": "you knew (friend)",
+    "translation": "supiste",
+    "new": true
+  },
+  {
+    "english": "we knew",
+    "translation": "supimos",
+    "new": true
+  },
+  {
+    "english": "to go",
+    "translation": "ir",
+    "explanation": "(fui- is the past of two separate verbs)"
+  },
+  {
+    "english": "I went",
+    "translation": "fui",
+    "new": true
+  },
+  {
+    "english": "I went to see it",
+    "translation": "fui a verlo"
+  },
+  {
+    "english": "he went to see it",
+    "translation": "fue a verlo",
+    "new": true
+  },
+  {
+    "english": "they went",
+    "translation": "fueron",
+    "new": true
+  },
+  {
+    "english": "you went (friend)",
+    "translation": "fuiste",
+    "new": true
+  },
+  {
+    "english": "we went",
+    "translation": "fuimos",
+    "new": true
+  },
+  {
+    "english": "I went",
+    "translation": "fui"
+  },
+  {
+    "english": "he went",
+    "translation": "fue"
+  },
+  {
+    "english": "they went",
+    "translation": "fueron"
+  },
+  {
+    "english": "you went (friend)",
+    "translation": "fuiste"
+  },
+  {
+    "english": "we went",
+    "translation": "fuimos"
+  },
+  {
+    "english": "we went to see it",
+    "translation": "fuimos a verlo"
+  },
+  {
+    "english": "I went",
+    "translation": "fui"
+  },
+  {
+    "english": "he went",
+    "translation": "fue"
+  },
+  {
+    "english": "she went",
+    "translation": "fue"
+  },
+  {
+    "english": "you went",
+    "translation": "fue"
+  },
+  {
+    "english": "they went",
+    "translation": "fueron"
+  },
+  {
+    "english": "you went (friend)",
+    "translation": "fuiste"
+  },
+  {
+    "english": "we went",
+    "translation": "fuimos"
+  },
+  {
+    "english": "I went",
+    "translation": "fue",
+    "explanation": "(fui- is also the past of ser)"
+  },
+  {
+    "english": "I was",
+    "translation": "fue"
+  },
+  {
+    "english": "it was possible",
+    "translation": "fue posible"
+  },
+  {
+    "english": "I was going",
+    "translation": "iba",
+    "explanation": "(\"was\" as a straight line is era)"
+  },
+  {
+    "english": "I was going to",
+    "translation": "iba a"
+  },
+  {
+    "english": "it was important (straight line)",
+    "translation": "era importante",
+    "new": true
+  },
+  {
+    "english": "I knew, I found out",
+    "translation": "supe",
+    "explanation": "(it is in the nature of some verbs to express a straight line in the past, for example \"to know\")"
+  },
+  {
+    "english": "I knew, I used to know",
+    "translation": "sabía",
+    "new": true
+  },
+  {
+    "english": "I didn't know",
+    "translation": "no sabía"
+  },
+  {
+    "english": "I didn't know you were going to arrive today",
+    "translation": "no sabía que iba a llegar hoy"
+  },
+  {
+    "english": "I didn't know that they were going to arrive today",
+    "translation": "no sabía que iban a llegar hoy",
+    "new": true
+  },
+  {
+    "english": "I didn't know that you were going to arrive today (friend)",
+    "translation": "no sabía que ibas a llegar hoy"
+  },
+  {
+    "english": "I didn't have the time",
+    "translation": "no tenía el tiempo",
+    "explanation": "(the same for \"to have the time\")",
+    "new": true
+  },
+  {
+    "english": "I was very busy",
+    "translation": "no estaba ocupado",
+    "new": true
+  },
+  {
+    "english": "I wanted (dot)",
+    "translation": "quise"
+  },
+  {
+    "english": "I wanted (line)",
+    "translation": "quería",
+    "new": true
+  },
+  {
+    "english": "I wanted to do it",
+    "translation": "quería hacerlo"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quería",
+    "explanation": "(\"I would want\" contracted from querería to querría)"
+  },
+  {
+    "english": "I would want",
+    "translation": "querría",
+    "new": true
+  },
+  {
+    "english": "I would want, I would like",
+    "translation": "me gustaría, quisiera",
+    "explanation": "(end of recording)"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quise"
+  },
+  {
+    "english": "they wanted",
+    "translation": "quisieron"
+  },
+  {
+    "english": "I wanted to do it",
+    "translation": "quise hacerlo"
+  },
+  {
+    "english": "he wanted to do it",
+    "translation": "quiso hacerlo"
+  },
+  {
+    "english": "they wanted to do it",
+    "translation": "quisieron hacerlo"
+  },
+  {
+    "english": "they wanted",
+    "translation": "quisieron",
+    "explanation": "(the \"they - past\" ending, -ron, when changed to -ran is the past subjunctive, meaning \"I might...\")"
+  },
+  {
+    "english": "I might want",
+    "translation": "quisiera"
+  },
+  {
+    "english": "I might want, I would like",
+    "translation": "quisiera"
+  },
+  {
+    "english": "I want to do it",
+    "translation": "quiero hacerlo"
+  },
+  {
+    "english": "I wanted to do it",
+    "translation": "quería hacerlo"
+  },
+  {
+    "english": "I would like to do it",
+    "translation": "me gustaría hacerlo"
+  },
+  {
+    "english": "I would like to do it",
+    "translation": "me gustaría hacerlo"
+  },
+  {
+    "english": "I would want to do it",
+    "translation": "querría hacerlo"
+  },
+  {
+    "english": "I may want",
+    "translation": "quisiera"
+  },
+  {
+    "english": "they wanted",
+    "translation": "quisieron"
+  },
+  {
+    "english": "I would like to do it",
+    "translation": "quisiera hacerlo"
+  },
+  {
+    "english": "I can do it",
+    "translation": "puedo hacerlo"
+  },
+  {
+    "english": "I could do it",
+    "translation": "podría hacerlo"
+  },
+  {
+    "english": "I will tell you",
+    "translation": "le diré"
+  },
+  {
+    "english": "I will do it",
+    "translation": "lo haré"
+  },
+  {
+    "english": "I will tell you",
+    "translation": "le diré"
+  },
+  {
+    "english": "will you please tell me where it is",
+    "translation": "puede decirme dónde está"
+  },
+  {
+    "english": "you have to wait here",
+    "translation": "tiene que esperar aquí"
+  },
+  {
+    "english": "you have to wait for me",
+    "translation": "tiene que esperarme"
+  },
+  {
+    "english": "you don't have to wait",
+    "translation": "no tiene que esperar"
+  },
+  {
+    "english": "it's not necessary that you wait",
+    "translation": "no es necesario que espere",
+    "explanation": "(in English, \"you have to wait\" means \"you must wait\", but \"you don't have to wait\" means not \"you must not wait\", but \"you don't need to wait\")"
+  },
+  {
+    "english": "I need",
+    "translation": "necesito"
+  },
+  {
+    "english": "you don't need to wait",
+    "translation": "no necesita esperar",
+    "new": true
+  },
+  {
+    "english": "I knew it",
+    "translation": "lo sabía",
+    "explanation": "(it is in the nature of some verbs to express a line, not a dot, in the past)"
+  },
+  {
+    "english": "I found out",
+    "translation": "supe"
+  },
+  {
+    "english": "I didn't know",
+    "translation": "no sabía"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quería"
+  },
+  {
+    "english": "I would be able, I could",
+    "translation": "podría",
+    "explanation": "(\"I could\" can be in the past, meaning \"I was able\"; or it might not be in the past, meaning \"I would be able\")"
+  },
+  {
+    "english": "could you tell me?",
+    "translation": "¿podría decirme?"
+  },
+  {
+    "english": "could you wait?",
+    "translation": "¿podría esperar?"
+  },
+  {
+    "english": "can you wait, will you wait",
+    "translation": "puede esperar"
+  },
+  {
+    "english": "can you tell me",
+    "translation": "puede decirme"
+  },
+  {
+    "english": "could you tell me?",
+    "translation": "podría decirme"
+  },
+  {
+    "english": "I couldn't find it, I was not able to find it",
+    "translation": "no pude encontrarlo"
+  },
+  {
+    "english": "I couldn't see it",
+    "translation": "no pude verlo"
+  },
+  {
+    "english": "I couldn't (line in past)",
+    "translation": "podía",
+    "new": true
+  },
+  {
+    "english": "I couldn't do it",
+    "translation": "no podía hacerlo"
+  },
+  {
+    "english": "I couldn't (at that moment in the past)",
+    "translation": "no pude"
+  },
+  {
+    "english": "I wanted",
+    "translation": "quise"
+  },
+  {
+    "english": "he wanted",
+    "translation": "quiso"
+  },
+  {
+    "english": "they wanted it",
+    "translation": "lo quisieron"
+  },
+  {
+    "english": "I would like",
+    "translation": "quisieria",
+    "new": true
+  },
+  {
+    "english": "I knew",
+    "translation": "supe",
+    "explanation": "(after \"if\", you use the subjunctive in both translation and English, e.g. \"if I were\" not \"if I was\")"
+  },
+  {
+    "english": "they knew",
+    "translation": "supieron"
+  },
+  {
+    "english": "if I knew",
+    "translation": "si supiera",
+    "new": true
+  },
+  {
+    "english": "if I had the time I would do it",
+    "translation": "si tuviera el tiempo lo haría",
+    "explanation": "(the form of \"they knew\" gives you the subjunctive)",
+    "new": true
+  },
+  {
+    "english": "if I were there I would tell you",
+    "translation": "si estuviera allí le diría",
+    "new": true
+  },
+  {
+    "english": "I had (straight line, broken line)",
+    "translation": "tenía"
+  },
+  {
+    "english": "to have",
+    "translation": "tener"
+  },
+  {
+    "english": "I was having, I used to have, I had",
+    "translation": "tenía"
+  },
+  {
+    "english": "I had (dot)",
+    "translation": "tuve"
+  },
+  {
+    "english": "they had",
+    "translation": "tuvieron"
+  },
+  {
+    "english": "if I had",
+    "translation": "si tuviera"
+  },
+  {
+    "english": "I have sold it",
+    "translation": "lo he vendido"
+  },
+  {
+    "english": "I would have sold it",
+    "translation": "lo habría vendido"
+  },
+  {
+    "english": "I had sold it",
+    "translation": "lo había vendido",
+    "new": true
+  },
+  {
+    "english": "I would have sold it",
+    "translation": "lo habría vendido"
+  },
+  {
+    "english": "I have sold it",
+    "translation": "lo he vendido"
+  },
+  {
+    "english": "I had sold it",
+    "translation": "lo había vendido"
+  },
+  {
+    "english": "I would have sold it",
+    "translation": "lo habría vendido"
+  },
+  {
+    "english": "they had",
+    "translation": "hubieron",
+    "new": true
+  },
+  {
+    "english": "if I had sold it",
+    "translation": "si lo hubiera vendido",
+    "new": true
+  },
+  {
+    "english": "if I had seen it I would have bought it",
+    "translation": "si lo hubiera visto lo habría comprado"
+  },
+  {
+    "english": "if I had known it",
+    "translation": "si lo hubiera sabido",
+    "new": true
+  },
+  {
+    "english": "if I had bought it",
+    "translation": "si lo hubiera comprado"
+  },
+  {
+    "english": "if I had known it I would have told you",
+    "translation": "si lo hubiera sabido le habrío dicho",
+    "new": true
+  },
+  {
+    "english": "if I told you",
+    "translation": "si le dijera",
+    "new": true
+  },
+  {
+    "english": "I said, I told",
+    "translation": "dije"
+  },
+  {
+    "english": "they said, they told",
+    "translation": "dijeron"
+  },
+  {
+    "english": "they did, they made",
+    "translation": "hicieron"
+  },
+  {
+    "english": "I might do it",
+    "translation": "hiciera",
+    "new": true
+  },
+  {
+    "english": "I knew",
+    "translation": "supe"
+  },
+  {
+    "english": "they knew",
+    "translation": "supieron"
+  },
+  {
+    "english": "if I knew",
+    "translation": "si supiera"
+  },
+  {
+    "english": "if I knew it I would tell you",
+    "translation": "si lo supiera le diría"
+  },
+  {
+    "english": "I would",
+    "translation": "-ría",
+    "explanation": "(we must distinguish in English between \"would\" and \"would have\")",
+    "new": true
+  },
+  {
+    "english": "I would have",
+    "translation": "habría"
+  },
+  {
+    "english": "I would do it",
+    "translation": "lo haría"
+  },
+  {
+    "english": "I would buy it",
+    "translation": "lo compraría"
+  },
+  {
+    "english": "I would have bought it",
+    "translation": "lo habría comprado"
+  },
+  {
+    "english": "I was buying it",
+    "translation": "lo compraba"
+  },
+  {
+    "english": "he was selling it",
+    "translation": "lo vendía"
+  },
+  {
+    "english": "he sold it",
+    "translation": "lo vendió"
+  },
+  {
+    "english": "they sold it",
+    "translation": "lo vendieron"
+  },
+  {
+    "english": "he was selling it",
+    "translation": "lo vendía"
+  },
+  {
+    "english": "he used to sell",
+    "translation": "lo vendía"
+  },
+  {
+    "english": "he sold it",
+    "translation": "lo vendió"
+  },
+  {
+    "english": "he has sold it",
+    "translation": "lo ha vendido"
+  },
+  {
+    "english": "we have sold it",
+    "translation": "lo hemos vendido"
+  },
+  {
+    "english": "they have sold it",
+    "translation": "lo han vendido"
+  },
+  {
+    "english": "they were selling it",
+    "translation": "lo vendían"
+  },
+  {
+    "english": "they sold it (all the time)",
+    "translation": "lo vendían"
+  },
+  {
+    "english": "he sold it (dot)",
+    "translation": "lo vendió"
+  },
+  {
+    "english": "they sold it",
+    "translation": "lo vendieron"
+  },
+  {
+    "english": "if I sold it",
+    "translation": "si vendiera",
+    "new": true
+  },
+  {
+    "english": "I have sold it",
+    "translation": "lo he vendido"
+  },
+  {
+    "english": "I had sold it",
+    "translation": "lo había vendido"
+  },
+  {
+    "english": "if I had sold it",
+    "translation": "si lo hubiera vendido"
+  },
+  {
+    "english": "I might have sold it",
+    "translation": "lo hubiera vendido",
+    "explanation": "(you could use hubiera for \"I might have\")"
+  },
+  {
+    "english": "I would have sold it",
+    "translation": "lo habría vendido"
+  },
+  {
+    "english": "if I had been there last night I would have seen it and I would have bought it",
+    "translation": "si hubiera estado allí anoche lo habría visto y lo habría comprado",
+    "new": true
+  },
+  {
+    "english": "I might have bought it",
+    "translation": "lo habiera comprado",
+    "new": true
+  },
+  {
+    "english": "I don't know that you will come",
+    "translation": "no sé que venga"
+  },
+  {
+    "english": "I don't think that he may come",
+    "translation": "no pienso que venga"
+  },
+  {
+    "english": "I know that he will come",
+    "translation": "sé que venga"
+  },
+  {
+    "english": "I didn't know that he might come",
+    "translation": "no sabía que viniera",
+    "explanation": "(if you are in the past, you must use the past subjunctive)",
+    "new": true
+  },
+  {
+    "english": "to look for",
+    "translation": "buscar",
+    "explanation": "(after the expression ojalá, meaning \"I hope that\", \"hopefully that\" you use the subjunctive)",
+    "new": true
+  },
+  {
+    "english": "I was looking for it",
+    "translation": "lo buscaba",
+    "new": true
+  },
+  {
+    "english": "to lose",
+    "translation": "perder"
+  },
+  {
+    "english": "I lost it and I was looking for it but I couldn't find it",
+    "translation": "lo perdí y lo buscaba pero no pude encontrarlo"
+  },
+  {
+    "english": "I couldn't do it",
+    "translation": "no pude hacerlo"
+  },
+  {
+    "english": "if you had called me last night",
+    "translation": "si me hubiera llamado anoche",
+    "new": true
+  },
+  {
+    "english": "I have bought it",
+    "translation": "lo he comprado"
+  },
+  {
+    "english": "I have bought it",
+    "translation": "lo había comprado"
+  },
+  {
+    "english": "I would have bought it",
+    "translation": "lo habría comprado"
+  },
+  {
+    "english": "if you had called me last night",
+    "translation": "si me hubiera llamado anoche"
+  },
+  {
+    "english": "and if you had told me",
+    "translation": "y si me hubiera dicho"
+  },
+  {
+    "english": "that you were going to arrive today",
+    "translation": "que iba a llegar hoy"
+  },
+  {
+    "english": "if you had told me that you were going to arrive today",
+    "translation": "si me hubiera dicho que iba a llegar hoy"
+  },
+  {
+    "english": "I would have waited for you",
+    "translation": "le habría esperado"
+  },
+  {
+    "english": "I would have made a reservation",
+    "translation": "habría hecho una reservación"
+  },
+  {
+    "english": "we would have had dinner (would have dined) at the restaurant",
+    "translation": "habriamos cenado al restaurante",
+    "new": true
+  },
+  {
+    "english": "we would have gone to see it",
+    "translation": "habriamos ido a verlo"
+  },
+  {
+    "english": "and it would have been very interesting",
+    "translation": "y habría sido muy interesante",
+    "new": true
+  },
+  {
+    "english": "if I had known it I would have done it",
+    "translation": "si lo hubiera sabido lo habría hecho"
+  },
+  {
+    "english": "I might have done it",
+    "translation": "lo hubiera hecho"
+  },
+  {
+    "english": "I could have done it, I wouldn't have been able to do it",
+    "translation": "habría podido hacerlo",
+    "explanation": "(\"I could have\" means \"I would have been able\")",
+    "new": true
+  },
+  {
+    "english": "could you come with me?",
+    "translation": "podría venir conmigo"
+  },
+  {
+    "english": "should",
+    "translation": "devería; deve"
+  },
+  {
+    "english": "could have, would have been able",
+    "translation": "habría podido"
+  },
+  {
+    "english": "should have",
+    "translation": "habría devido",
+    "new": true
+  },
+  {
+    "english": "you should have told me",
+    "translation": "habría devido decirme, me habría devido decir"
+  },
+  {
+    "english": "you could have told me",
+    "translation": "habría podido decirme"
+  },
+  {
+    "english": "he would have told me",
+    "translation": "me habría dicho"
+  },
+  {
+    "english": "you should have done it",
+    "translation": "habría devido hacerlo"
+  },
+  {
+    "english": "you could have told me",
+    "translation": "habría podido decirme, me habría podido decir"
+  },
+  {
+    "english": "he would tell me",
+    "translation": "me diría"
+  },
+  {
+    "english": "he would have told me",
+    "translation": "me habría dicho"
+  }
+]
