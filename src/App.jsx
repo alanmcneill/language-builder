@@ -68,7 +68,7 @@ function App() {
         <Container maxW="container.md">
           <HStack justify="space-between" mb={8}>
             <Heading as="h1" size="lg" color="teal.300">
-              Learn Spanish Quick
+              LEXICON
             </Heading>
             <LanguageMenu onSelect={setDatasetKey} />
           </HStack>
