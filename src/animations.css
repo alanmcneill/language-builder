@@ -13,12 +13,12 @@
 @keyframes card-pop {
   from {
     opacity: 0;
-    transform: scale(0.97);
+    transform: scale(0.9);
   }
 
-  65% {
+  66% {
     opacity: 1;
-    transform: scale(1.01);
+    transform: scale(1.02);
   }
 
   to {
@@ -30,17 +30,17 @@
 @keyframes translation-pop {
   from {
     opacity: 0;
-    transform: scale(0.94) translateY(8px);
+    transform: scale(0.5);
   }
 
-  70% {
+  66% {
     opacity: 1;
-    transform: scale(1.015) translateY(0);
+    transform: scale(1.01);
   }
 
   to {
     opacity: 1;
-    transform: scale(1) translateY(0);
+    transform: scale(1);
   }
 }
 

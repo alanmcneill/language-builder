@@ -1,10 +1,19 @@
-import { Box, ChakraProvider, Container, defaultSystem, Heading, HStack, Stack } from '@chakra-ui/react'
+import {
+  Box,
+  ChakraProvider,
+  Container,
+  defaultSystem,
+  Heading,
+  HStack,
+  Stack,
+} from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 import EmptyState from './components/EmptyState'
 import LanguageCard from './components/LanguageCard'
 import LanguageMenu from './components/LanguageMenu'
 import LoadingState from './components/LoadingState'
 import ProgressControls from './components/ProgressControls'
+import ResourceCard from './components/ResourceCard'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
 import { datasetLoaders } from './data/datasets'
@@ -14,19 +23,31 @@ const progressStorageKeyPrefix = 'language-builder-current-index-'
 
 function App() {
   const [datasetKey, setDatasetKey] = useState('spanish-basic')
-  const [loadedDataset, setLoadedDataset] = useState({ key: null, transcript: null })
+  const [loadedDataset, setLoadedDataset] = useState({
+    key: null,
+    transcript: null,
+  })
   const [currentIndex, setCurrentIndex] = useState(0)
 
+  // Load the selected dataset whenever the language/set changes.
   useEffect(() => {
     let cancelled = false
 
     datasetLoaders[datasetKey]().then(({ default: loadedTranscript }) => {
       if (cancelled) return
 
-      setLoadedDataset({ key: datasetKey, transcript: loadedTranscript })
+      setLoadedDataset({
+        key: datasetKey,
+        transcript: loadedTranscript,
+      })
+
       const progressStorageKey = `${progressStorageKeyPrefix}${datasetKey}`
       const savedIndex = readProgress(progressStorageKey)
-      setCurrentIndex(Math.min(Math.max(savedIndex, 0), loadedTranscript.length + 1))
+
+      // Index 0 is the intro; the final index is the completion screen.
+      setCurrentIndex(
+        Math.min(Math.max(savedIndex, 0), loadedTranscript.length),
+      )
     })
 
     return () => {
@@ -34,13 +55,20 @@ function App() {
     }
   }, [datasetKey])
 
+  // Save the user's position whenever it changes.
   useEffect(() => {
     if (loadedDataset.key !== datasetKey) return
 
-    writeProgress(`${progressStorageKeyPrefix}${datasetKey}`, currentIndex)
+    writeProgress(
+      `${progressStorageKeyPrefix}${datasetKey}`,
+      currentIndex,
+    )
   }, [currentIndex, datasetKey, loadedDataset.key])
 
-  const transcript = loadedDataset.key === datasetKey ? loadedDataset.transcript : null
+  const transcript =
+    loadedDataset.key === datasetKey
+      ? loadedDataset.transcript
+      : null
 
   if (!transcript) {
     return (
@@ -50,9 +78,17 @@ function App() {
     )
   }
 
-  const phraseIndex = currentIndex - 1
-  const currentItem = transcript[phraseIndex]
-  const lastPosition = transcript.length + 1
+  // Every dataset now has its intro at index 0.
+  const intro = transcript[0]
+  const items = transcript.slice(1)
+
+  // currentIndex refers to the user's position in the learning flow.
+  const currentItem = items[currentIndex - 1]
+  const totalItems = items.length
+  const lastPosition = totalItems + 1
+
+  // Resources currently use a different card from language phrases.
+  const isResourceDataset = datasetKey === 'spanish-resources'
 
   const handleNext = () => {
     setCurrentIndex((current) => Math.min(current + 1, lastPosition))
@@ -64,37 +100,60 @@ function App() {
 
   return (
     <ChakraProvider value={defaultSystem}>
-      <Box minH="100vh" bg="gray.800" color="whiteAlpha.900" py={10} className="dark">
+      <Box
+        minH="100vh"
+        bg="gray.800"
+        color="whiteAlpha.900"
+        py={10}
+        className="dark"
+      >
         <Container maxW="container.md">
           <HStack justify="space-between" mb={8}>
             <Heading as="h1" size="lg" color="teal.300">
               LEXICON
             </Heading>
+
             <LanguageMenu onSelect={setDatasetKey} />
           </HStack>
 
           <Stack spacing={8} align="center">
             <Box w="full" maxW="720px">
-              {transcript.length === 0 ? (
-                <EmptyState message="This collection has no phrases yet." />
+              {totalItems === 0 ? (
+                <EmptyState message="This collection has no learning items yet." />
               ) : (
                 <>
+                  {/* Introduction */}
                   {currentIndex === 0 ? (
-                    <SetIntroCard onNext={handleNext} />
+                    <SetIntroCard
+                      item={intro}
+                      onNext={handleNext}
+                    />
                   ) : currentIndex === lastPosition ? (
-                    <SetCompletionCard onPrevious={handlePrevious} />
-                  ) : (
-                    <LanguageCard
-                      key={`${datasetKey}-${phraseIndex}`}
+                    /* Completion screen */
+                    <SetCompletionCard
+                      onPrevious={handlePrevious}
+                    />
+                  ) : isResourceDataset ? (
+                    /* Resource/vocabulary item */
+                    <ResourceCard
+                      key={`${datasetKey}-${currentIndex}`}
                       item={currentItem}
                       onNext={handleNext}
-                      showHint={phraseIndex < 3}
+                      showHint={currentIndex <= 3}
+                    />
+                  ) : (
+                    /* Normal language phrase */
+                    <LanguageCard
+                      key={`${datasetKey}-${currentIndex}`}
+                      item={currentItem}
+                      onNext={handleNext}
+                      showHint={currentIndex <= 3}
                     />
                   )}
 
                   <ProgressControls
                     currentPosition={currentIndex}
-                    total={transcript.length}
+                    total={totalItems}
                     onPrevious={handlePrevious}
                     onNext={handleNext}
                   />

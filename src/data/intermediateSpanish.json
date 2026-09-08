@@ -1,4 +1,10 @@
-[
+[  
+  {
+    "title": "INTERMEDIATE SPANISH",
+    "subtitle": "Build your Spanish one phrase at a time.",
+    "intro": "Read each English phrase, translate it out loud, then tap the card to reveal the correct Spanish translation. If it's a new phrase, take a guess! If it's a phrase you've seen before, try to remember the correct translation. Tap the card again to continue to the next phrase. No streaks, no pressure, no cartoon owls.",
+    "instruction": "Tap to start"
+  },
   {
     "english": "to buy",
     "translation": "comprar"

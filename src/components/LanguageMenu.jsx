@@ -6,8 +6,8 @@ const languageGroups = [
     label: 'Spanish',
     links: [
       { label: 'Basic', key: 'spanish-basic' },
+      { label: 'Intermediate', key: 'spanish-intermediate' },
       { label: 'Advanced', key: 'spanish-advanced' },
-      { label: 'Builder', key: 'spanish-builder' },
       { label: 'Resources', key: 'spanish-resources' },
     ],
   },
