@@ -6,9 +6,11 @@ import {
   Heading,
   HStack,
   Stack,
+  Button,
 } from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 import EmptyState from './components/EmptyState'
+import HomeCard from './components/HomeCard'
 import LanguageCard from './components/LanguageCard'
 import LanguageMenu from './components/LanguageMenu'
 import LoadingState from './components/LoadingState'
@@ -22,7 +24,10 @@ import { readProgress, writeProgress } from './storage'
 const progressStorageKeyPrefix = 'language-builder-current-index-'
 
 function App() {
-  const [datasetKey, setDatasetKey] = useState('spanish-basic')
+  const [datasetKey, setDatasetKey] = useState(null)
+  const handleHome = () => {
+    setDatasetKey(null)
+  }
   const [loadedDataset, setLoadedDataset] = useState({
     key: null,
     transcript: null,
@@ -31,6 +36,8 @@ function App() {
 
   // Load the selected dataset whenever the language/set changes.
   useEffect(() => {
+    if (!datasetKey) return undefined
+
     let cancelled = false
 
     datasetLoaders[datasetKey]().then(({ default: loadedTranscript }) => {
@@ -44,7 +51,6 @@ function App() {
       const progressStorageKey = `${progressStorageKeyPrefix}${datasetKey}`
       const savedIndex = readProgress(progressStorageKey)
 
-      // Index 0 is the intro; the final index is the completion screen.
       setCurrentIndex(
         Math.min(Math.max(savedIndex, 0), loadedTranscript.length),
       )
@@ -69,6 +75,39 @@ function App() {
     loadedDataset.key === datasetKey
       ? loadedDataset.transcript
       : null
+
+  if (!datasetKey) {
+    return (
+      <ChakraProvider value={defaultSystem}>
+        <Box
+          minH="100vh"
+          bg="gray.800"
+          color="whiteAlpha.900"
+          py={10}
+          className="dark"
+        >
+          <Container maxW="container.md">
+            <HStack justify="space-between" mb={8}>
+              <Button
+                variant="plain"
+                p={0}
+                h="auto"
+                color="teal.300"
+                fontSize="lg"
+                fontWeight="bold"
+                onClick={handleHome}
+              >
+                LEXICON
+              </Button>
+              <LanguageMenu onSelect={setDatasetKey} />
+            </HStack>
+
+            <HomeCard onSelect={setDatasetKey} />
+          </Container>
+        </Box>
+      </ChakraProvider>
+    )
+  }
 
   if (!transcript) {
     return (
