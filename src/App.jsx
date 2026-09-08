@@ -114,7 +114,6 @@ function App() {
             <Heading as="h1" size="lg" color="teal.300">
               LEXICON
             </Heading>
-
             <LanguageMenu onSelect={setDatasetKey} />
           </HStack>
 
@@ -147,6 +146,7 @@ function App() {
                     /* Normal language phrase */
                     <LanguageCard
                       key={`${datasetKey}-${currentIndex}`}
+                      language={intro.language}
                       item={currentItem}
                       onNext={handleNext}
                       showHint={currentIndex <= 3}

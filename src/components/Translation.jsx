@@ -1,7 +1,7 @@
 import { Box, VStack, Text } from '@chakra-ui/react'
 import SpeechButton from './SpeechButton'
 
-export default function Translation({ children }) {
+export default function Translation({ children, language = 'Spanish' }) {
   return (
     <Box
       bg="teal.900"
@@ -15,7 +15,10 @@ export default function Translation({ children }) {
         <Text fontSize="5xl" color="white" m={0} mb="0.5rem">
           {children}
         </Text>
-        <SpeechButton text={children} />
+        <SpeechButton
+          text={children}
+          language={language}
+        />
       </VStack>
     </Box>
   )

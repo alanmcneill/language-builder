@@ -5,7 +5,7 @@ import Explanation from './Explanation'
 import Phrase from './Phrase'
 import Translation from './Translation'
 
-export default function LanguageCard({ item, onNext, showHint }) {
+export default function LanguageCard({ language, item, onNext, showHint }) {
   const [showTranslation, setShowTranslation] = useState(false)
 
   if (!item) return null
@@ -35,9 +35,15 @@ export default function LanguageCard({ item, onNext, showHint }) {
 
         <Phrase fontSize={showTranslation ? '2xl' : '5xl'}>{item.phrase}</Phrase>
 
-        {showTranslation && <Translation>{item.translation}</Translation>}
-        
-        {showTranslation && item.explanation ? <Explanation>{item.explanation}</Explanation> : null}
+        {showTranslation && (
+          <Translation language={language}>
+            {item.translation}
+          </Translation>
+        )}
+
+        {showTranslation && item.explanation ? (
+          <Explanation>{item.explanation}</Explanation>
+        ) : null}
 
         {showHint && (
           <Text fontSize="sm" color="teal.200" fontWeight="bold">
