@@ -150,9 +150,17 @@ function App() {
       >
         <Container maxW="container.md">
           <HStack justify="space-between" mb={8}>
-            <Heading as="h1" size="lg" color="teal.300">
+            <Button
+              variant="plain"
+              p={0}
+              h="auto"
+              color="teal.300"
+              fontSize="lg"
+              fontWeight="bold"
+              onClick={handleHome}
+            >
               LEXICON
-            </Heading>
+            </Button>
             <LanguageMenu onSelect={setDatasetKey} />
           </HStack>
 

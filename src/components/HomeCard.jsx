@@ -5,6 +5,7 @@ import {
   Heading,
   SimpleGrid,
   Stack,
+  HStack,
   Text,
 } from '@chakra-ui/react'
 
@@ -13,21 +14,21 @@ const courses = [
     key: 'spanish-basic',
     language: 'Spanish',
     title: 'Basic Spanish',
-    description: 'Build your Spanish one phrase at a time.',
+    description: 'Build your Spanish skills one phrase at a time.',
     badge: 'Course',
   },
   {
     key: 'french-basic',
     language: 'French',
     title: 'Basic French',
-    description: 'Build your French one phrase at a time.',
+    description: 'Build your French skills one phrase at a time.',
     badge: 'Course',
   },
   {
     key: 'spanish-intermediate',
     language: 'Spanish',
     title: 'Intermediate Spanish',
-    description: 'Continue your Spanish journey with more complex sentences.',
+    description: 'Continue your Spanish learning journey with more complex sentences.',
     badge: 'Course',
   },
   {
@@ -82,15 +83,15 @@ export default function HomeCard({ onSelect }) {
                   bg: 'whiteAlpha.100',
                 }}
               >
-                <Stack spacing={2} align="flex-start">
-                  <Badge colorPalette="teal" variant="subtle">
-                    {course.badge}
-                  </Badge>
-
-                  <Heading size="sm" color="whiteAlpha.700">
-                    {course.title}
-                  </Heading>
-
+                <Stack spacing={2} align="flex-start" w="full">
+                  <HStack gap={4} justify="space-between" w="full">
+                    <Heading size="sm" color="whiteAlpha.700">
+                      {course.title}
+                    </Heading>
+                    <Badge colorPalette="teal" variant="subtle">
+                      {course.badge}
+                    </Badge>
+                  </HStack>
                   <Text
                     fontSize="sm"
                     fontWeight="normal"
