@@ -5,502 +5,502 @@
     "intro": "Rewrite this. The following list contains the 100 most frequently used Spanish words, along with their English translations and parts of speech. This list is a great starting point for building your Spanish vocabulary and understanding the structure of the language."
   },
   {
-    "english": "el / la",
+    "phrase": "el / la",
     "type": "definite article",
     "translation": "the"
   },
   {
-    "english": "de",
+    "phrase": "de",
     "type": "preposition",
     "translation": "of, from"
   },
   {
-    "english": "que",
+    "phrase": "que",
     "type": "conjunction",
     "translation": "that, which"
   },
   {
-    "english": "y",
+    "phrase": "y",
     "type": "conjunction",
     "translation": "and"
   },
   {
-    "english": "a",
+    "phrase": "a",
     "type": "preposition",
     "translation": "to, at"
   },
   {
-    "english": "en",
+    "phrase": "en",
     "type": "preposition",
     "translation": "in, on"
   },
   {
-    "english": "un",
+    "phrase": "un",
     "type": "indefinite article",
     "translation": "a, an"
   },
   {
-    "english": "ser",
+    "phrase": "ser",
     "type": "verb",
     "translation": "to be"
   },
   {
-    "english": "se",
+    "phrase": "se",
     "type": "pronoun",
     "translation": "-self, oneself [reflexive marker]"
   },
   {
-    "english": "no",
+    "phrase": "no",
     "type": "adverb",
     "translation": "no"
   },
   {
-    "english": "haber",
+    "phrase": "haber",
     "type": "verb",
     "translation": "to have"
   },
   {
-    "english": "por",
+    "phrase": "por",
     "type": "preposition",
     "translation": "by, for, through"
   },
   {
-    "english": "con",
+    "phrase": "con",
     "type": "preposition",
     "translation": "with "
   },
   {
-    "english": "su",
+    "phrase": "su",
     "type": "adjective",
     "translation": "his, her, their, your (familiar)"
   },
   {
-    "english": "para",
+    "phrase": "para",
     "type": "preposition",
     "translation": "for, to, in order to"
   },
   {
-    "english": "como",
+    "phrase": "como",
     "type": "conjunction",
     "translation": "like, as"
   },
   {
-    "english": "estar",
+    "phrase": "estar",
     "type": "verb",
     "translation": "to be"
   },
   {
-    "english": "tener",
+    "phrase": "tener",
     "type": "verb",
     "translation": "to have"
   },
   {
-    "english": "le",
+    "phrase": "le",
     "type": "pronoun",
     "translation": "[3rd pers. indirect object pronoun]"
   },
   {
-    "english": "lo",
+    "phrase": "lo",
     "type": "article",
     "translation": "the (+ noun)"
   },
   {
-    "english": "lo",
+    "phrase": "lo",
     "type": "pronoun",
     "translation": "[3rd person m. direct object pronoun]"
   },
   {
-    "english": "todo",
+    "phrase": "todo",
     "type": "adjective",
     "translation": "all, every"
   },
   {
-    "english": "pero",
+    "phrase": "pero",
     "type": "conjunction",
     "translation": "but, yet, except "
   },
   {
-    "english": "más",
+    "phrase": "más",
     "type": "adjective",
     "translation": "more"
   },
   {
-    "english": "hacer",
+    "phrase": "hacer",
     "type": "verb",
     "translation": "to do, make"
   },
   {
-    "english": "o",
+    "phrase": "o",
     "type": "conjunction",
     "translation": "or"
   },
   {
-    "english": "poder",
+    "phrase": "poder",
     "type": "verb",
     "translation": "to be able to, can "
   },
   {
-    "english": "decir",
+    "phrase": "decir",
     "type": "verb",
     "translation": "to tell, say"
   },
   {
-    "english": "este / esta",
+    "phrase": "este / esta",
     "type": "adjective",
     "translation": "this (m)/(f)"
   },
   {
-    "english": "ir",
+    "phrase": "ir",
     "type": "verb",
     "translation": "to go "
   },
   {
-    "english": "otro",
+    "phrase": "otro",
     "type": "adjective",
     "translation": "other, another"
   },
   {
-    "english": "ese / esa",
+    "phrase": "ese / esa",
     "type": "adjective",
     "translation": "that (m)/(f)"
   },
   {
-    "english": "la",
+    "phrase": "la",
     "type": "pronoun",
     "translation": "[3rd person f. direct object pronoun]"
   },
   {
-    "english": "si",
+    "phrase": "si",
     "type": "conjunction",
     "translation": "if, whether"
   },
   {
-    "english": "me",
+    "phrase": "me",
     "type": "pronoun",
     "translation": "me "
   },
   {
-    "english": "ya",
+    "phrase": "ya",
     "type": "adverb",
     "translation": "already, still"
   },
   {
-    "english": "ver",
+    "phrase": "ver",
     "type": "verb",
     "translation": "to see"
   },
   {
-    "english": "porque",
+    "phrase": "porque",
     "type": "conjunction",
     "translation": "because"
   },
   {
-    "english": "dar",
+    "phrase": "dar",
     "type": "verb",
     "translation": "to give"
   },
   {
-    "english": "cuando",
+    "phrase": "cuando",
     "type": "conjunction",
     "translation": "when "
   },
   {
-    "english": "él",
+    "phrase": "él",
     "type": "pronoun",
     "translation": "he"
   },
   {
-    "english": "muy",
+    "phrase": "muy",
     "type": "adverb",
     "translation": "very, really"
   },
   {
-    "english": "sin",
+    "phrase": "sin",
     "type": "preposition",
     "translation": "without"
   },
   {
-    "english": "vez",
+    "phrase": "vez",
     "type": "noun, f.",
     "translation": "time, occurrence "
   },
   {
-    "english": "mucho",
+    "phrase": "mucho",
     "type": "adjective",
     "translation": "much, many, a lot"
   },
   {
-    "english": "saber",
+    "phrase": "saber",
     "type": "verb",
     "translation": "to know"
   },
   {
-    "english": "qué",
+    "phrase": "qué",
     "type": "pronoun",
     "translation": "what?, which?, how (+ adjective)"
   },
   {
-    "english": "sobre",
+    "phrase": "sobre",
     "type": "preposition",
     "translation": "on top of, over, about"
   },
   {
-    "english": "mi",
+    "phrase": "mi",
     "type": "adjective",
     "translation": "my"
   },
   {
-    "english": "alguno",
+    "phrase": "alguno",
     "type": "adjective/pronoun",
     "translation": "some / someone"
   },
   {
-    "english": "mismo",
+    "phrase": "mismo",
     "type": "adjective",
     "translation": "same"
   },
   {
-    "english": "yo",
+    "phrase": "yo",
     "type": "pronoun",
     "translation": "I"
   },
   {
-    "english": "también",
+    "phrase": "también",
     "type": "adverb",
     "translation": "also"
   },
   {
-    "english": "hasta",
+    "phrase": "hasta",
     "type": "preposition/adverb",
     "translation": "until, up to / even"
   },
   {
-    "english": "año",
+    "phrase": "año",
     "type": "noun, m.",
     "translation": "year"
   },
   {
-    "english": "dos",
+    "phrase": "dos",
     "type": "number",
     "translation": "two"
   },
   {
-    "english": "querer",
+    "phrase": "querer",
     "type": "verb",
     "translation": "to want, love"
   },
   {
-    "english": "entre",
+    "phrase": "entre",
     "type": "preposition",
     "translation": "between"
   },
   {
-    "english": "así",
+    "phrase": "así",
     "type": "adverb",
     "translation": "like that"
   },
   {
-    "english": "primero",
+    "phrase": "primero",
     "type": "adjective",
     "translation": "first"
   },
   {
-    "english": "desde",
+    "phrase": "desde",
     "type": "preposition",
     "translation": "from, since"
   },
   {
-    "english": "grande",
+    "phrase": "grande",
     "type": "adjective",
     "translation": "large, great, big"
   },
   {
-    "english": "eso",
+    "phrase": "eso",
     "type": "pronoun, n.",
     "translation": "that"
   },
   {
-    "english": "ni",
+    "phrase": "ni",
     "type": "conjunction",
     "translation": "not even, neither, nor "
   },
   {
-    "english": "nos",
+    "phrase": "nos",
     "type": "pronoun",
     "translation": "us"
   },
   {
-    "english": "llegar",
+    "phrase": "llegar",
     "type": "verb",
     "translation": "to arrive"
   },
   {
-    "english": "pasar",
+    "phrase": "pasar",
     "type": "verb",
     "translation": "to pass, spend (time)"
   },
   {
-    "english": "tiempo",
+    "phrase": "tiempo",
     "type": "noun, m.",
     "translation": "time, weather"
   },
   {
-    "english": "ella /ellas",
+    "phrase": "ella /ellas",
     "type": "pronoun",
     "translation": "she / them"
   },
   {
-    "english": "sí",
+    "phrase": "sí",
     "type": "adverb",
     "translation": "yes"
   },
   {
-    "english": "día",
+    "phrase": "día",
     "type": "noun, m.",
     "translation": "day"
   },
   {
-    "english": "uno",
+    "phrase": "uno",
     "type": "number",
     "translation": "one"
   },
   {
-    "english": "bien",
+    "phrase": "bien",
     "type": "adverb",
     "translation": "well"
   },
   {
-    "english": "poco",
+    "phrase": "poco",
     "type": "adjective / adverb",
     "translation": "little, few / a little bit"
   },
   {
-    "english": "deber",
+    "phrase": "deber",
     "type": "verb",
     "translation": "should, ought to; to owe"
   },
   {
-    "english": "entonces",
+    "phrase": "entonces",
     "type": "adverb",
     "translation": "so, then"
   },
   {
-    "english": "poner",
+    "phrase": "poner",
     "type": "verb",
     "translation": "to put (on); get (+ adjective)"
   },
   {
-    "english": "cosa",
+    "phrase": "cosa",
     "type": "noun, f.",
     "translation": "thing"
   },
   {
-    "english": "tanto",
+    "phrase": "tanto",
     "type": "adjective",
     "translation": "much"
   },
   {
-    "english": "hombre",
+    "phrase": "hombre",
     "type": "noun, m.",
     "translation": "man, mankind, husband"
   },
   {
-    "english": "parecer",
+    "phrase": "parecer",
     "type": "verb",
     "translation": "to seem, look like"
   },
   {
-    "english": "nuestro",
+    "phrase": "nuestro",
     "type": "adjective",
     "translation": "our"
   },
   {
-    "english": "tan",
+    "phrase": "tan",
     "type": "adverb",
     "translation": "such, a, too, so"
   },
   {
-    "english": "donde",
+    "phrase": "donde",
     "type": "conjunction",
     "translation": "where "
   },
   {
-    "english": "ahora",
+    "phrase": "ahora",
     "type": "adverb",
     "translation": "now"
   },
   {
-    "english": "parte",
+    "phrase": "parte",
     "type": "noun, f.",
     "translation": "part, portion"
   },
   {
-    "english": "después",
+    "phrase": "después",
     "type": "adverb",
     "translation": "after"
   },
   {
-    "english": "vida",
+    "phrase": "vida",
     "type": "noun, f.",
     "translation": "life"
   },
   {
-    "english": "quedar",
+    "phrase": "quedar",
     "type": "verb",
     "translation": "to remain, stay"
   },
   {
-    "english": "siempre",
+    "phrase": "siempre",
     "type": "adverb",
     "translation": "always"
   },
   {
-    "english": "creer",
+    "phrase": "creer",
     "type": "verb",
     "translation": "to believe"
   },
   {
-    "english": "hablar",
+    "phrase": "hablar",
     "type": "verb",
     "translation": "to speak, talk"
   },
   {
-    "english": "llevar",
+    "phrase": "llevar",
     "type": "verb",
     "translation": "to take, carry"
   },
   {
-    "english": "dejar",
+    "phrase": "dejar",
     "type": "verb",
     "translation": "to let, leave "
   },
   {
-    "english": "nada",
+    "phrase": "nada",
     "type": "pronoun",
     "translation": "nothing"
   },
   {
-    "english": "cada",
+    "phrase": "cada",
     "type": "adjective",
     "translation": "each, every"
   },
   {
-    "english": "seguir",
+    "phrase": "seguir",
     "type": "verb",
     "translation": "to follow"
   },
   {
-    "english": "menos",
+    "phrase": "menos",
     "type": "adjective",
     "translation": "less, fewer"
   },
   {
-    "english": "nuevo",
+    "phrase": "nuevo",
     "type": "adjective",
     "translation": "new"
   },
   {
-    "english": "encontrar",
+    "phrase": "encontrar",
     "type": "verb",
     "translation": "to find"
   }

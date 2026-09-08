@@ -30,7 +30,7 @@ export default function ResourceCard({ item, onNext, showHint }) {
           </Badge>
         )}
 
-        <Phrase fontSize={showTranslation ? '2xl' : '5xl'}>{item.english}</Phrase>
+        <Phrase fontSize={showTranslation ? '2xl' : '5xl'}>{item.phrase}</Phrase>
 
         {showTranslation && <Translation>{item.translation}</Translation>}
 

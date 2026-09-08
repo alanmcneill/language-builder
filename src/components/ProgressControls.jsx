@@ -1,8 +1,19 @@
 import { Button, HStack, Progress } from '@chakra-ui/react'
 
-export default function ProgressControls({ currentPosition, total, onPrevious, onNext }) {
+export default function ProgressControls({
+  currentPosition,
+  total,
+  onPrevious,
+  onNext,
+  onStart,
+}) {
   const lastPosition = total + 1
-  const progressValue = Math.min(Math.max((currentPosition / lastPosition) * 100, 0), 100)
+
+  const progressValue = Math.min(
+    Math.max((currentPosition / lastPosition) * 100, 0),
+    100,
+  )
+
   const progressLabel = currentPosition === 0
     ? 'Introduction'
     : currentPosition === lastPosition
@@ -29,6 +40,20 @@ export default function ProgressControls({ currentPosition, total, onPrevious, o
           variant="ghost"
           size="sm"
           color="gray.400"
+          aria-label="Start from beginning"
+          title="Start from beginning"
+          onClick={onStart}
+          disabled={currentPosition === 0}
+          _hover={{ color: 'teal.300', bg: 'whiteAlpha.100' }}
+        >
+          <span aria-hidden="true">↺</span>
+        </Button>
+
+        <Button
+          type="button"
+          variant="ghost"
+          size="sm"
+          color="gray.400"
           aria-label="Previous phrase"
           title="Previous phrase"
           onClick={onPrevious}
@@ -37,6 +62,7 @@ export default function ProgressControls({ currentPosition, total, onPrevious, o
         >
           <span aria-hidden="true">←</span>
         </Button>
+
         <Button
           type="button"
           variant="ghost"

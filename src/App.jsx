@@ -90,10 +90,12 @@ function App() {
   // Resources currently use a different card from language phrases.
   const isResourceDataset = datasetKey === 'spanish-resources'
 
+  const handleStart = () => {
+    setCurrentIndex(0)
+  }
   const handleNext = () => {
     setCurrentIndex((current) => Math.min(current + 1, lastPosition))
   }
-
   const handlePrevious = () => {
     setCurrentIndex((current) => Math.max(current - 1, 0))
   }
@@ -150,12 +152,12 @@ function App() {
                       showHint={currentIndex <= 3}
                     />
                   )}
-
                   <ProgressControls
                     currentPosition={currentIndex}
                     total={totalItems}
                     onPrevious={handlePrevious}
                     onNext={handleNext}
+                    onStart={handleStart}
                   />
                 </>
               )}
