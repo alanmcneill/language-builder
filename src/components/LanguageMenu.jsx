@@ -11,6 +11,12 @@ const languageGroups = [
       { label: 'Resources', key: 'spanish-resources' },
     ],
   },
+  {
+    label: 'French',
+    links: [
+        { label: 'Basic', key: 'french-basic' },
+    ]
+  },
 ]
 
 export default function LanguageMenu({ onSelect }) {

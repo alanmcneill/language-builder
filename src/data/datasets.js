@@ -3,4 +3,5 @@ export const datasetLoaders = {
   'spanish-intermediate': () => import('./intermediateSpanish.json'),
   'spanish-advanced': () => import('./advancedSpanish.json'),
   'spanish-resources': () => import('./spanishResources.json'),
+  'french-basic': () => import('./basicFrench.json'),
 }

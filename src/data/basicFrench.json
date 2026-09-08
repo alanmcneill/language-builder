@@ -1,0 +1,5348 @@
+[  
+  {
+    "language": "French",
+    "title": "BASIC FRENCH",
+    "subtitle": "Build your French one phrase at a time. No streaks, no pressure, no cartoon owls.",
+    "intro": "Read each English phrase and try to translate it out loud. If it's a new phrase, take a guess! If it's a phrase you've seen before, try to remember the correct translation. Then tap the card to reveal the correct French translation. Tap the card again to continue to the next phrase.",
+    "instruction": "Tap to start"
+  },
+  {
+    "phrase": "possible",
+    "translation": "possible",
+    "explanation": "Words that end in -ible in English usually stay the same in French.",
+    "new": true
+  },
+  {
+    "phrase": "table",
+    "translation": "table",
+    "explanation": "Words that end in -able in English usually stay the same in French.",
+    "new": true
+  },
+  {
+    "phrase": "comfortable",
+    "translation": "confortable",
+    "new": true
+  },
+  {
+    "phrase": "it is, that is",
+    "translation": "c'est",
+    "new": true
+  },
+  {
+    "phrase": "life",
+    "translation": "la vie",
+    "new": true
+  },
+  {
+    "phrase": "it is possible",
+    "translation": "c'est possible"
+  },
+  {
+    "phrase": "it is comfortable",
+    "translation": "c'est confortable"
+  },
+  {
+    "phrase": "good",
+    "translation": "bon",
+    "new": true
+  },
+  {
+    "phrase": "it is good",
+    "translation": "c'est bon"
+  },
+  {
+    "phrase": "very",
+    "translation": "très",
+    "new": true
+  },
+  {
+    "phrase": "it is very good",
+    "translation": "c'est très bon"
+  },
+  {
+    "phrase": "it is very comfortable",
+    "translation": "c'est très confortable"
+  },
+  {
+    "phrase": "probable",
+    "translation": "probable",
+    "new": true
+  },
+  {
+    "phrase": "acceptable",
+    "translation": "acceptable",
+    "new": true
+  },
+  {
+    "phrase": "it is acceptable",
+    "translation": "c'est acceptable",
+    "new": true
+  },
+  {
+    "phrase": "for me",
+    "translation": "pour moi",
+    "new": true
+  },
+  {
+    "phrase": "it is for me",
+    "translation": "c'est pour moi"
+  },
+  {
+    "phrase": "for you",
+    "translation": "pour vous",
+    "new": true
+  },
+  {
+    "phrase": "it is for you",
+    "translation": "c'est pour vous"
+  },
+  {
+    "phrase": "it is very comfortable for me",
+    "translation": "c'est très confortable pour moi"
+  },
+  {
+    "phrase": "it is",
+    "translation": "c'est"
+  },
+  {
+    "phrase": "it is not",
+    "translation": "ce n'est pas"
+  },
+  {
+    "phrase": "not",
+    "translation": "pas"
+  },
+  {
+    "phrase": "it is not for me thank you",
+    "translation": "ce n'est pas pour moi merci"
+  },
+  {
+    "phrase": "thanks",
+    "translation": "merci"
+  },
+  {
+    "phrase": "it is",
+    "translation": "c'est"
+  },
+  {
+    "phrase": "it is not",
+    "translation": "ce n'est pas"
+  },
+  {
+    "phrase": "it is not for me",
+    "translation": "ce n'est pas pour moi"
+  },
+  {
+    "phrase": "not for me thanks",
+    "translation": "pas pour moi merci"
+  },
+  {
+    "phrase": "it is not very comfortable for me",
+    "translation": "ce n'est pas très confortable pour moi"
+  },
+  {
+    "phrase": "so-so",
+    "translation": "comme ci, comme ça",
+    "explanation": "literally 'like this, like that'"
+  },
+  {
+    "phrase": "like that, that way",
+    "translation": "comme ça"
+  },
+  {
+    "phrase": "it is like that",
+    "translation": "c'est comme ça"
+  },
+  {
+    "phrase": "it is not like that",
+    "translation": "ce n'est pas comme ça"
+  },
+  {
+    "phrase": "it is not possible for me that way",
+    "translation": "ce n'est pas possible pour moi comme ça"
+  },
+  {
+    "phrase": "it is not possible for me like that",
+    "translation": "ce n'est pas possible pour moi comme ça"
+  },
+  {
+    "phrase": "I'm sorry",
+    "translation": "je regrette"
+  },
+  {
+    "phrase": "I'm sorry, but",
+    "translation": "je regrette, mais"
+  },
+  {
+    "phrase": "I'm sorry but it is not very comfortable for me that way",
+    "translation": "je regrette, mais ce n'est pas très confortable pour moi comme ça"
+  },
+  {
+    "phrase": "I'm sorry but it is not acceptable for me that way",
+    "translation": "je regrette, mais ce n'est pas acceptable pour moi comme ça"
+  },
+  {
+    "phrase": "it is very remarkable",
+    "translation": "c'est très remarquable"
+  },
+  {
+    "phrase": "considerable",
+    "translation": "considerable",
+    "explanation": "-ent, -ant words stay the same in French"
+  },
+  {
+    "phrase": "different",
+    "translation": "différent"
+  },
+  {
+    "phrase": "important",
+    "translation": "important"
+  },
+  {
+    "phrase": "it is not very difficult that way",
+    "translation": "ce n'est pas très différent comme ça"
+  },
+  {
+    "phrase": "but it is very important for me",
+    "translation": "mais c'est très important pour moi",
+    "explanation": "the s of très leans into a following vowel, sounding like a z, i.e. tre zimportant"
+  },
+  {
+    "phrase": "evident",
+    "translation": "évident"
+  },
+  {
+    "phrase": "recent",
+    "translation": "récent"
+  },
+  {
+    "phrase": "constant",
+    "translation": "constant",
+    "explanation": "-ary words become -aire in French"
+  },
+  {
+    "phrase": "necessary",
+    "translation": "nécessaire"
+  },
+  {
+    "phrase": "it is not necessary for me",
+    "translation": "ce n'est pas nécessaire pour moi"
+  },
+  {
+    "phrase": "contrary",
+    "translation": "contraire"
+  },
+  {
+    "phrase": "on the contrary",
+    "translation": "au contraire"
+  },
+  {
+    "phrase": "military",
+    "translation": "militaire"
+  },
+  {
+    "phrase": "vocabulary",
+    "translation": "vocabulaire"
+  },
+  {
+    "phrase": "I would like",
+    "translation": "je voudrais"
+  },
+  {
+    "phrase": "to speak",
+    "translation": "parler"
+  },
+  {
+    "phrase": "to speak French",
+    "translation": "parler français"
+  },
+  {
+    "phrase": "I would like to speak French",
+    "translation": "je voudrais parler français"
+  },
+  {
+    "phrase": "with",
+    "translation": "avec"
+  },
+  {
+    "phrase": "with you",
+    "translation": "avec vous"
+  },
+  {
+    "phrase": "with me",
+    "translation": "avec moi"
+  },
+  {
+    "phrase": "I would like to speak French with you",
+    "translation": "je voudrais parler français avec vous"
+  },
+  {
+    "phrase": "will you, will you please",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "will you speak French with me",
+    "translation": "voulez-vous parler français avec moi"
+  },
+  {
+    "phrase": "to come",
+    "translation": "venir"
+  },
+  {
+    "phrase": "will you come with me",
+    "translation": "voulez-vous venir avec moi"
+  },
+  {
+    "phrase": "to eat",
+    "translation": "manger"
+  },
+  {
+    "phrase": "will you eat",
+    "translation": "voulez-vous manger"
+  },
+  {
+    "phrase": "to come",
+    "translation": "venir"
+  },
+  {
+    "phrase": "will you come with me",
+    "translation": "voulez-vous venir avec moi"
+  },
+  {
+    "phrase": "will you come eat with me",
+    "translation": "voulez-vous venir manger avec moi"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "to come",
+    "translation": "venir"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "will you go eat with me",
+    "translation": "voulez-vous aller manger avec moi"
+  },
+  {
+    "phrase": "where",
+    "translation": "où"
+  },
+  {
+    "phrase": "where do you want to go",
+    "translation": "où voulez-vous aller?"
+  },
+  {
+    "phrase": "where do you want to go eat",
+    "translation": "où voulez-vous aller manger?"
+  },
+  {
+    "phrase": "tonight, this evening",
+    "translation": "ce soir"
+  },
+  {
+    "phrase": "it is for tonight",
+    "translation": "c'est pour ce soir"
+  },
+  {
+    "phrase": "it is for me",
+    "translation": "c'est pour moi"
+  },
+  {
+    "phrase": "it is for tonight",
+    "translation": "c'est pour ce soir"
+  },
+  {
+    "phrase": "where do you want to go eat tonight",
+    "translation": "où voulez-vous aller manger ce soir"
+  },
+  {
+    "phrase": "to have dinner",
+    "translation": "dîner"
+  },
+  {
+    "phrase": "where do you want to have dinner tonight?",
+    "translation": "où voulez-vous dîner ce soir?"
+  },
+  {
+    "phrase": "do you want to come have dinner with me tonight?",
+    "translation": "voulez-vous venir diner avec moi ce soir?"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "I would like to know",
+    "translation": "je voudrais savoir"
+  },
+  {
+    "phrase": "I would like to know where",
+    "translation": "je voudrais savoir où"
+  },
+  {
+    "phrase": "I would like to know where it is",
+    "translation": "je voudrais savoir ou c'est"
+  },
+  {
+    "phrase": "how much",
+    "translation": "combien"
+  },
+  {
+    "phrase": "I would like to know how much it is",
+    "translation": "je voudrais savoir combien c'est"
+  },
+  {
+    "phrase": "something",
+    "translation": "quelque chose "
+  },
+  {
+    "phrase": "thing",
+    "translation": "la chose"
+  },
+  {
+    "phrase": "the same thing",
+    "translation": "la même chose"
+  },
+  {
+    "phrase": "I would like to eat something",
+    "translation": "je voudrais manger quelque chose"
+  },
+  {
+    "phrase": "I would like to eat the same thing",
+    "translation": "je voudrais manger la même chose"
+  },
+  {
+    "phrase": "will you",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "do you want",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "do you want to eat something?",
+    "translation": "voulez-vous manger quelque chose?"
+  },
+  {
+    "phrase": "do you want to eat the same thing?",
+    "translation": "voulez-vous manger la même chose?"
+  },
+  {
+    "phrase": "the same thing for me please",
+    "translation": "la même chose pour moi s'il vous plaît"
+  },
+  {
+    "phrase": "please",
+    "translation": "s'il vous plaît"
+  },
+  {
+    "phrase": "I would like the same thing for me please",
+    "translation": "je voudrais la même chose pour moi s'il vous plaît",
+    "explanation": "-ence and -ance words stay the same in French"
+  },
+  {
+    "phrase": "difference",
+    "translation": "différence"
+  },
+  {
+    "phrase": "preference",
+    "translation": "préférer"
+  },
+  {
+    "phrase": "importance",
+    "translation": "importance"
+  },
+  {
+    "phrase": "influence",
+    "translation": "influence"
+  },
+  {
+    "phrase": "difference",
+    "translation": "différence"
+  },
+  {
+    "phrase": "the difference",
+    "translation": "la différence"
+  },
+  {
+    "phrase": "a difference",
+    "translation": "une différence"
+  },
+  {
+    "phrase": "the difference",
+    "translation": "la différence"
+  },
+  {
+    "phrase": "a difference",
+    "translation": "une différence"
+  },
+  {
+    "phrase": "what difference",
+    "translation": "quelle différence"
+  },
+  {
+    "phrase": "what, which",
+    "translation": "quelle"
+  },
+  {
+    "phrase": "the preference",
+    "translation": "la préférence"
+  },
+  {
+    "phrase": "a preference",
+    "translation": "une préférence"
+  },
+  {
+    "phrase": "what preference",
+    "translation": "quelle préférence"
+  },
+  {
+    "phrase": "have you, do you have",
+    "translation": "avez-vous"
+  },
+  {
+    "phrase": "do you have a preference?",
+    "translation": "avez-vous une préférence?"
+  },
+  {
+    "phrase": "what preference do you have?",
+    "translation": "quelle préférence avez-vous?"
+  },
+  {
+    "phrase": "for what restaurant do you have a preference tonight?",
+    "translation": "pour quel restaurant avez-vous une préférence ce soir?"
+  },
+  {
+    "phrase": "opinion",
+    "translation": "opinion",
+    "explanation": "-ion words stay the same in French"
+  },
+  {
+    "phrase": "condition",
+    "translation": "condition"
+  },
+  {
+    "phrase": "the condition",
+    "translation": "la condition"
+  },
+  {
+    "phrase": "a condition",
+    "translation": "une condition"
+  },
+  {
+    "phrase": "what condition",
+    "translation": "quelle condition"
+  },
+  {
+    "phrase": "position",
+    "translation": "position"
+  },
+  {
+    "phrase": "the position",
+    "translation": "la position"
+  },
+  {
+    "phrase": "a position",
+    "translation": "une position"
+  },
+  {
+    "phrase": "what position",
+    "translation": "quelle position"
+  },
+  {
+    "phrase": "reservation",
+    "translation": "réservation"
+  },
+  {
+    "phrase": "the reservation",
+    "translation": "la réservation"
+  },
+  {
+    "phrase": "a reservation",
+    "translation": "une réservation"
+  },
+  {
+    "phrase": "what reservation",
+    "translation": "quelle réservation"
+  },
+  {
+    "phrase": "have you, do you have",
+    "translation": "avez-vous"
+  },
+  {
+    "phrase": "do you have a reservation for me for tonight?",
+    "translation": "avez-vous une réservation pour moi pour ce soir?"
+  },
+  {
+    "phrase": "what kind",
+    "translation": "quelle sorte"
+  },
+  {
+    "phrase": "of",
+    "translation": "de"
+  },
+  {
+    "phrase": "what kind of reservation do you have for me for tonight?",
+    "translation": "quelle sorte de réservation avez-vous pour moi pour ce soir?"
+  },
+  {
+    "phrase": "will you",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "do you want",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "what kind of reservation do you want for tonight?",
+    "translation": "quelle sorte de réservation voulez-vous pour ce soir?",
+    "explanation": "the 1200 nouns which end -ion in French are identical in English, there are only three exceptions"
+  },
+  {
+    "phrase": "translation",
+    "translation": "traduction"
+  },
+  {
+    "phrase": "I would like a translation",
+    "translation": "je voudrais une traduction"
+  },
+  {
+    "phrase": "to do, to make",
+    "translation": "faire"
+  },
+  {
+    "phrase": "will you make a reservation for me?",
+    "translation": "voulez-vous faire une réservation pour moi?"
+  },
+  {
+    "phrase": "what kind of reservation to you want to make?",
+    "translation": "quelle sorte de réservation voulez-vous faire?"
+  },
+  {
+    "phrase": "will you make a translation for me?",
+    "translation": "voulez-vous faire une traduction pour moi?"
+  },
+  {
+    "phrase": "explanation",
+    "translation": "explication"
+  },
+  {
+    "phrase": "to give",
+    "translation": "donner"
+  },
+  {
+    "phrase": "will you give an explanation for me?",
+    "translation": "voulez-vous donner une explication pour moi?"
+  },
+  {
+    "phrase": "vacation",
+    "translation": "les vacances"
+  },
+  {
+    "phrase": "to spend (time)",
+    "translation": "passer"
+  },
+  {
+    "phrase": "to spend (money)",
+    "translation": "dépenser"
+  },
+  {
+    "phrase": "to spend the vacation",
+    "translation": "passer les vacances"
+  },
+  {
+    "phrase": "where do you want to spend the vacation?",
+    "translation": "où voulez-vous passer les vacances?"
+  },
+  {
+    "phrase": "the situation",
+    "translation": "la situation"
+  },
+  {
+    "phrase": "what impression do you have?",
+    "translation": "quelle impression avez-vous?"
+  },
+  {
+    "phrase": "what impression do you have of the situation?",
+    "translation": "quelle impression avez-vous de la situation?",
+    "explanation": "-ical words become -ique in French"
+  },
+  {
+    "phrase": "political",
+    "translation": "politique"
+  },
+  {
+    "phrase": "economical",
+    "translation": "économique"
+  },
+  {
+    "phrase": "philosophical",
+    "translation": "philosophique"
+  },
+  {
+    "phrase": "astronomical",
+    "translation": "astronomique"
+  },
+  {
+    "phrase": "logical",
+    "translation": "logique"
+  },
+  {
+    "phrase": "practical",
+    "translation": "pratique"
+  },
+  {
+    "phrase": "it is not logical, but it is very practical that way",
+    "translation": "ce n'est pas logique, mais c'est très pratique comme ça",
+    "explanation": "French adjectives follow the noun"
+  },
+  {
+    "phrase": "the political situation",
+    "translation": "la situation politique"
+  },
+  {
+    "phrase": "the economical situation",
+    "translation": "la situation économique"
+  },
+  {
+    "phrase": "and",
+    "translation": "et"
+  },
+  {
+    "phrase": "the political and economic situation",
+    "translation": "la situation politique et économique"
+  },
+  {
+    "phrase": "in France, to France",
+    "translation": "en France"
+  },
+  {
+    "phrase": "I would like to go to France",
+    "translation": "je voudrais aller en France"
+  },
+  {
+    "phrase": "I would like to spend the vacation in France",
+    "translation": "je voudrais passer les vacances en France"
+  },
+  {
+    "phrase": "what impression do you have of the political and economical situation in France?",
+    "translation": "quelle impression avez-vous de la situation politique et économique en France?"
+  },
+  {
+    "phrase": "at the present time",
+    "translation": "à présent"
+  },
+  {
+    "phrase": "what kind of reservation do you have for me?",
+    "translation": "quelle sorte de réservation avez-vous pour moi?"
+  },
+  {
+    "phrase": "what kind of reservation do you want for tonight?",
+    "translation": "quelle sorte de réservation voulez-vous pour ce soir?"
+  },
+  {
+    "phrase": "small",
+    "translation": "petit",
+    "explanation": "consonants at the end of the word are not sounded, unless they are followed by a silent -e"
+  },
+  {
+    "phrase": "it is very small",
+    "translation": "c'est très petit"
+  },
+  {
+    "phrase": "too, too much",
+    "translation": "trop"
+  },
+  {
+    "phrase": "it is too small",
+    "translation": "c'est trop petit"
+  },
+  {
+    "phrase": "late",
+    "translation": "tard"
+  },
+  {
+    "phrase": "it is very late",
+    "translation": "c'est très tard"
+  },
+  {
+    "phrase": "it is too late",
+    "translation": "c'est trop tard"
+  },
+  {
+    "phrase": "it is too much for me",
+    "translation": "c'est trop pour moi"
+  },
+  {
+    "phrase": "he is big",
+    "translation": "il est grand"
+  },
+  {
+    "phrase": "she is big",
+    "translation": "elle est grande"
+  },
+  {
+    "phrase": "she is little",
+    "translation": "elle est petite"
+  },
+  {
+    "phrase": "fast",
+    "translation": "vit"
+  },
+  {
+    "phrase": "it is very fast",
+    "translation": "c'est très vit"
+  },
+  {
+    "phrase": "it is too fast for me",
+    "translation": "c'est trop vite pour moi"
+  },
+  {
+    "phrase": "to speak",
+    "translation": "parler",
+    "explanation": "infinitive verbs end in -r, like parler"
+  },
+  {
+    "phrase": "you speak",
+    "translation": "vous parlez"
+  },
+  {
+    "phrase": "you speak too fast for me",
+    "translation": "vous parlez trop vit pour moi"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "you go, you are going",
+    "translation": "vous allez"
+  },
+  {
+    "phrase": "you are going too fast for me",
+    "translation": "vous allez trop vite pour moi"
+  },
+  {
+    "phrase": "it is very good",
+    "translation": "c'est très bon"
+  },
+  {
+    "phrase": "so",
+    "translation": "si"
+  },
+  {
+    "phrase": "it is so good",
+    "translation": "c'est si bon"
+  },
+  {
+    "phrase": "if",
+    "translation": "si"
+  },
+  {
+    "phrase": "if it is so good",
+    "translation": "si c'est si bon"
+  },
+  {
+    "phrase": "I would like to know if it is so good",
+    "translation": "je voudrais savoir si c'est si bon"
+  },
+  {
+    "phrase": "why",
+    "translation": "pourquoi"
+  },
+  {
+    "phrase": "I would like to know why it is so good",
+    "translation": "je voudrais savoir pourquoi c'est si bon"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "you are going",
+    "translation": "vous allez"
+  },
+  {
+    "phrase": "I would like to know where you are going",
+    "translation": "je voudrais savoir où vous allez"
+  },
+  {
+    "phrase": "to have dinner",
+    "translation": "dîner"
+  },
+  {
+    "phrase": "I would like to know where you are going to have dinner tonight",
+    "translation": "je voudrais savoir où vous allez dîner ce soir"
+  },
+  {
+    "phrase": "port, harbour",
+    "translation": "port"
+  },
+  {
+    "phrase": "airport",
+    "translation": "aéroport"
+  },
+  {
+    "phrase": "door",
+    "translation": "porte"
+  },
+  {
+    "phrase": "bag",
+    "translation": "sac",
+    "explanation": "four consonants may be pronounced at the end of the word: c, r, f, l, the so-called \"careful\" consonants. For example avec, sac, but not words ending -nc e.g. blanc"
+  },
+  {
+    "phrase": "white",
+    "translation": "blanc"
+  },
+  {
+    "phrase": "franc",
+    "translation": "franc"
+  },
+  {
+    "phrase": "white wine",
+    "translation": "vin blanc"
+  },
+  {
+    "phrase": "a glass",
+    "translation": "un verre"
+  },
+  {
+    "phrase": "a glass of white wine",
+    "translation": "un verre de vin blanc"
+  },
+  {
+    "phrase": "I would like a glass of white wine",
+    "translation": "je voudrais un verre de vin blanc"
+  },
+  {
+    "phrase": "bottle",
+    "translation": "bouteille"
+  },
+  {
+    "phrase": "I would like a bottle",
+    "translation": "je voudrais une bouteille"
+  },
+  {
+    "phrase": "I would like a bottle of white wine",
+    "translation": "je voudrais une bouteille de vin blanc"
+  },
+  {
+    "phrase": "water",
+    "translation": "eau"
+  },
+  {
+    "phrase": "from",
+    "translation": "de"
+  },
+  {
+    "phrase": "I would like a glass of white wine",
+    "translation": "je voudrais un verre de vin blanc"
+  },
+  {
+    "phrase": "I would like a glass of water",
+    "translation": "je voudrais un verre d'eau"
+  },
+  {
+    "phrase": "I would like a glass of mineral water",
+    "translation": "je voudrais un verre d'eau minérale",
+    "explanation": "words ending -el, -al are the same in French"
+  },
+  {
+    "phrase": "normal",
+    "translation": "normal"
+  },
+  {
+    "phrase": "normally",
+    "translation": "normallement"
+  },
+  {
+    "phrase": "general",
+    "translation": "général"
+  },
+  {
+    "phrase": "generally",
+    "translation": "généralement"
+  },
+  {
+    "phrase": "animal",
+    "translation": "animal"
+  },
+  {
+    "phrase": "special",
+    "translation": "spécial"
+  },
+  {
+    "phrase": "it is very special",
+    "translation": "c'est très spécial"
+  },
+  {
+    "phrase": "especially for you",
+    "translation": "spécialement pour vous"
+  },
+  {
+    "phrase": "I would like a glass of mineral water",
+    "translation": "je voudrais un verre d'eau minérale"
+  },
+  {
+    "phrase": "cup",
+    "translation": "tasse"
+  },
+  {
+    "phrase": "I would like a cup of coffee",
+    "translation": "je voudrais une tasse de café"
+  },
+  {
+    "phrase": "still, still more",
+    "translation": "encore"
+  },
+  {
+    "phrase": "a little",
+    "translation": "un peu"
+  },
+  {
+    "phrase": "I would like a little",
+    "translation": "je voudrais un peu"
+  },
+  {
+    "phrase": "late",
+    "translation": "tard"
+  },
+  {
+    "phrase": "it is very late",
+    "translation": "c'est très tard"
+  },
+  {
+    "phrase": "it is too late",
+    "translation": "c'est trop tard"
+  },
+  {
+    "phrase": "later, more late",
+    "translation": "plus tard"
+  },
+  {
+    "phrase": "to come",
+    "translation": "venir"
+  },
+  {
+    "phrase": "will you come later",
+    "translation": "voulez-vous venir plus tard"
+  },
+  {
+    "phrase": "a little",
+    "translation": "un peu"
+  },
+  {
+    "phrase": "a little later",
+    "translation": "un peu plus tard"
+  },
+  {
+    "phrase": "will you come a little later",
+    "translation": "voulez-vous venir un peu plus tard"
+  },
+  {
+    "phrase": "now",
+    "translation": "maintenant"
+  },
+  {
+    "phrase": "not now",
+    "translation": "pas maintenant"
+  },
+  {
+    "phrase": "possible",
+    "translation": "possible"
+  },
+  {
+    "phrase": "possibly",
+    "translation": "possiblement"
+  },
+  {
+    "phrase": "not now, possibly a little later",
+    "translation": "pas maintenant, possiblement un peu plus tard"
+  },
+  {
+    "phrase": "I would like to eat something",
+    "translation": "je voudrais manger quelque chose",
+    "explanation": "\"s\" between two vowels has the sound of a \"z\""
+  },
+  {
+    "phrase": "something",
+    "translation": "quelque chose"
+  },
+  {
+    "phrase": "the same thing",
+    "translation": "la même chose"
+  },
+  {
+    "phrase": "I would like to eat the same thing",
+    "translation": "je voudrais manger la même chose"
+  },
+  {
+    "phrase": "other",
+    "translation": "autre"
+  },
+  {
+    "phrase": "the other thing",
+    "translation": "l'autre chose"
+  },
+  {
+    "phrase": "another thing",
+    "translation": "une autre chose"
+  },
+  {
+    "phrase": "something else",
+    "translation": "autre chose"
+  },
+  {
+    "phrase": "I would like something else",
+    "translation": "je voudrais autre chose"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "goodbye",
+    "translation": "au revoir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "I would like to see something else",
+    "translation": "je voudrais voir autre chose"
+  },
+  {
+    "phrase": "do you have something else?",
+    "translation": "avez-vous autre chose?"
+  },
+  {
+    "phrase": "do you want something else?",
+    "translation": "voulez-vous autre chose?"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "to have",
+    "translation": "avoir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "I would like to have something else",
+    "translation": "je voudrais avoir autre chose"
+  },
+  {
+    "phrase": "I would like to know",
+    "translation": "je voudrais savoir"
+  },
+  {
+    "phrase": "I would like a glass of white wine",
+    "translation": "je voudrais un verre de vin blanc"
+  },
+  {
+    "phrase": "I would like another glass of white wine",
+    "translation": "je voudrais encore un verre de vin blanc "
+  },
+  {
+    "phrase": "another please! (to waiter)",
+    "translation": "encore"
+  },
+  {
+    "phrase": "I would like another bottle of white wine",
+    "translation": "je voudrais encore une bouteille de vin blanc"
+  },
+  {
+    "phrase": "I would like a cup of coffee",
+    "translation": "je voudrais une tasse de café"
+  },
+  {
+    "phrase": "I would like another cup of coffee",
+    "translation": "je voudrais encore une tasse de café"
+  },
+  {
+    "phrase": "I would like a glass of mineral water",
+    "translation": "je voudrais un verre d'eau minérale"
+  },
+  {
+    "phrase": "I would like another glass of mineral water",
+    "translation": "je voudrais encore un verre d'eau minérale",
+    "explanation": "the final -r is pronounced, except in -er e.g. parler. 90% of French verbs end -er"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "beef",
+    "translation": "bœuf",
+    "explanation": "the œ is pronounced like the e in her"
+  },
+  {
+    "phrase": "to leave",
+    "translation": "partir"
+  },
+  {
+    "phrase": "to sleep",
+    "translation": "dormir"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "to understand",
+    "translation": "comprendre"
+  },
+  {
+    "phrase": "to do, make",
+    "translation": "faire",
+    "explanation": "when two or three verbs appear consecutively, all but the first are in infinite form"
+  },
+  {
+    "phrase": "will you",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "to come",
+    "translation": "venir"
+  },
+  {
+    "phrase": "to eat",
+    "translation": "manger"
+  },
+  {
+    "phrase": "will you come eat with me",
+    "translation": "voulez-vous venir manger avec moi"
+  },
+  {
+    "phrase": "I must",
+    "translation": "je dois"
+  },
+  {
+    "phrase": "I must speak with you",
+    "translation": "je dois parler avec vous"
+  },
+  {
+    "phrase": "will you speak French with me",
+    "translation": "voulez-vous parler français avec moi"
+  },
+  {
+    "phrase": "I must know where it is",
+    "translation": "je dois savoir où c'est"
+  },
+  {
+    "phrase": "I am",
+    "translation": "je suis"
+  },
+  {
+    "phrase": "tired",
+    "translation": "fatigué"
+  },
+  {
+    "phrase": "I am tired",
+    "translation": "je suis fatigué"
+  },
+  {
+    "phrase": "I am very tired now",
+    "translation": "je suis très fatigué maintenant"
+  },
+  {
+    "phrase": "busy",
+    "translation": "occupé"
+  },
+  {
+    "phrase": "I am very busy now",
+    "translation": "je suis très occupé maintenant"
+  },
+  {
+    "phrase": "a little",
+    "translation": "un peu"
+  },
+  {
+    "phrase": "I can",
+    "translation": "je peux"
+  },
+  {
+    "phrase": "I can a little",
+    "translation": "je peux un peu"
+  },
+  {
+    "phrase": "not now",
+    "translation": "pas maintenant"
+  },
+  {
+    "phrase": "not for me thank you",
+    "translation": "pas pour moi merci"
+  },
+  {
+    "phrase": "I can",
+    "translation": "je peux"
+  },
+  {
+    "phrase": "I cannot",
+    "translation": "je ne peux pas",
+    "explanation": "French uses a negative signal ne for any kind of negation, which is often dropped in the spoken language, e.g \"I cannot\" je peux pas"
+  },
+  {
+    "phrase": "I am",
+    "translation": "je suis"
+  },
+  {
+    "phrase": "I am not",
+    "translation": "je ne suis pas"
+  },
+  {
+    "phrase": "I'm not tired now",
+    "translation": "je ne suis pas fatigué maintenant"
+  },
+  {
+    "phrase": "but I'm very busy now mais",
+    "translation": "je suis très fatigué maintenant"
+  },
+  {
+    "phrase": "I'm sorry, but",
+    "translation": "je regrette, mais"
+  },
+  {
+    "phrase": "but I'm not very busy now mais",
+    "translation": "je ne suis pas très occupé maintenant"
+  },
+  {
+    "phrase": "to wait",
+    "translation": "attendre"
+  },
+  {
+    "phrase": "to leave",
+    "translation": "partir"
+  },
+  {
+    "phrase": "I am sorry but I cannot wait because I have to leave now",
+    "translation": "je regrette, mais je ne peux pas attendre parce que je dois partir maintenant"
+  },
+  {
+    "phrase": "I'm sorry",
+    "translation": "je suis désolée"
+  },
+  {
+    "phrase": "I'm sorry, but",
+    "translation": "je suis désolée, mais"
+  },
+  {
+    "phrase": "I can",
+    "translation": "je peux"
+  },
+  {
+    "phrase": "I cannot",
+    "translation": "je ne peux pas"
+  },
+  {
+    "phrase": "I'm sorry but I cannot come with you now because I am very busy",
+    "translation": "je suis desolée, mais je ne peux pas venir avec vous parce que je suis très occupé"
+  },
+  {
+    "phrase": "I would like to speak with you",
+    "translation": "je voudrais parler avec vous"
+  },
+  {
+    "phrase": "I have to speak with you",
+    "translation": "je dois parler avec vous"
+  },
+  {
+    "phrase": "you speak",
+    "translation": "je voudrais encore une tasse de café",
+    "explanation": "in a question, invert the subject and verb"
+  },
+  {
+    "phrase": "do you speak?",
+    "translation": "parlez-vous?"
+  },
+  {
+    "phrase": "to speak French?",
+    "translation": "parlez-vous français?"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "you are going",
+    "translation": "vous allez"
+  },
+  {
+    "phrase": "are you going?",
+    "translation": "allez-vous?"
+  },
+  {
+    "phrase": "where are you going?",
+    "translation": "où allez-vous?"
+  },
+  {
+    "phrase": "to have dinner",
+    "translation": "dîner"
+  },
+  {
+    "phrase": "where are you going to have dinner tonight?",
+    "translation": "où allez-vous dîner ce soir?"
+  },
+  {
+    "phrase": "to leave",
+    "translation": "partir"
+  },
+  {
+    "phrase": "you are leaving",
+    "translation": "vous partez"
+  },
+  {
+    "phrase": "at what time?",
+    "translation": "à quelle heure?"
+  },
+  {
+    "phrase": "at what time are you leaving?",
+    "translation": "à quelle heure partez-vous?"
+  },
+  {
+    "phrase": "at what time do you leave?",
+    "translation": "à quelle heure partez-vous?"
+  },
+  {
+    "phrase": "to stay",
+    "translation": "rester"
+  },
+  {
+    "phrase": "you are staying",
+    "translation": "vous restez"
+  },
+  {
+    "phrase": "I am staying",
+    "translation": "je reste"
+  },
+  {
+    "phrase": "he",
+    "translation": "il"
+  },
+  {
+    "phrase": "he is staying",
+    "translation": "il reste"
+  },
+  {
+    "phrase": "she",
+    "translation": "elle"
+  },
+  {
+    "phrase": "she is staying",
+    "translation": "elle reste"
+  },
+  {
+    "phrase": "my friend",
+    "translation": "mon ami"
+  },
+  {
+    "phrase": "my friend is staying",
+    "translation": "mon ami reste"
+  },
+  {
+    "phrase": "everybody",
+    "translation": "tout le monde"
+  },
+  {
+    "phrase": "I am staying",
+    "translation": "je reste"
+  },
+  {
+    "phrase": "I am not staying",
+    "translation": "je ne reste pas"
+  },
+  {
+    "phrase": "I don't stay",
+    "translation": "je ne reste pas"
+  },
+  {
+    "phrase": "I am busy",
+    "translation": "je suis occupé",
+    "explanation": "there are three ways to express the present tense in English, which are all translated the same way into French"
+  },
+  {
+    "phrase": "I am not busy now",
+    "translation": "je ne suis pas occupé maintenant"
+  },
+  {
+    "phrase": "I am tired",
+    "translation": "je suis fatigué"
+  },
+  {
+    "phrase": "I am not tired",
+    "translation": "je ne suis pas fatigué"
+  },
+  {
+    "phrase": "ready",
+    "translation": "prêt"
+  },
+  {
+    "phrase": "I am ready (spoken by man)",
+    "translation": "je suis prêt"
+  },
+  {
+    "phrase": "I am ready (spoken by woman)",
+    "translation": "je suis prête"
+  },
+  {
+    "phrase": "he is",
+    "translation": "il est"
+  },
+  {
+    "phrase": "he is reading",
+    "translation": "il est prêt"
+  },
+  {
+    "phrase": "she is reading",
+    "translation": "elle est prête"
+  },
+  {
+    "phrase": "to stay",
+    "translation": "rester"
+  },
+  {
+    "phrase": "I am staying",
+    "translation": "je reste"
+  },
+  {
+    "phrase": "I'm ready",
+    "translation": "je suis prêt"
+  },
+  {
+    "phrase": "I am eating",
+    "translation": "je mange"
+  },
+  {
+    "phrase": "I am speaking",
+    "translation": "je parle"
+  },
+  {
+    "phrase": "do you speak?",
+    "translation": "parlez-vous?"
+  },
+  {
+    "phrase": "are you speaking?",
+    "translation": "parlez-vous?"
+  },
+  {
+    "phrase": "to wait",
+    "translation": "attendre"
+  },
+  {
+    "phrase": "you wait",
+    "translation": "vous attendez"
+  },
+  {
+    "phrase": "wait a moment!",
+    "translation": "attendez! attendez un moment!"
+  },
+  {
+    "phrase": "you are waiting",
+    "translation": "vous attendez"
+  },
+  {
+    "phrase": "you are not waiting",
+    "translation": "vous n'attendez pas"
+  },
+  {
+    "phrase": "you don't wait",
+    "translation": "vous n'attendez pas"
+  },
+  {
+    "phrase": "why",
+    "translation": "pourquoi"
+  },
+  {
+    "phrase": "why do you wait?",
+    "translation": "pourquoi attendez-vous?"
+  },
+  {
+    "phrase": "why are you waiting?",
+    "translation": "pourquoi attendez-vous?"
+  },
+  {
+    "phrase": "to leave",
+    "translation": "partir"
+  },
+  {
+    "phrase": "at what time",
+    "translation": "à quelle heure"
+  },
+  {
+    "phrase": "at what time do you leave?",
+    "translation": "à quelle heure partez-vous?"
+  },
+  {
+    "phrase": "at what time are you leaving?",
+    "translation": "à quelle heure partez-vous?"
+  },
+  {
+    "phrase": "we, us",
+    "translation": "nous"
+  },
+  {
+    "phrase": "we are leaving",
+    "translation": "nous partons"
+  },
+  {
+    "phrase": "you are waiting",
+    "translation": "vous attendez"
+  },
+  {
+    "phrase": "we are waiting",
+    "translation": "nous attendons"
+  },
+  {
+    "phrase": "you speak",
+    "translation": "vous parlez"
+  },
+  {
+    "phrase": "we speak",
+    "translation": "nous parlons"
+  },
+  {
+    "phrase": "to start",
+    "translation": "commencer"
+  },
+  {
+    "phrase": "you are starting",
+    "translation": "vous commencez"
+  },
+  {
+    "phrase": "we are starting",
+    "translation": "nous commencons"
+  },
+  {
+    "phrase": "at what time are you starting?",
+    "translation": "à quelle heure commencez-vous?"
+  },
+  {
+    "phrase": "at what time do you start?",
+    "translation": "à quelle heure commencez-vous?"
+  },
+  {
+    "phrase": "tomorrow",
+    "translation": "demain"
+  },
+  {
+    "phrase": "at what time are we starting tomorrow?",
+    "translation": "à quelle heure commencons-nous demain?"
+  },
+  {
+    "phrase": "I am ready",
+    "translation": "je suis prêt"
+  },
+  {
+    "phrase": "I am starting",
+    "translation": "je commence"
+  },
+  {
+    "phrase": "I am not starting",
+    "translation": "je ne commence pas"
+  },
+  {
+    "phrase": "he is starting",
+    "translation": "il commence"
+  },
+  {
+    "phrase": "she is starting",
+    "translation": "elle commence"
+  },
+  {
+    "phrase": "she is ready",
+    "translation": "elle est prête"
+  },
+  {
+    "phrase": "she is starting",
+    "translation": "elle"
+  },
+  {
+    "phrase": "she is not starting",
+    "translation": "elle ne commence pas"
+  },
+  {
+    "phrase": "she doesn't start",
+    "translation": "elle ne commence pas"
+  },
+  {
+    "phrase": "it is",
+    "translation": "c'est"
+  },
+  {
+    "phrase": "it is not",
+    "translation": "ce n'est pas"
+  },
+  {
+    "phrase": "it, this, that (at beginning of sentence)",
+    "translation": "ça"
+  },
+  {
+    "phrase": "it starts",
+    "translation": "ça commence"
+  },
+  {
+    "phrase": "it is ready",
+    "translation": "c'est prêt"
+  },
+  {
+    "phrase": "it is starting",
+    "translation": "ça commence"
+  },
+  {
+    "phrase": "it is possible",
+    "translation": "c'est possible"
+  },
+  {
+    "phrase": "it is very important",
+    "translation": "c'est très important"
+  },
+  {
+    "phrase": "it is very different",
+    "translation": "c'est très différent"
+  },
+  {
+    "phrase": "it is not necessary",
+    "translation": "ce n'est pas nécessaire"
+  },
+  {
+    "phrase": "it is starting",
+    "translation": "ça commence"
+  },
+  {
+    "phrase": "it is not ready",
+    "translation": "ça n'est pas prêt"
+  },
+  {
+    "phrase": "it is not starting",
+    "translation": "ça ne commence pas"
+  },
+  {
+    "phrase": "it doesn't start",
+    "translation": "ça ne commence pas"
+  },
+  {
+    "phrase": "I can",
+    "translation": "je peux"
+  },
+  {
+    "phrase": "he can",
+    "translation": "il peut"
+  },
+  {
+    "phrase": "she can",
+    "translation": "elle peut"
+  },
+  {
+    "phrase": "it can start now",
+    "translation": "ça peut commencer maintenant"
+  },
+  {
+    "phrase": "it must start now",
+    "translation": "ça doit commencer maintenant",
+    "explanation": "many French words can be guessed, such as \"arrive\" arriver"
+  },
+  {
+    "phrase": "arrive",
+    "translation": "arriver"
+  },
+  {
+    "phrase": "at what time do you arrive tomorrow?",
+    "translation": "à quelle heure arrivez-vous demain?"
+  },
+  {
+    "phrase": "at what time are you arriving?",
+    "translation": "à quelle heure arrivez-vous?"
+  },
+  {
+    "phrase": "morning",
+    "translation": "matin"
+  },
+  {
+    "phrase": "tomorrow morning",
+    "translation": "demain matin"
+  },
+  {
+    "phrase": "morning (the whole morning)",
+    "translation": "matinée"
+  },
+  {
+    "phrase": "to spend the whole morning",
+    "translation": "passer la matinée"
+  },
+  {
+    "phrase": "to spend the whole evening",
+    "translation": "passer la soirée"
+  },
+  {
+    "phrase": "good day",
+    "translation": "bonjour"
+  },
+  {
+    "phrase": "day",
+    "translation": "jour"
+  },
+  {
+    "phrase": "to spend the whole day",
+    "translation": "passer la journée"
+  },
+  {
+    "phrase": "in, to (a city)",
+    "translation": "à"
+  },
+  {
+    "phrase": "at to (a country)",
+    "translation": "en"
+  },
+  {
+    "phrase": "at what time do we arrive in Paris tomorrow morning?",
+    "translation": "à quelle heure arrivons-nous à Paris demain matin?"
+  },
+  {
+    "phrase": "I am",
+    "translation": "je suis"
+  },
+  {
+    "phrase": "I am arriving",
+    "translation": "j'arrive"
+  },
+  {
+    "phrase": "I am busy",
+    "translation": "je suis occupé"
+  },
+  {
+    "phrase": "I am tired",
+    "translation": "je suis fatigué"
+  },
+  {
+    "phrase": "I'm ready",
+    "translation": "je suis prêt"
+  },
+  {
+    "phrase": "I am eating",
+    "translation": "je mange"
+  },
+  {
+    "phrase": "he is ready",
+    "translation": "il est prêt"
+  },
+  {
+    "phrase": "he is arriving",
+    "translation": "il arrive"
+  },
+  {
+    "phrase": "she is ready",
+    "translation": "elle est prête"
+  },
+  {
+    "phrase": "she is arriving",
+    "translation": "elle arrive"
+  },
+  {
+    "phrase": "soon",
+    "translation": "bientôt"
+  },
+  {
+    "phrase": "so long, until soon",
+    "translation": "à bientôt"
+  },
+  {
+    "phrase": "she is arriving soon",
+    "translation": "elle arrive bientôt"
+  },
+  {
+    "phrase": "today",
+    "translation": "aujourd'hui",
+    "explanation": "au is short for à le"
+  },
+  {
+    "phrase": "the restaurant",
+    "translation": "le restaurant"
+  },
+  {
+    "phrase": "at the restaurant",
+    "translation": "au restaurant"
+  },
+  {
+    "phrase": "the office",
+    "translation": "le bureau"
+  },
+  {
+    "phrase": "I am at the office",
+    "translation": "je suis au bureau"
+  },
+  {
+    "phrase": "not today",
+    "translation": "pas aujourd'hui"
+  },
+  {
+    "phrase": "to be",
+    "translation": "être"
+  },
+  {
+    "phrase": "here",
+    "translation": "ici"
+  },
+  {
+    "phrase": "I would like to be here",
+    "translation": "je voudrais être ici"
+  },
+  {
+    "phrase": "I would like to be here with you",
+    "translation": "je voudrais être ici avec vous"
+  },
+  {
+    "phrase": "at what time are you going to be here?",
+    "translation": "à quelle heure allez-vous être ici?"
+  },
+  {
+    "phrase": "I have",
+    "translation": "j'ai"
+  },
+  {
+    "phrase": "I have something for you",
+    "translation": "j'ai quelque chose pour vous"
+  },
+  {
+    "phrase": "I have a message for you",
+    "translation": "j'ai un message pour vous"
+  },
+  {
+    "phrase": "he has",
+    "translation": "il a"
+  },
+  {
+    "phrase": "he has something for you",
+    "translation": "il a quelque chose pour vous"
+  },
+  {
+    "phrase": "I have",
+    "translation": "j'ai"
+  },
+  {
+    "phrase": "I don't have",
+    "translation": "je n'ai pas"
+  },
+  {
+    "phrase": "he has",
+    "translation": "il a"
+  },
+  {
+    "phrase": "he doesn't have",
+    "translation": "il n'a pas"
+  },
+  {
+    "phrase": "I am hungry",
+    "translation": "j'ai faim"
+  },
+  {
+    "phrase": "I would like to eat something now because I'm hungry",
+    "translation": "je voudrais manger quelque chose parce que j'ai faim"
+  },
+  {
+    "phrase": "I am going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "I am going to stay here",
+    "translation": "je vais rester ici"
+  },
+  {
+    "phrase": "I'm going to leave soon, I'm not going to stay",
+    "translation": "je vais partir bientôt, je ne vais pas rester"
+  },
+  {
+    "phrase": "I'm going to eat",
+    "translation": "je vais manger"
+  },
+  {
+    "phrase": "I'm going to start soon",
+    "translation": "je vais commencer bientôt"
+  },
+  {
+    "phrase": "I'm not going to leave today",
+    "translation": "je ne vais pas partir aujord'hui"
+  },
+  {
+    "phrase": "I am going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "I'm not going",
+    "translation": "je ne vais pas"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "I am going to start soon",
+    "translation": "je vais commencer bientôt"
+  },
+  {
+    "phrase": "he is going to start soon",
+    "translation": "il vous commencer bientôt"
+  },
+  {
+    "phrase": "he is",
+    "translation": "il est"
+  },
+  {
+    "phrase": "there",
+    "translation": "là"
+  },
+  {
+    "phrase": "he is there",
+    "translation": "il est là"
+  },
+  {
+    "phrase": "he is not there",
+    "translation": "il n'est pas là",
+    "explanation": "il n'est pas là also means \"he is not in\""
+  },
+  {
+    "phrase": "who",
+    "translation": "qui"
+  },
+  {
+    "phrase": "who is there?",
+    "translation": "qui est là?"
+  },
+  {
+    "phrase": "my friend is there",
+    "translation": "mon ami est là"
+  },
+  {
+    "phrase": "everybody is there",
+    "translation": "tout le monde est là"
+  },
+  {
+    "phrase": "nobody",
+    "translation": "personne"
+  },
+  {
+    "phrase": "the person",
+    "translation": "la personne"
+  },
+  {
+    "phrase": "a person",
+    "translation": "une personne"
+  },
+  {
+    "phrase": "nobody is there",
+    "translation": "personne est là",
+    "explanation": "personne est là also means 'nobody is in'"
+  },
+  {
+    "phrase": "everybody is ready",
+    "translation": "tout le monde est prêt"
+  },
+  {
+    "phrase": "she is ready",
+    "translation": "elle est prête"
+  },
+  {
+    "phrase": "he is ready",
+    "translation": "il est prêt"
+  },
+  {
+    "phrase": "I am going to be ready soon",
+    "translation": "je vais être prêt bientôt"
+  },
+  {
+    "phrase": "he is going to be ready soon",
+    "translation": "il va être prêt bientôt"
+  },
+  {
+    "phrase": "she is going to be ready soon",
+    "translation": "elle va être prête bientôt"
+  },
+  {
+    "phrase": "who is going to be there tonight",
+    "translation": "qui va être là ce soir"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "she is going",
+    "translation": "elle va"
+  },
+  {
+    "phrase": "everybody is going",
+    "translation": "tout le monde va"
+  },
+  {
+    "phrase": "nobody is going",
+    "translation": "personne ne va"
+  },
+  {
+    "phrase": "all, everything",
+    "translation": "tout"
+  },
+  {
+    "phrase": "everything is going",
+    "translation": "tout va"
+  },
+  {
+    "phrase": "well",
+    "translation": "bien"
+  },
+  {
+    "phrase": "everything is going very well",
+    "translation": "tout va très bien"
+  },
+  {
+    "phrase": "nothing",
+    "translation": "rien"
+  },
+  {
+    "phrase": "nothing is going",
+    "translation": "rien ne va"
+  },
+  {
+    "phrase": "nothing is going to be ready today",
+    "translation": "rien ne va être prêt aujourd'hui"
+  },
+  {
+    "phrase": "he is ready",
+    "translation": "il est prêt"
+  },
+  {
+    "phrase": "nothing is ready",
+    "translation": "rien n'est prêt"
+  },
+  {
+    "phrase": "who is ready?",
+    "translation": "qui est prêt?"
+  },
+  {
+    "phrase": "she is ready",
+    "translation": "elle est prête"
+  },
+  {
+    "phrase": "he is ready",
+    "translation": "il est prêt"
+  },
+  {
+    "phrase": "who is ready",
+    "translation": "qui est prêt"
+  },
+  {
+    "phrase": "everybody is ready",
+    "translation": "tout le monde est prêt"
+  },
+  {
+    "phrase": "nobody is ready",
+    "translation": "personne n'est prêt"
+  },
+  {
+    "phrase": "everything is ready",
+    "translation": "tout est prêt"
+  },
+  {
+    "phrase": "nothing is ready",
+    "translation": "rien n'est prêt"
+  },
+  {
+    "phrase": "is",
+    "translation": "est"
+  },
+  {
+    "phrase": "is going",
+    "translation": "va"
+  },
+  {
+    "phrase": "I am",
+    "translation": "je suis"
+  },
+  {
+    "phrase": "I am going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "I'm ready",
+    "translation": "je suis prêt"
+  },
+  {
+    "phrase": "I am going to be ready soon",
+    "translation": "je vais être prêt bientôt"
+  },
+  {
+    "phrase": "he is",
+    "translation": "il est"
+  },
+  {
+    "phrase": "she is",
+    "translation": "elle est"
+  },
+  {
+    "phrase": "everybody is ready",
+    "translation": "tout le monde est prêt"
+  },
+  {
+    "phrase": "everybody is going to be ready soon",
+    "translation": "tout le monde va être prêt bientôt"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "she is going",
+    "translation": "elle va"
+  },
+  {
+    "phrase": "who is going",
+    "translation": "qui va"
+  },
+  {
+    "phrase": "everybody is going",
+    "translation": "tout le monde va"
+  },
+  {
+    "phrase": "nobody is going",
+    "translation": "personne ne va"
+  },
+  {
+    "phrase": "nothing is going",
+    "translation": "rien ne va"
+  },
+  {
+    "phrase": "it is going",
+    "translation": "ça va"
+  },
+  {
+    "phrase": "how",
+    "translation": "comment"
+  },
+  {
+    "phrase": "how's it going?",
+    "translation": "comment ça va?"
+  },
+  {
+    "phrase": "it is going well",
+    "translation": "ça va bien"
+  },
+  {
+    "phrase": "it's going very well",
+    "translation": "ça va très bien"
+  },
+  {
+    "phrase": "it's going very well the way it is",
+    "translation": "ça va très bien comme ça"
+  },
+  {
+    "phrase": "it is going to be ready soon",
+    "translation": "ça va être prêt bientôt"
+  },
+  {
+    "phrase": "I'm going to be ready soon",
+    "translation": "je vais être prêt bientôt"
+  },
+  {
+    "phrase": "to go",
+    "translation": "aller"
+  },
+  {
+    "phrase": "you go",
+    "translation": "vous allez"
+  },
+  {
+    "phrase": "we are going",
+    "translation": "nous allons"
+  },
+  {
+    "phrase": "I am going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "she is going",
+    "translation": "elle va"
+  },
+  {
+    "phrase": "who is going",
+    "translation": "qui va"
+  },
+  {
+    "phrase": "it is going",
+    "translation": "ça va"
+  },
+  {
+    "phrase": "it is not going",
+    "translation": "ça ne va pas"
+  },
+  {
+    "phrase": "it is not going to be ready today",
+    "translation": "ça ne va pas être prêt aujourd'hui"
+  },
+  {
+    "phrase": "but everything is going to be ready for you tomorrow",
+    "translation": "mais tout va être prêt pour vous demain"
+  },
+  {
+    "phrase": "he can",
+    "translation": "il peut"
+  },
+  {
+    "phrase": "she can",
+    "translation": "elle peut"
+  },
+  {
+    "phrase": "who can",
+    "translation": "qui peut"
+  },
+  {
+    "phrase": "it can",
+    "translation": "ça peut"
+  },
+  {
+    "phrase": "I would like",
+    "translation": "je voudrais"
+  },
+  {
+    "phrase": "everybody is going to be here",
+    "translation": "tout le monde va être ici"
+  },
+  {
+    "phrase": "everybody must leave soon",
+    "translation": "tout le monde doit partir bientôt"
+  },
+  {
+    "phrase": "who speaks English here?",
+    "translation": "qui parle anglais ici?"
+  },
+  {
+    "phrase": "I understand",
+    "translation": "je comprends"
+  },
+  {
+    "phrase": "I don't understand",
+    "translation": "je ne comprends pas"
+  },
+  {
+    "phrase": "he understands",
+    "translation": "il comprends"
+  },
+  {
+    "phrase": "nobody understands",
+    "translation": "personne comprends"
+  },
+  {
+    "phrase": "everybody understands very well",
+    "translation": "tout le monde comprends très bien"
+  },
+  {
+    "phrase": "to leave",
+    "translation": "partir"
+  },
+  {
+    "phrase": "you are leaving",
+    "translation": "vous partez"
+  },
+  {
+    "phrase": "we are leaving",
+    "translation": "nous partons"
+  },
+  {
+    "phrase": "I am leaving",
+    "translation": "je pars",
+    "explanation": "only -er verbs sound the stem in the 1st person singular e.g. j'arrive, compare je pars"
+  },
+  {
+    "phrase": "everybody is leaving",
+    "translation": "tout le monde part"
+  },
+  {
+    "phrase": "nobody is leaving",
+    "translation": "personne part"
+  },
+  {
+    "phrase": "to wait",
+    "translation": "attendre"
+  },
+  {
+    "phrase": "I am waiting",
+    "translation": "j'attends"
+  },
+  {
+    "phrase": "everybody is waiting",
+    "translation": "tout le monde attend"
+  },
+  {
+    "phrase": "nobody is waiting",
+    "translation": "personne n'attend"
+  },
+  {
+    "phrase": "to understand",
+    "translation": "comprendre"
+  },
+  {
+    "phrase": "to take",
+    "translation": "prendre"
+  },
+  {
+    "phrase": "I am taking",
+    "translation": "je prends"
+  },
+  {
+    "phrase": "he is taking",
+    "translation": "il prend"
+  },
+  {
+    "phrase": "time",
+    "translation": "temps"
+  },
+  {
+    "phrase": "too much time",
+    "translation": "trop de temps"
+  },
+  {
+    "phrase": "it is taking too much time",
+    "translation": "ça prend trop de temps"
+  },
+  {
+    "phrase": "it doesn't take too much time",
+    "translation": "ça ne prend pas trop de temps"
+  },
+  {
+    "phrase": "it is not taking too much time",
+    "translation": "ça ne prend pas trop de temps"
+  },
+  {
+    "phrase": "to sell",
+    "translation": "vendre"
+  },
+  {
+    "phrase": "I am selling",
+    "translation": "je vends"
+  },
+  {
+    "phrase": "he is selling",
+    "translation": "il vend"
+  },
+  {
+    "phrase": "everybody can start now",
+    "translation": "tout le monde peut commencer maintenant"
+  },
+  {
+    "phrase": "everybody must start now",
+    "translation": "tout le monde doit commencer maintenant",
+    "explanation": "there are only three verbs and French which do not conjugate in sound following the first person singular e.g. je dois, il doit etc"
+  },
+  {
+    "phrase": "I am",
+    "translation": "je suis"
+  },
+  {
+    "phrase": "he is",
+    "translation": "il est"
+  },
+  {
+    "phrase": "I have",
+    "translation": "j'ai"
+  },
+  {
+    "phrase": "he has",
+    "translation": "il a"
+  },
+  {
+    "phrase": "I'm going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "will you come with me",
+    "translation": "voulez-vous venir avec moi"
+  },
+  {
+    "phrase": "will you come have dinner with me at the house tonight because I would like to speak with you. It is very important",
+    "translation": "voulez-vous venir dîner avec moi à la maison ce soir parce que je voudrais parler avec vous. C'est très important pour moi"
+  },
+  {
+    "phrase": "and I would like to know",
+    "translation": "et je voudrais savoir"
+  },
+  {
+    "phrase": "at what time you're going to be here",
+    "translation": "à quelle heure vous allez être ici"
+  },
+  {
+    "phrase": "because I'm going to prepare the dinner for us",
+    "translation": "parce que je vais préparer le dîner pour nous",
+    "explanation": "many French verbs can be formed simply by adding -er to an English verb"
+  },
+  {
+    "phrase": "formation",
+    "translation": "formation"
+  },
+  {
+    "phrase": "to form",
+    "translation": "former"
+  },
+  {
+    "phrase": "to conform",
+    "translation": "conformer"
+  },
+  {
+    "phrase": "to confirm",
+    "translation": "confirmer"
+  },
+  {
+    "phrase": "will you confirm the reservation for me",
+    "translation": "voulez-vous confirmer la réservation pour moi?"
+  },
+  {
+    "phrase": "to observe",
+    "translation": "observer"
+  },
+  {
+    "phrase": "to reserve",
+    "translation": "réserver"
+  },
+  {
+    "phrase": "will you reserve a table for two for dinner for tonight",
+    "translation": "voulez-vous réserver une table pour deux pour dîner pour ce soir"
+  },
+  {
+    "phrase": "to invite",
+    "translation": "inviter"
+  },
+  {
+    "phrase": "to consider",
+    "translation": "considérer"
+  },
+  {
+    "phrase": "to accept",
+    "translation": "accepter"
+  },
+  {
+    "phrase": "will you accept the condition",
+    "translation": "voulez-vous accepter la condition?"
+  },
+  {
+    "phrase": "to prefer",
+    "translation": "préférer"
+  },
+  {
+    "phrase": "you prefer",
+    "translation": "vous préférez"
+  },
+  {
+    "phrase": "we prefer",
+    "translation": "nous préférons"
+  },
+  {
+    "phrase": "I prefer",
+    "translation": "je préfère"
+  },
+  {
+    "phrase": "I must speak with you",
+    "translation": "je dois parler avec vous"
+  },
+  {
+    "phrase": "he must be here soon",
+    "translation": "il doit être ici bientôt"
+  },
+  {
+    "phrase": "she must be ready now",
+    "translation": "elle doit être prête maintenant"
+  },
+  {
+    "phrase": "he must be ready",
+    "translation": "il doit être prêt"
+  },
+  {
+    "phrase": "it must be ready",
+    "translation": "ça doit être prêt maintenant"
+  },
+  {
+    "phrase": "it can be ready",
+    "translation": "ça peut être prêt maintenant"
+  },
+  {
+    "phrase": "maybe, perhaps",
+    "translation": "peut-être",
+    "explanation": "so peut-être literally means \"can be\""
+  },
+  {
+    "phrase": "perhaps it can be ready now",
+    "translation": "peut-être que ça peut être prêt maintenant"
+  },
+  {
+    "phrase": "it must be ready now",
+    "translation": "ça doit être prêt maintenant"
+  },
+  {
+    "phrase": "I must",
+    "translation": "je dois",
+    "explanation": "-s is the first person singular ending for -ir and -re, and -t is the ending for 3rd person singular"
+  },
+  {
+    "phrase": "to do, make",
+    "translation": "faire"
+  },
+  {
+    "phrase": "I am doing",
+    "translation": "je fais"
+  },
+  {
+    "phrase": "he is doing",
+    "translation": "il fait"
+  },
+  {
+    "phrase": "it makes a big difference that way",
+    "translation": "ça fait une grande différence comme ça"
+  },
+  {
+    "phrase": "to say, tell",
+    "translation": "dire"
+  },
+  {
+    "phrase": "I say, I tell",
+    "translation": "je dis"
+  },
+  {
+    "phrase": "he says",
+    "translation": "il dit"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "I see",
+    "translation": "je vois"
+  },
+  {
+    "phrase": "he sees",
+    "translation": "il voit"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "you know",
+    "translation": "vous savez"
+  },
+  {
+    "phrase": "we know",
+    "translation": "nous savons"
+  },
+  {
+    "phrase": "we don't know",
+    "translation": "nous ne savons pas"
+  },
+  {
+    "phrase": "you don't know",
+    "translation": "vous ne savez pas"
+  },
+  {
+    "phrase": "do you know?",
+    "translation": "savez-vous?"
+  },
+  {
+    "phrase": "do you know where it is?",
+    "translation": "savez-vous où c'est?"
+  },
+  {
+    "phrase": "I know",
+    "translation": "je sais"
+  },
+  {
+    "phrase": "I don't know",
+    "translation": "je ne sais pas"
+  },
+  {
+    "phrase": "he knows",
+    "translation": "il sait"
+  },
+  {
+    "phrase": "I know where it is",
+    "translation": "je sais où c'est"
+  },
+  {
+    "phrase": "nobody knows where it is",
+    "translation": "personne ne sait où c'est"
+  },
+  {
+    "phrase": "nobody knows",
+    "translation": "personne ne sait"
+  },
+  {
+    "phrase": "everybody knows where it is",
+    "translation": "tout le monde sait où c'est"
+  },
+  {
+    "phrase": "who knows?",
+    "translation": "qui sait?"
+  },
+  {
+    "phrase": "to have",
+    "translation": "avoir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "you have",
+    "translation": "vous avez"
+  },
+  {
+    "phrase": "we have",
+    "translation": "nous avons"
+  },
+  {
+    "phrase": "you know",
+    "translation": "vous savez"
+  },
+  {
+    "phrase": "you have",
+    "translation": "vous avez"
+  },
+  {
+    "phrase": "we know",
+    "translation": "nous savons"
+  },
+  {
+    "phrase": "we don't know",
+    "translation": "nous ne savons pas"
+  },
+  {
+    "phrase": "you don't know",
+    "translation": "vous ne savez pas"
+  },
+  {
+    "phrase": "we have",
+    "translation": "nous avons"
+  },
+  {
+    "phrase": "we don't have",
+    "translation": "nous n'avons pas"
+  },
+  {
+    "phrase": "you have",
+    "translation": "vous avez"
+  },
+  {
+    "phrase": "you don't have",
+    "translation": "vous n'avez pas"
+  },
+  {
+    "phrase": "do you have?",
+    "translation": "avez-vous?"
+  },
+  {
+    "phrase": "do we have?",
+    "translation": "avons-nous?"
+  },
+  {
+    "phrase": "to have",
+    "translation": "avoir"
+  },
+  {
+    "phrase": "to have to",
+    "translation": "devoir"
+  },
+  {
+    "phrase": "you must",
+    "translation": "vous devez"
+  },
+  {
+    "phrase": "we must",
+    "translation": "nous devons"
+  },
+  {
+    "phrase": "we have to leave soon",
+    "translation": "nous devons partir bientôt"
+  },
+  {
+    "phrase": "you have to come with me",
+    "translation": "vous devez venir avec moi"
+  },
+  {
+    "phrase": "you have to wait",
+    "translation": "vous devez attendre"
+  },
+  {
+    "phrase": "he has to wait",
+    "translation": "il doit attendre"
+  },
+  {
+    "phrase": "I have to wait",
+    "translation": "je dois attendre"
+  },
+  {
+    "phrase": "I'm going to wait here",
+    "translation": "je vais attendre ici"
+  },
+  {
+    "phrase": "everybody is going to wait",
+    "translation": "tout le monde va attendre"
+  },
+  {
+    "phrase": "nobody can wait",
+    "translation": "personne peut attendre"
+  },
+  {
+    "phrase": "can you?",
+    "translation": "pouvez-vous?"
+  },
+  {
+    "phrase": "you can",
+    "translation": "vous pouvez"
+  },
+  {
+    "phrase": "I would like to know if you can come with me now",
+    "translation": "je voudrais savoir si vous pouvez venir avec moi maintenant"
+  },
+  {
+    "phrase": "can you wait here?",
+    "translation": "pouvez-vous attendre ici?"
+  },
+  {
+    "phrase": "we can",
+    "translation": "nous pouvons"
+  },
+  {
+    "phrase": "we cannot wait, we have to leave now",
+    "translation": "nous ne pouvons pas attendre, nous devons partir maintenant"
+  },
+  {
+    "phrase": "you are going",
+    "translation": "vous allez"
+  },
+  {
+    "phrase": "we are going",
+    "translation": "nous allons"
+  },
+  {
+    "phrase": "I am going",
+    "translation": "je vais"
+  },
+  {
+    "phrase": "he is going",
+    "translation": "il va"
+  },
+  {
+    "phrase": "she is going",
+    "translation": "elle va"
+  },
+  {
+    "phrase": "everybody is going",
+    "translation": "tout le monde va"
+  },
+  {
+    "phrase": "who is going",
+    "translation": "qui va"
+  },
+  {
+    "phrase": "it is going",
+    "translation": "ça va"
+  },
+  {
+    "phrase": "it is going very well",
+    "translation": "ça va très bien"
+  },
+  {
+    "phrase": "how's it going?",
+    "translation": "comment ça va?"
+  },
+  {
+    "phrase": "is it going to be ready soon?",
+    "translation": "ça va être prêt bientôt?"
+  },
+  {
+    "phrase": "to do, make",
+    "translation": "faire"
+  },
+  {
+    "phrase": "to do it",
+    "translation": "le faire"
+  },
+  {
+    "phrase": "I would like to do it",
+    "translation": "je voudrais le faire"
+  },
+  {
+    "phrase": "I must do it",
+    "translation": "je dois le faire"
+  },
+  {
+    "phrase": "I am going to do it",
+    "translation": "je vais le faire"
+  },
+  {
+    "phrase": "I am not going to do it",
+    "translation": "je ne vais pas le faire"
+  },
+  {
+    "phrase": "we are going to do it",
+    "translation": "nous allons le faire"
+  },
+  {
+    "phrase": "we are not going to do it now",
+    "translation": "nous n'allons pas le faire"
+  },
+  {
+    "phrase": "you are going to do it",
+    "translation": "vous allez le faire"
+  },
+  {
+    "phrase": "you are not going to do it",
+    "translation": "vous n'allez pas le faire"
+  },
+  {
+    "phrase": "when",
+    "translation": "quand"
+  },
+  {
+    "phrase": "when are you going to do it?",
+    "translation": "quand allez-vous le faire?"
+  },
+  {
+    "phrase": "I am going to do it",
+    "translation": "je vais le faire"
+  },
+  {
+    "phrase": "I am not going to do it",
+    "translation": "je ne vais pas le faire"
+  },
+  {
+    "phrase": "he is going to do it",
+    "translation": "il va le faire"
+  },
+  {
+    "phrase": "he is not going to do it",
+    "translation": "il ne vas pas le faire"
+  },
+  {
+    "phrase": "because he cannot do it",
+    "translation": "parce que il ne peut pas le faire"
+  },
+  {
+    "phrase": "but he must do it",
+    "translation": "mais il doit le faire"
+  },
+  {
+    "phrase": "you have to do it",
+    "translation": "vous devez le faire"
+  },
+  {
+    "phrase": "we have to do it",
+    "translation": "nous devons le faire"
+  },
+  {
+    "phrase": "I cannot do it now",
+    "translation": "je ne peut pas le faire maintenant"
+  },
+  {
+    "phrase": "can you do it?",
+    "translation": "pouvez-vous le faire?"
+  },
+  {
+    "phrase": "we cannot do it",
+    "translation": "nous ne pouvons pas le faire"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "I would like to do it",
+    "translation": "je voudrais le faire"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "to do",
+    "translation": "faire"
+  },
+  {
+    "phrase": "to do it",
+    "translation": "le faire"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "to see it",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "to see it, to see him",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "I am going to see it tonight",
+    "translation": "je vais le voir ce soir"
+  },
+  {
+    "phrase": "I am going to see him tonight",
+    "translation": "je vais le voir ce soir"
+  },
+  {
+    "phrase": "to understand",
+    "translation": "comprendre"
+  },
+  {
+    "phrase": "I cannot understand it",
+    "translation": "je ne peux pas le comprendre"
+  },
+  {
+    "phrase": "I cannot understand him",
+    "translation": "je ne peux pas le comprendre"
+  },
+  {
+    "phrase": "to take",
+    "translation": "prendre"
+  },
+  {
+    "phrase": "I am going to take it",
+    "translation": "je vais le prendre"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "I would like to know it",
+    "translation": "je voudrais le savoir"
+  },
+  {
+    "phrase": "I must know it",
+    "translation": "je dois le savoir"
+  },
+  {
+    "phrase": "to have",
+    "translation": "avoir"
+  },
+  {
+    "phrase": "I would like to have it",
+    "translation": "je voudrais l'avoir"
+  },
+  {
+    "phrase": "I must have it today",
+    "translation": "je dois l'avoir aujourd'hui"
+  },
+  {
+    "phrase": "when you want to have it?",
+    "translation": "quand voulez-vous l'avoir?"
+  },
+  {
+    "phrase": "to buy",
+    "translation": "acheter"
+  },
+  {
+    "phrase": "I would like to buy it because I must have it",
+    "translation": "je voudrais l'acheter parce que je dois l'avoir"
+  },
+  {
+    "phrase": "will you prepare it for me",
+    "translation": "voulez-vous le préparer pour moi?"
+  },
+  {
+    "phrase": "will you accept the condition",
+    "translation": "voulez-vous accepter la condition?"
+  },
+  {
+    "phrase": "thank you very much",
+    "translation": "merci beaucoup"
+  },
+  {
+    "phrase": "many, much, very much",
+    "translation": "beaucoup",
+    "explanation": "you never say très beaucoup in French"
+  },
+  {
+    "phrase": "thanks very much",
+    "translation": "merci beaucoup"
+  },
+  {
+    "phrase": "I would like very much to accept the condition",
+    "translation": "je voudrais beaucoup accepter la condition"
+  },
+  {
+    "phrase": "but I'm sorry",
+    "translation": "mais je suis désolé"
+  },
+  {
+    "phrase": "but I cannot accept it",
+    "translation": "mais je ne peux pas l'accepter"
+  },
+  {
+    "phrase": "because it is not acceptable for me that way",
+    "translation": "parce que ce n'est pas acceptable pour moi comme ça"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "I'm going to see it tonight",
+    "translation": "je vais le voir ce soir"
+  },
+  {
+    "phrase": "I'm going to see him tonight",
+    "translation": "je vais le voir ce soir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "to see it, see him",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "her",
+    "translation": "la"
+  },
+  {
+    "phrase": "to see her",
+    "translation": "la voir"
+  },
+  {
+    "phrase": "I'm going to see her tonight",
+    "translation": "je vais aller la voir ce soir"
+  },
+  {
+    "phrase": "them",
+    "translation": "les"
+  },
+  {
+    "phrase": "to see them",
+    "translation": "les voir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "to see it",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "to see him",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "to see her",
+    "translation": "la voir"
+  },
+  {
+    "phrase": "to see them",
+    "translation": "les voir"
+  },
+  {
+    "phrase": "to see you",
+    "translation": "vous voir"
+  },
+  {
+    "phrase": "I would like to see you",
+    "translation": "je voudrais vous voir"
+  },
+  {
+    "phrase": "I'm going to see you tonight",
+    "translation": "je vais vous voir ce soir"
+  },
+  {
+    "phrase": "I hope",
+    "translation": "j'espère "
+  },
+  {
+    "phrase": "to hope",
+    "translation": "espérer",
+    "explanation": "in French, the conjunction \"that\" is compulsory"
+  },
+  {
+    "phrase": "that",
+    "translation": "que"
+  },
+  {
+    "phrase": "I hope I'm going to see you",
+    "translation": "j'espère que je vais vous voir"
+  },
+  {
+    "phrase": "because I would like very much to see you",
+    "translation": "parce que je voudrais beaucoup vous voir"
+  },
+  {
+    "phrase": "to see",
+    "translation": "voir"
+  },
+  {
+    "phrase": "to see it, see him",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "to see him",
+    "translation": "le voir"
+  },
+  {
+    "phrase": "to see them",
+    "translation": "les voir"
+  },
+  {
+    "phrase": "to see you",
+    "translation": "vous voir"
+  },
+  {
+    "phrase": "to see us",
+    "translation": "nous voir"
+  },
+  {
+    "phrase": "to see me",
+    "translation": "me voir"
+  },
+  {
+    "phrase": "can you come see me?",
+    "translation": "pouvez-vous venir me voir?"
+  },
+  {
+    "phrase": "to understand it",
+    "translation": "le comprendre"
+  },
+  {
+    "phrase": "to understand him",
+    "translation": "le comprendre"
+  },
+  {
+    "phrase": "to understand her",
+    "translation": "la comprendre"
+  },
+  {
+    "phrase": "to understand them",
+    "translation": "les comprendre"
+  },
+  {
+    "phrase": "to understand you",
+    "translation": "vous comprendre"
+  },
+  {
+    "phrase": "I cannot understand you",
+    "translation": "je ne peux pas vous comprendre"
+  },
+  {
+    "phrase": "to understand us",
+    "translation": "nous comprendre"
+  },
+  {
+    "phrase": "to understand me",
+    "translation": "me comprendre"
+  },
+  {
+    "phrase": "can you understand me?",
+    "translation": "pouvez-vous me comprendre?"
+  },
+  {
+    "phrase": "to say, tell",
+    "translation": "dire"
+  },
+  {
+    "phrase": "to tell it",
+    "translation": "le dire"
+  },
+  {
+    "phrase": "to tell you",
+    "translation": "vous dire"
+  },
+  {
+    "phrase": "to tell us",
+    "translation": "nous dire"
+  },
+  {
+    "phrase": "to tell me",
+    "translation": "me dire"
+  },
+  {
+    "phrase": "I must tell you",
+    "translation": "je dois vous dire"
+  },
+  {
+    "phrase": "I am going to tell you later",
+    "translation": "je vais vous dire plus tard"
+  },
+  {
+    "phrase": "to find",
+    "translation": "trouver"
+  },
+  {
+    "phrase": "we find",
+    "translation": "nous trouvons"
+  },
+  {
+    "phrase": "I find",
+    "translation": "je trouve"
+  },
+  {
+    "phrase": "would you tell me where it is because I cannot find it",
+    "translation": "voulez-vous me dire où c'est parce que je ne peux pas le trouver"
+  },
+  {
+    "phrase": "will you tell me",
+    "translation": "voulez-vous me dire"
+  },
+  {
+    "phrase": "can you tell me",
+    "translation": "pouvez-vous me dire"
+  },
+  {
+    "phrase": "expensive, dear",
+    "translation": "cher"
+  },
+  {
+    "phrase": "it is very expensive",
+    "translation": "c'est très cher"
+  },
+  {
+    "phrase": "it is too expensive",
+    "translation": "c'est trop cher"
+  },
+  {
+    "phrase": "will you tell me how much it is because I would like to have it and I'm going to buy it if it is not too expensive",
+    "translation": "voulez-vous me dire combien c'est parce que je voudrais l'avoir et je vais l'acheter, si ce n'est pas trop cher"
+  },
+  {
+    "phrase": "I would like to buy it",
+    "translation": "je voudrais l'acheter"
+  },
+  {
+    "phrase": "I am going to buy it",
+    "translation": "je vais l'acheter"
+  },
+  {
+    "phrase": "to call",
+    "translation": "appeler"
+  },
+  {
+    "phrase": "to phone",
+    "translation": "téléphoner"
+  },
+  {
+    "phrase": "will you call me later",
+    "translation": "voulez-vous m'appeler plus tard"
+  },
+  {
+    "phrase": "can you call me later?",
+    "translation": "pouvez-vous m'appeler plus tard?"
+  },
+  {
+    "phrase": "when can you call me?",
+    "translation": "quand pouvez-vous m'appeler?"
+  },
+  {
+    "phrase": "when are you going to call me?",
+    "translation": "quand allez-vous m'appeler?"
+  },
+  {
+    "phrase": "I am going to call you later",
+    "translation": "je vais vous appeler plus tard"
+  },
+  {
+    "phrase": "will you call me later and can you tell me at what time it is going to be ready, because I must have it today if it is possible",
+    "translation": "voulez-vous m'appeler plus tard et pouvez-vous me dire à quelle heure ça va être prêt, parce que je dois l'avoir aujourd'hui si c'est possible"
+  },
+  {
+    "phrase": "because I have to have it today",
+    "translation": "parce que je dois l'avoir aujourd'hui"
+  },
+  {
+    "phrase": "I cannot understand him",
+    "translation": "je ne peux pas le comprendre"
+  },
+  {
+    "phrase": "to wait",
+    "translation": "attendre",
+    "explanation": "attendre is used like \"to await\", not \"to wait for somebody\""
+  },
+  {
+    "phrase": "will you wait for me?",
+    "translation": "voulez-vous m'attendre?"
+  },
+  {
+    "phrase": "can you wait for me?",
+    "translation": "pouvez-vous m'attendre?"
+  },
+  {
+    "phrase": "I am going to wait for you",
+    "translation": "je vais vous attendre"
+  },
+  {
+    "phrase": "I am in a hurry",
+    "translation": "je suis pressé"
+  },
+  {
+    "phrase": "I'm sorry but I cannot wait for you because I am very much in a hurry and I have to leave soon",
+    "translation": "je regrette mais je ne peux pas vous attendre parce que je suis très pressé et je dois partir bientôt"
+  },
+  {
+    "phrase": "I'm going to see him",
+    "translation": "je vais le voir",
+    "explanation": "when him is used in the sense \"to him\", the French word is not le but lui"
+  },
+  {
+    "phrase": "to give",
+    "translation": "donner"
+  },
+  {
+    "phrase": "to carry, wear",
+    "translation": "porter"
+  },
+  {
+    "phrase": "to bring",
+    "translation": "apporter"
+  },
+  {
+    "phrase": "I'm going to bring you something",
+    "translation": "je vais vous apporter quelque chose"
+  },
+  {
+    "phrase": "the book",
+    "translation": "le livre"
+  },
+  {
+    "phrase": "I am going to bring you the book",
+    "translation": "je vais vous apporter le livre"
+  },
+  {
+    "phrase": "to send",
+    "translation": "envoyer"
+  },
+  {
+    "phrase": "I'm going to send him the book",
+    "translation": "je vais lui envoyer le livre"
+  },
+  {
+    "phrase": "I want to send it to him",
+    "translation": "je vais le lui envoyer"
+  },
+  {
+    "phrase": "will you send it to him",
+    "translation": "voulez-vous le lui envoyer"
+  },
+  {
+    "phrase": "when can you send it to him?",
+    "translation": "quand pouvez-vous le lui envoyer?"
+  },
+  {
+    "phrase": "I'm going to see him tonight and I'm going to give him the book",
+    "translation": "je vais le voir ce soir, et je vais lui donner le livre"
+  },
+  {
+    "phrase": "to her",
+    "translation": "lui"
+  },
+  {
+    "phrase": "I'm going to see her tonight and I'm going to give her the book",
+    "translation": "je vais la voir ce soir, et je vais lui donner le livre"
+  },
+  {
+    "phrase": "to who, to whom",
+    "translation": "à qui?"
+  },
+  {
+    "phrase": "it is for me",
+    "translation": "c'est pour moi"
+  },
+  {
+    "phrase": "it is for you",
+    "translation": "c'est pour vous"
+  },
+  {
+    "phrase": "it is for us",
+    "translation": "c'est pour nous"
+  },
+  {
+    "phrase": "it is for him",
+    "translation": "c'est pour lui"
+  },
+  {
+    "phrase": "it is for her",
+    "translation": "c'est pour elle",
+    "explanation": "note that after pour, we say elle and not lui"
+  },
+  {
+    "phrase": "with him",
+    "translation": "avec lui"
+  },
+  {
+    "phrase": "with her",
+    "translation": "avec elle"
+  },
+  {
+    "phrase": "I am going to give it",
+    "translation": "je vais le donner"
+  },
+  {
+    "phrase": "I am going to give it to him",
+    "translation": "je vais le donner à lui",
+    "explanation": "that is much less ambiguous than je vais le lui donner"
+  },
+  {
+    "phrase": "I'm going to give it to her",
+    "translation": "je vais le donner à elle"
+  },
+  {
+    "phrase": "I am going to bring him the book",
+    "translation": "je vais lui apporter le livre"
+  },
+  {
+    "phrase": "I am going to bring her book",
+    "translation": "je vais lui apporter le livre"
+  },
+  {
+    "phrase": "I'm going to bring the book to him",
+    "translation": "je vais apporter le livre à lui"
+  },
+  {
+    "phrase": "I'm going to bring the book to her",
+    "translation": "je vais apporter le livre à elle"
+  },
+  {
+    "phrase": "to them",
+    "translation": "leur"
+  },
+  {
+    "phrase": "money, silver",
+    "translation": "l'argent"
+  },
+  {
+    "phrase": "I'm going to send them the money",
+    "translation": "je vais leur envoyer l'argent"
+  },
+  {
+    "phrase": "my father",
+    "translation": "mon père"
+  },
+  {
+    "phrase": "my mother",
+    "translation": "ma mère"
+  },
+  {
+    "phrase": "with my father",
+    "translation": "avec mon père"
+  },
+  {
+    "phrase": "with my mother",
+    "translation": "avec me mère"
+  },
+  {
+    "phrase": "my parents",
+    "translation": "mes parents"
+  },
+  {
+    "phrase": "his father",
+    "translation": "son père"
+  },
+  {
+    "phrase": "his mother",
+    "translation": "sa mère"
+  },
+  {
+    "phrase": "his parents",
+    "translation": "ses parents"
+  },
+  {
+    "phrase": "her father",
+    "translation": "son père"
+  },
+  {
+    "phrase": "her mother",
+    "translation": "sa mère"
+  },
+  {
+    "phrase": "her parents",
+    "translation": "ses parents"
+  },
+  {
+    "phrase": "their",
+    "translation": "leur"
+  },
+  {
+    "phrase": "their father",
+    "translation": "leur père"
+  },
+  {
+    "phrase": "their mother",
+    "translation": "leur mère"
+  },
+  {
+    "phrase": "their parents",
+    "translation": "leur parents",
+    "explanation": "leur means \"them\" and \"to them\""
+  },
+  {
+    "phrase": "I'm going to bring them their book",
+    "translation": "je vais leur apporter leur livre"
+  },
+  {
+    "phrase": "will you tell him, will you say to him",
+    "translation": "voulez-vous lui dire?"
+  },
+  {
+    "phrase": "will you tell him that I'm going to call him later",
+    "translation": "voulez-vous lui dire que je vais l'appeler plus tard"
+  },
+  {
+    "phrase": "to ask",
+    "translation": "demander"
+  },
+  {
+    "phrase": "will you ask him",
+    "translation": "voulez-vous lui demander"
+  },
+  {
+    "phrase": "will you ask him if he can wait for me",
+    "translation": "voulez-vous lui demander s'il peut m'attendre pour moi"
+  },
+  {
+    "phrase": "I don't have the time now",
+    "translation": "je n'ai pas le temps maintenant",
+    "explanation": "French nouns can be masculine or feminine"
+  },
+  {
+    "phrase": "police",
+    "translation": "la police"
+  },
+  {
+    "phrase": "army",
+    "translation": "une armée",
+    "explanation": "a few rules about when to use le and when to use la, and how to avoid needing to stop to think about which to use"
+  },
+  {
+    "phrase": "liberty",
+    "translation": "la liberté",
+    "explanation": "-ion words are la, english words ending -ty end in French -té and are la"
+  },
+  {
+    "phrase": "difficulty",
+    "translation": "la difficulté"
+  },
+  {
+    "phrase": "facility",
+    "translation": "la facilité"
+  },
+  {
+    "phrase": "possibility",
+    "translation": "la possibilité"
+  },
+  {
+    "phrase": "opportunity",
+    "translation": "l'opportunité"
+  },
+  {
+    "phrase": "speciality",
+    "translation": "la specialité"
+  },
+  {
+    "phrase": "what speciality do you have?",
+    "translation": "quelle specialité avez-vous?"
+  },
+  {
+    "phrase": "what is the speciality of the house?",
+    "translation": "quelle est la specialité de la maison?"
+  },
+  {
+    "phrase": "quality",
+    "translation": "la qualité"
+  },
+  {
+    "phrase": "what quantity",
+    "translation": "quelle quantité"
+  },
+  {
+    "phrase": "society",
+    "translation": "la societé",
+    "explanation": "verbs ending -ate in English end -er in French"
+  },
+  {
+    "phrase": "to operate",
+    "translation": "opérer"
+  },
+  {
+    "phrase": "to moderate",
+    "translation": "modérer"
+  },
+  {
+    "phrase": "to accelerate",
+    "translation": "accélérer"
+  },
+  {
+    "phrase": "to facilitate",
+    "translation": "faciliter"
+  },
+  {
+    "phrase": "to negotiate",
+    "translation": "négocier"
+  },
+  {
+    "phrase": "to cooperate",
+    "translation": "coopérer",
+    "explanation": "verbs ending -fy in English end -fier in French"
+  },
+  {
+    "phrase": "to certify",
+    "translation": "certifier"
+  },
+  {
+    "phrase": "to modify",
+    "translation": "modifier"
+  },
+  {
+    "phrase": "to justify",
+    "translation": "justifier"
+  },
+  {
+    "phrase": "a",
+    "translation": "un, une",
+    "explanation": "in spoken French, le and la are contracted to l' and pulled into the preceding word, for example je n'ai pas le temps sounds je n'ai parl' temps"
+  },
+  {
+    "phrase": "problem",
+    "translation": "le problème",
+    "explanation": "words ending -me are le"
+  },
+  {
+    "phrase": "system",
+    "translation": "le système"
+  },
+  {
+    "phrase": "it's not the problem",
+    "translation": "ce n'est pas le problème"
+  },
+  {
+    "phrase": "it's not a problem",
+    "translation": "ce n'st pas un problème"
+  },
+  {
+    "phrase": "there is, there are",
+    "translation": "il y a"
+  },
+  {
+    "phrase": "there is a problem here",
+    "translation": "il y a un problème ici"
+  },
+  {
+    "phrase": "something",
+    "translation": "quelque chose"
+  },
+  {
+    "phrase": "someone",
+    "translation": "quelqu'un"
+  },
+  {
+    "phrase": "there is someone here who would like to speak with you",
+    "translation": "il y a quelqu'un ici, qui voudrait parler avec vous"
+  },
+  {
+    "phrase": "is there someone?",
+    "translation": "il y a quelqu'un ici?"
+  },
+  {
+    "phrase": "is it that",
+    "translation": "est-ce que"
+  },
+  {
+    "phrase": "is there, are there",
+    "translation": "est-ce que il y a"
+  },
+  {
+    "phrase": "is there a message for me",
+    "translation": "est-ce que il a une message pour moi?",
+    "explanation": "plural definite article is les"
+  },
+  {
+    "phrase": "the books",
+    "translation": "les livres",
+    "explanation": "for the plural indefinite article, use des"
+  },
+  {
+    "phrase": "messages",
+    "translation": "des messages"
+  },
+  {
+    "phrase": "I'm going to buy some books",
+    "translation": "je vais acheter des livres"
+  },
+  {
+    "phrase": "flowers",
+    "translation": "les fleurs"
+  },
+  {
+    "phrase": "I'm going to buy some flowers",
+    "translation": "je vais acheter des fleurs"
+  },
+  {
+    "phrase": "there is a message for you",
+    "translation": "il ya a une message pour vous"
+  },
+  {
+    "phrase": "there are messages for you",
+    "translation": "il y a des messages pour vous"
+  },
+  {
+    "phrase": "are there any messages for me",
+    "translation": "il y a des messages pour moi? est-ce qu'il y a des messages pour moi?"
+  },
+  {
+    "phrase": "is there someone here who speaks English?",
+    "translation": "est-ce qu'il y a quelqu'un ici qui parle anglais?"
+  },
+  {
+    "phrase": "there is nobody here who speaks English",
+    "translation": "il n'y a personne ici qui parle anglais"
+  },
+  {
+    "phrase": "not for me pas",
+    "translation": "pour moi"
+  },
+  {
+    "phrase": "not now",
+    "translation": "pas maintenant"
+  },
+  {
+    "phrase": "no, not any",
+    "translation": "pas de..."
+  },
+  {
+    "phrase": "no coffee for me",
+    "translation": "pas de café pour moi"
+  },
+  {
+    "phrase": "no problem",
+    "translation": "pas de problème"
+  },
+  {
+    "phrase": "no cream for me",
+    "translation": "pas de crème pour moi"
+  },
+  {
+    "phrase": "no sugar for me",
+    "translation": "pas de sucre pour moi"
+  },
+  {
+    "phrase": "nobody understands why",
+    "translation": "personne comprends pourquoi"
+  },
+  {
+    "phrase": "I don't understand",
+    "translation": "je ne comprends pas"
+  },
+  {
+    "phrase": "I understand it",
+    "translation": "je le comprends"
+  },
+  {
+    "phrase": "I don't understand it",
+    "translation": "je ne le comprends pas"
+  },
+  {
+    "phrase": "true",
+    "translation": "vrai"
+  },
+  {
+    "phrase": "it is true",
+    "translation": "c'est vrai"
+  },
+  {
+    "phrase": "it is not true",
+    "translation": "ce n'est pas vrai, c'est pas vrai"
+  },
+  {
+    "phrase": "is that so?",
+    "translation": "c'est vrai?"
+  },
+  {
+    "phrase": "truly",
+    "translation": "vraiment"
+  },
+  {
+    "phrase": "I don't understand",
+    "translation": "je ne comprends pas"
+  },
+  {
+    "phrase": "I don't understand it",
+    "translation": "je ne le comprends pas"
+  },
+  {
+    "phrase": "I don't understand him",
+    "translation": "je ne le comprends pas"
+  },
+  {
+    "phrase": "I don't understand her",
+    "translation": "je ne la comprends pas"
+  },
+  {
+    "phrase": "I don't understand them",
+    "translation": "je ne les comprends pas"
+  },
+  {
+    "phrase": "I don't understand you",
+    "translation": "je ne vous comprends pas"
+  },
+  {
+    "phrase": "he doesn't understand you",
+    "translation": "il ne vous comprends pas"
+  },
+  {
+    "phrase": "he doesn't understand us",
+    "translation": "il ne nous comprends pas"
+  },
+  {
+    "phrase": "he doesn't understand me",
+    "translation": "il ne me comprends pas"
+  },
+  {
+    "phrase": "I understand you very well",
+    "translation": "je vous comprends très bien"
+  },
+  {
+    "phrase": "I don't understand you very well",
+    "translation": "je ne vous comprends pas très bien"
+  },
+  {
+    "phrase": "nothing",
+    "translation": "rien"
+  },
+  {
+    "phrase": "I don't understand",
+    "translation": "je ne comprends pas"
+  },
+  {
+    "phrase": "I don't understand anything",
+    "translation": "je ne comprends rien"
+  },
+  {
+    "phrase": "I don't see it",
+    "translation": "je ne le vois pas"
+  },
+  {
+    "phrase": "I don't see anything",
+    "translation": "je ne le vois rien"
+  },
+  {
+    "phrase": "never",
+    "translation": "jamais"
+  },
+  {
+    "phrase": "I never see it",
+    "translation": "je ne le vois jamais"
+  },
+  {
+    "phrase": "I never understand why",
+    "translation": "je ne comprends jamais pourquoi"
+  },
+  {
+    "phrase": "I can never understand",
+    "translation": "je ne peut jamais comprends"
+  },
+  {
+    "phrase": "I cannot understand anything",
+    "translation": "je ne peut rien comprendre"
+  },
+  {
+    "phrase": "I would like a glass of mineral water",
+    "translation": "je voudrais un verre d'eau minerale"
+  },
+  {
+    "phrase": "I would like a cup of coffee",
+    "translation": "je voudrais une tasse de café",
+    "explanation": "when an adjective is followed by a full verb in English, in French you say adjective + de + verb"
+  },
+  {
+    "phrase": "it is not possible to do it",
+    "translation": "ce n'est pas possible de le faire"
+  },
+  {
+    "phrase": "it is not necessary to do it now",
+    "translation": "ce n'est pas necessaire de le faire"
+  },
+  {
+    "phrase": "happy",
+    "translation": "heureux, heureuse"
+  },
+  {
+    "phrase": "I am happy",
+    "translation": "je suis heureux"
+  },
+  {
+    "phrase": "I am happy to do it for you",
+    "translation": "je suis heureux de le faire pour vous"
+  },
+  {
+    "phrase": "I am very happy to see you",
+    "translation": "je suis très heureux de vous voir"
+  },
+  {
+    "phrase": "I am glad",
+    "translation": "je suis content"
+  },
+  {
+    "phrase": "I am very glad to see you",
+    "translation": "je suis très content de vous voir",
+    "explanation": "also, in English a noun + infinitive becomes in French noun + de + infinitive"
+  },
+  {
+    "phrase": "next time",
+    "translation": "la prochaine fois"
+  },
+  {
+    "phrase": "one time, once",
+    "translation": "une fois"
+  },
+  {
+    "phrase": "two times, twice",
+    "translation": "deux fois"
+  },
+  {
+    "phrase": "three times",
+    "translation": "tres fois"
+  },
+  {
+    "phrase": "the first time",
+    "translation": "la première fois"
+  },
+  {
+    "phrase": "the last time",
+    "translation": "la dernière fois"
+  },
+  {
+    "phrase": "once more",
+    "translation": "encore une fois"
+  },
+  {
+    "phrase": "I'm going to see it next time",
+    "translation": "je vais le voir la prochaine fois"
+  },
+  {
+    "phrase": "I see it for the first time",
+    "translation": "je le voir pour la première fois"
+  },
+  {
+    "phrase": "I would like to have the opportunity to see it next time",
+    "translation": "je voudrais avoir l'opportunité de le voir la prochaine fois"
+  },
+  {
+    "phrase": "the opportunity to see it",
+    "translation": "l'occasion de le voir"
+  },
+  {
+    "phrase": "I don't always have the opportunity to see it",
+    "translation": "je n'ai pas toujours l'occasion de le voir"
+  },
+  {
+    "phrase": "I don't always have the time to do it",
+    "translation": "je n'ai pas tourjours le temps de le faire"
+  },
+  {
+    "phrase": "it is always a pleasure to see it",
+    "translation": "c'est toujour un plaisir de le voir"
+  },
+  {
+    "phrase": "to take",
+    "translation": "prendre"
+  },
+  {
+    "phrase": "I'm taking it",
+    "translation": "je le prends"
+  },
+  {
+    "phrase": "it is taking too much time that way",
+    "translation": "ça prends trop de temps comme ça"
+  },
+  {
+    "phrase": "it is making a big difference that way",
+    "translation": "ça fait une grande différence comme ça"
+  },
+  {
+    "phrase": "I enjoy, it makes me pleasure",
+    "translation": "ça me fait plaisir"
+  },
+  {
+    "phrase": "I'm very pleased to see you",
+    "translation": "ça me fait plaisir de vous voir"
+  },
+  {
+    "phrase": "it gives me great pleasure to see you",
+    "translation": "ça me fait grand plaisir de vous voir"
+  },
+  {
+    "phrase": "I'm sorry but I don't have the time to do it now because I am very busy",
+    "translation": "je regrette mais je n'ai pas le temps de le faire maintenant parce que je suis très occupé",
+    "explanation": "de follows nouns and adjectives, but also some verbs of communication, e.g. demander, decider, dire. If these are themselves are followed by another verb, separate them with de"
+  },
+  {
+    "phrase": "will you ask him to do it",
+    "translation": "voulez-vous lui demander de le faire"
+  },
+  {
+    "phrase": "will you tell him to wait for me",
+    "translation": "voulez-vous lui dire de m'attendre"
+  },
+  {
+    "phrase": "will you ask him to call me later",
+    "translation": "voulez-vous lui demander de m'appeler plus tard",
+    "explanation": "after any form of \"have\", a following verb is preceded by à"
+  },
+  {
+    "phrase": "what, i.e. what is it that",
+    "translation": "qu'est-ce que "
+  },
+  {
+    "phrase": "what do you have?",
+    "translation": "qu'est-ce que vous avez?"
+  },
+  {
+    "phrase": "do you understand?",
+    "translation": "comprenez-vous?, est-ce que vous comprenez"
+  },
+  {
+    "phrase": "do you understand me?",
+    "translation": "est-ce que vous me comprenez"
+  },
+  {
+    "phrase": "what do you have to eat?",
+    "translation": "qu'est-ce que vous avez à manger"
+  },
+  {
+    "phrase": "you have to eat",
+    "translation": "vous devez manger"
+  },
+  {
+    "phrase": "to drink",
+    "translation": "boire"
+  },
+  {
+    "phrase": "what do you have to drink?",
+    "translation": "qu'est-ce que vous avez à boire? à also used after il y a"
+  },
+  {
+    "phrase": "what is there to drink?",
+    "translation": "qu'est-ce qu'il y a à boire?"
+  },
+  {
+    "phrase": "what is there to eat?",
+    "translation": "qu'est-ce qu'il y a à manger? à also used after -chose"
+  },
+  {
+    "phrase": "I have something to tell you",
+    "translation": "j'ai quelque chose à vous dire",
+    "explanation": "de is used after an expression of quantity"
+  },
+  {
+    "phrase": "how much time",
+    "translation": "combien de temps"
+  },
+  {
+    "phrase": "too much time",
+    "translation": "trop de temps",
+    "explanation": "any form meaning \"much\" also means \"many\""
+  },
+  {
+    "phrase": "many things",
+    "translation": "trop de chose"
+  },
+  {
+    "phrase": "much time",
+    "translation": "beaucoup de temps"
+  },
+  {
+    "phrase": "I don't have much time",
+    "translation": "je n'ai pas baucoup de temps"
+  },
+  {
+    "phrase": "many things",
+    "translation": "beaucoup de chose"
+  },
+  {
+    "phrase": "I'm going to buy many things",
+    "translation": "je vais acheter beaucoup de choses"
+  },
+  {
+    "phrase": "too much, too many",
+    "translation": "trop"
+  },
+  {
+    "phrase": "I don't have too much time",
+    "translation": "je n'ai pas trop de temps"
+  },
+  {
+    "phrase": "I am not going to buy too many things",
+    "translation": "je ne vais pas acheter trop de choses",
+    "explanation": "if expressions of quantity are followed by a verb, use à"
+  },
+  {
+    "phrase": "I have much to do!",
+    "translation": "j'ai beaucoup trop à faire!"
+  },
+  {
+    "phrase": "nothing doing!",
+    "translation": "rien à faire!",
+    "explanation": "there are several words in French for what, i.e."
+  },
+  {
+    "phrase": "what difference, which difference",
+    "translation": "quelle différence"
+  },
+  {
+    "phrase": "what is the difference",
+    "translation": "quelle est la différence"
+  },
+  {
+    "phrase": "between",
+    "translation": "entre"
+  },
+  {
+    "phrase": "between us",
+    "translation": "entre nous"
+  },
+  {
+    "phrase": "between the two, between both",
+    "translation": "entre les deux"
+  },
+  {
+    "phrase": "what is the difference between the two?",
+    "translation": "quelle est la différence entre les deux?"
+  },
+  {
+    "phrase": "what speciality",
+    "translation": "quelle specialité?"
+  },
+  {
+    "phrase": "what is the speciality of the house?",
+    "translation": "quelle est la specialité de la maison?"
+  },
+  {
+    "phrase": "what address?",
+    "translation": "quelle adresse?"
+  },
+  {
+    "phrase": "your",
+    "translation": "votre"
+  },
+  {
+    "phrase": "what is your address?",
+    "translation": "quelle est votre adresse?"
+  },
+  {
+    "phrase": "telephone number",
+    "translation": "numéro de téléphone"
+  },
+  {
+    "phrase": "what is your telephone number?",
+    "translation": "quelle est votre numéro de téléphone?",
+    "explanation": "in English you can combine nouns, e.g. \"telephone number\". In French these nouns are separated by de"
+  },
+  {
+    "phrase": "what is your name?",
+    "translation": "quel est votre nom?"
+  },
+  {
+    "phrase": "what difference",
+    "translation": "quelle différence"
+  },
+  {
+    "phrase": "what is the difference?",
+    "translation": "quelle est la différence?"
+  },
+  {
+    "phrase": "what (followed by a verb)",
+    "translation": "que"
+  },
+  {
+    "phrase": "what do you want?",
+    "translation": "que voulez-vous?"
+  },
+  {
+    "phrase": "what do you want to eat?",
+    "translation": "que voulez-vous manger?"
+  },
+  {
+    "phrase": "what do you want to do now?",
+    "translation": "que voulez-vous faire maintenant?"
+  },
+  {
+    "phrase": "what do you want to know?",
+    "translation": "que voulez-vous savoir?"
+  },
+  {
+    "phrase": "what do you want?",
+    "translation": "que voulez-vous?"
+  },
+  {
+    "phrase": "what do you prefer?",
+    "translation": "que préférez-vous?"
+  },
+  {
+    "phrase": "to think",
+    "translation": "penser"
+  },
+  {
+    "phrase": "what do you think?",
+    "translation": "que pensez-vous?"
+  },
+  {
+    "phrase": "what do you have?",
+    "translation": "que avez-vous?",
+    "explanation": "Que and qu'est-ce que are interchangeable, in a question followed by a verb, but after qu'est-ce que there is no inversion"
+  },
+  {
+    "phrase": "what do you want?",
+    "translation": "qu'est-ce que vous voulez?"
+  },
+  {
+    "phrase": "what do you know?",
+    "translation": "qu'est-ce que vous savez?"
+  },
+  {
+    "phrase": "what do you have for me?",
+    "translation": "qu'est-ce que vous avez pour moi?"
+  },
+  {
+    "phrase": "what do you want?",
+    "translation": "qu'est-ce que vous voulez?"
+  },
+  {
+    "phrase": "what do you want to say?",
+    "translation": "qu'est-ce que vous voulez dire?"
+  },
+  {
+    "phrase": "what do you mean?",
+    "translation": "qu'est-ce que vous voulez dire?",
+    "explanation": "what used in the middle of a sentence is ce que"
+  },
+  {
+    "phrase": "I don't know what I'm going to do today",
+    "translation": "je ne sais pas ce que je vais faire aujourd'hui"
+  },
+  {
+    "phrase": "nobody knows what it is",
+    "translation": "persone sait ce que c'est"
+  },
+  {
+    "phrase": "who knows?",
+    "translation": "qui sait?"
+  },
+  {
+    "phrase": "I don't understand what you mean",
+    "translation": "je ne comprendes pas ce que vous voulez dire",
+    "explanation": "there are only two French verbs which take -x in the first person singular"
+  },
+  {
+    "phrase": "I can",
+    "translation": "je peux"
+  },
+  {
+    "phrase": "he can",
+    "translation": "il peut"
+  },
+  {
+    "phrase": "I want",
+    "translation": "je veux"
+  },
+  {
+    "phrase": "he wants",
+    "translation": "il veut"
+  },
+  {
+    "phrase": "I want it",
+    "translation": "je le veux"
+  },
+  {
+    "phrase": "I don't want it",
+    "translation": "je ne le veux pas"
+  },
+  {
+    "phrase": "that's not what I want",
+    "translation": "ce n'est pas ce que je veux"
+  },
+  {
+    "phrase": "that's exactly what I want",
+    "translation": "c'est exactement ce que je veux"
+  },
+  {
+    "phrase": "but that's not what I mean",
+    "translation": "mais ce n'est pas ce que je veux dire"
+  },
+  {
+    "phrase": "I want to do it",
+    "translation": "je veux le faire"
+  },
+  {
+    "phrase": "I'm going to do it",
+    "translation": "je vais le faire"
+  },
+  {
+    "phrase": "I'm going to do it because I want to see it",
+    "translation": "je vais le faire parce que je veux le voir"
+  },
+  {
+    "phrase": "that's not what I mean",
+    "translation": "ce n'est pas ce que je veux dire"
+  },
+  {
+    "phrase": "I don't understand what it means",
+    "translation": "je ne comprends pas ce que ça veut dire"
+  },
+  {
+    "phrase": "what does it mean?",
+    "translation": "qu'est-ce que ça veut dire?"
+  },
+  {
+    "phrase": "to explain",
+    "translation": "expliquer"
+  },
+  {
+    "phrase": "will you explain to me what you mean",
+    "translation": "voulez-vous m'expliquer ce que vous voulez dire",
+    "explanation": "the French future tense formed with \"going\" is more common in French than in English"
+  },
+  {
+    "phrase": "I will do it tomorrow",
+    "translation": "je vais le faire demain"
+  },
+  {
+    "phrase": "some, a few",
+    "translation": "quel que"
+  },
+  {
+    "phrase": "day",
+    "translation": "jour"
+  },
+  {
+    "phrase": "in",
+    "translation": "dans"
+  },
+  {
+    "phrase": "he will be here in a few days",
+    "translation": "il va être ici dans quel que jours"
+  },
+  {
+    "phrase": "I will arrive tomorrow morning",
+    "translation": "je vais arriver demain matin"
+  },
+  {
+    "phrase": "we will arrive tomorrow morning",
+    "translation": "nous allons arriver demain matin",
+    "explanation": "the other future tense: in early French, there was a form \"I to leave have\" meaning \"I will leave\""
+  },
+  {
+    "phrase": "I will leave tomorrow",
+    "translation": "je partirai demain"
+  },
+  {
+    "phrase": "he will leave tomorrow",
+    "translation": "il partira demain"
+  },
+  {
+    "phrase": "you will leave tomorrow",
+    "translation": "vous partirez demain"
+  },
+  {
+    "phrase": "we will leave tomorrow",
+    "translation": "nous partirons"
+  },
+  {
+    "phrase": "to tell, say",
+    "translation": "dire"
+  },
+  {
+    "phrase": "I will say, I will tell",
+    "translation": "je dirai"
+  },
+  {
+    "phrase": "I will wait",
+    "translation": "j'attendrai"
+  },
+  {
+    "phrase": "you will wait",
+    "translation": "vous attendrez"
+  },
+  {
+    "phrase": "we will wait",
+    "translation": "nous attendrons"
+  },
+  {
+    "phrase": "he will wait",
+    "translation": "il attendra"
+  },
+  {
+    "phrase": "I will understand",
+    "translation": "je comprendrai"
+  },
+  {
+    "phrase": "I will not understand it",
+    "translation": "je ne le comprendrai pas"
+  },
+  {
+    "phrase": "I won't understand you",
+    "translation": "je ne vous comprendrai pas"
+  },
+  {
+    "phrase": "he won't understand me",
+    "translation": "il ne me comprendra pas"
+  },
+  {
+    "phrase": "he will tell you",
+    "translation": "il vous dira"
+  },
+  {
+    "phrase": "he won't tell me",
+    "translation": "il ne me dira pas"
+  },
+  {
+    "phrase": "I will ask you later",
+    "translation": "je vous demanderai plus tard"
+  },
+  {
+    "phrase": "it will start soon",
+    "translation": "ça commencera bientôt"
+  },
+  {
+    "phrase": "it is going to start soon",
+    "translation": "ça va commencer bientôt",
+    "explanation": "there is a third future tense - use of the present tense to express the future"
+  },
+  {
+    "phrase": "it will start tomorrow",
+    "translation": "ça commence demain"
+  },
+  {
+    "phrase": "week",
+    "translation": "la semaine"
+  },
+  {
+    "phrase": "next week",
+    "translation": "la semaine prochaine"
+  },
+  {
+    "phrase": "I'm going to see you next week je vous voir la semaine prochaine, je vais vous voir la semaine</span>",
+    "translation": "prochaine"
+  },
+  {
+    "phrase": "to lift, lift up",
+    "translation": "lever"
+  },
+  {
+    "phrase": "I'm lifting it",
+    "translation": "je le leve"
+  },
+  {
+    "phrase": "he is lifting it",
+    "translation": "il le leve"
+  },
+  {
+    "phrase": "she is lifting it",
+    "translation": "elle le leve"
+  },
+  {
+    "phrase": "I am starting",
+    "translation": "je commence"
+  },
+  {
+    "phrase": "he is starting",
+    "translation": "il commence"
+  },
+  {
+    "phrase": "it is starting",
+    "translation": "ça commence"
+  },
+  {
+    "phrase": "one (pronoun)",
+    "translation": "on"
+  },
+  {
+    "phrase": "one is starting",
+    "translation": "on commence",
+    "explanation": "on is often used to express \"we\""
+  },
+  {
+    "phrase": "are we starting now?",
+    "translation": "on commence maintenant?"
+  },
+  {
+    "phrase": "we are very comfortable here",
+    "translation": "on est très confortable ici"
+  },
+  {
+    "phrase": "we are going now",
+    "translation": "on va maintenant"
+  },
+  {
+    "phrase": "we are going to stay here",
+    "translation": "on va rester ici",
+    "explanation": "on va as a question also means \"shall we?\""
+  },
+  {
+    "phrase": "shall we start?",
+    "translation": "on va commencer?"
+  },
+  {
+    "phrase": "shall we leave?",
+    "translation": "on va partir?"
+  },
+  {
+    "phrase": "shall we stay?",
+    "translation": "on va rester?"
+  },
+  {
+    "phrase": "what shall we...?",
+    "translation": "qu'est-ce qu'on va...?"
+  },
+  {
+    "phrase": "what shall we do?",
+    "translation": "qu'est-ce qu'on va faire?"
+  },
+  {
+    "phrase": "what shall we eat?",
+    "translation": "qu'est-ce qu'on va manger?"
+  },
+  {
+    "phrase": "to order, command",
+    "translation": "commander"
+  },
+  {
+    "phrase": "what shall we order?",
+    "translation": "qu'est-ce qu'on va commander?"
+  },
+  {
+    "phrase": "what shall we drink?",
+    "translation": "qu'est-ce qu'on va boire?"
+  },
+  {
+    "phrase": "what shall we take?",
+    "translation": "qu'est-ce qu'on va prendre?",
+    "explanation": "in English, we \"have\" food and drinks, in French we \"take\" food and drinks"
+  },
+  {
+    "phrase": "I'm going to have a cup of coffee",
+    "translation": "je vais prendre une tasse de café"
+  },
+  {
+    "phrase": "to have dinner",
+    "translation": "dîner"
+  },
+  {
+    "phrase": "to have lunch",
+    "translation": "déjeuner"
+  },
+  {
+    "phrase": "lunch",
+    "translation": "le déjeuner"
+  },
+  {
+    "phrase": "will you have lunch with me",
+    "translation": "voulez-vous déjeuner avec moi?"
+  },
+  {
+    "phrase": "breakfast",
+    "translation": "le petit déjeuner"
+  },
+  {
+    "phrase": "will you have breakfast with me tomorrow morning",
+    "translation": "voulez-vous prendre le petit déjeuner avec moi demain matin"
+  },
+  {
+    "phrase": "I will do it",
+    "translation": "je vais le faire, je le fairai",
+    "explanation": "in English, \"will you\", \"will you please\" is the only time that \"will\" does not mean future tense"
+  },
+  {
+    "phrase": "will you please, would you please",
+    "translation": "voulez-vous"
+  },
+  {
+    "phrase": "will you come with me",
+    "translation": "voulez-vous venir avec moi?"
+  },
+  {
+    "phrase": "do you want to come with me?",
+    "translation": "voulez-vous venir avec moi?"
+  },
+  {
+    "phrase": "I'm lifting it",
+    "translation": "je le leve"
+  },
+  {
+    "phrase": "I'm lifting myself up, i.e. I'm getting up",
+    "translation": "je me leve"
+  },
+  {
+    "phrase": "we are getting up",
+    "translation": "nous nous levons"
+  },
+  {
+    "phrase": "you're getting up",
+    "translation": "vous vous levez",
+    "explanation": "for \"himself\", \"oneself\", \"itself\" etc use se"
+  },
+  {
+    "phrase": "he is getting up",
+    "translation": "il se leve"
+  },
+  {
+    "phrase": "one is getting up",
+    "translation": "on se leve"
+  },
+  {
+    "phrase": "I'm going to get up",
+    "translation": "je vais me lever"
+  },
+  {
+    "phrase": "one is going to get up",
+    "translation": "on va se lever"
+  },
+  {
+    "phrase": "will you get up please?",
+    "translation": "voulez-vous vous lever?"
+  },
+  {
+    "phrase": "at what time are you going to get up tomorrow morning?",
+    "translation": "à quelle heure allez-vous vous levez demain matin"
+  },
+  {
+    "phrase": "to ask",
+    "translation": "demander"
+  },
+  {
+    "phrase": "I'm asking",
+    "translation": "je demande"
+  },
+  {
+    "phrase": "I'm asking you",
+    "translation": "je vous demande"
+  },
+  {
+    "phrase": "I am asking myself, I wonder",
+    "translation": "je me demande"
+  },
+  {
+    "phrase": "I will call you tomorrow",
+    "translation": "je vous appelle demain"
+  },
+  {
+    "phrase": "my name is, I call myself",
+    "translation": "je m'appelle "
+  },
+  {
+    "phrase": "to call back",
+    "translation": "rappeler"
+  },
+  {
+    "phrase": "will you call back?",
+    "translation": "voulez-vous rappeler?"
+  },
+  {
+    "phrase": "I'm going to call you back",
+    "translation": "je vais vous rappeler"
+  },
+  {
+    "phrase": "will you ask him to call me back",
+    "translation": "voulez-vous lui dire demander de me rappeler"
+  },
+  {
+    "phrase": "I will call you back later",
+    "translation": "je vous rappelle plus tard"
+  },
+  {
+    "phrase": "I remember",
+    "translation": "je me rappelle"
+  },
+  {
+    "phrase": "I don't remember",
+    "translation": "je ne me rappelle pas"
+  },
+  {
+    "phrase": "to hurry, \"despatch oneself\"",
+    "translation": "se dépecher"
+  },
+  {
+    "phrase": "I'm hurrying",
+    "translation": "je me dépeche"
+  },
+  {
+    "phrase": "I'm going to hurry",
+    "translation": "je vais me dépecher"
+  },
+  {
+    "phrase": "I must hurry",
+    "translation": "je dois me dépecher"
+  },
+  {
+    "phrase": "one is going to hurry",
+    "translation": "on va se dépecher"
+  },
+  {
+    "phrase": "we are going to hurry",
+    "translation": "nous allons nous dépecher"
+  },
+  {
+    "phrase": "you have to hurry",
+    "translation": "vous devez vous dépecher"
+  },
+  {
+    "phrase": "will you hurry please",
+    "translation": "voulez-vous vous dépecher"
+  },
+  {
+    "phrase": "in, to France",
+    "translation": "en France"
+  },
+  {
+    "phrase": "in, to England",
+    "translation": "en Angleterre"
+  },
+  {
+    "phrase": "in, to Italy",
+    "translation": "en Italie"
+  },
+  {
+    "phrase": "in, to Germany",
+    "translation": "en Allemagne"
+  },
+  {
+    "phrase": "in, to Switzerland",
+    "translation": "en Suisse"
+  },
+  {
+    "phrase": "we are going to Spain",
+    "translation": "nous allons en Espagne"
+  },
+  {
+    "phrase": "we are going to be in Spain",
+    "translation": "nous allons être en Espagne"
+  },
+  {
+    "phrase": "in, to California",
+    "translation": "en Californie"
+  },
+  {
+    "phrase": "in, to Asia",
+    "translation": "en Asie"
+  },
+  {
+    "phrase": "in, to Africa",
+    "translation": "en Afrique"
+  },
+  {
+    "phrase": "in, to America",
+    "translation": "en Amerique",
+    "explanation": "most countries and continents use en, and these are mostly la countries that end in a vowel. Countries ending with a consonant are le countries, and they use au for \"in, to\""
+  },
+  {
+    "phrase": "in Japan",
+    "translation": "au Japon"
+  },
+  {
+    "phrase": "in Switzerland",
+    "translation": "en Suisse"
+  },
+  {
+    "phrase": "in Denmark",
+    "translation": "au Danemark"
+  },
+  {
+    "phrase": "in Portugal",
+    "translation": "au Portugal"
+  },
+  {
+    "phrase": "in Brazil",
+    "translation": "au Brésil"
+  },
+  {
+    "phrase": "in Canada (exception)",
+    "translation": "au Canada",
+    "explanation": "en is also used for languages"
+  },
+  {
+    "phrase": "in French",
+    "translation": "en français"
+  },
+  {
+    "phrase": "one says",
+    "translation": "on dit"
+  },
+  {
+    "phrase": "how does one say",
+    "translation": "comment dit on"
+  },
+  {
+    "phrase": "how does one say in French?",
+    "translation": "comment dit on en français?"
+  },
+  {
+    "phrase": "how do you say at?",
+    "translation": "comment ça se dit?"
+  },
+  {
+    "phrase": "how is it spelled?",
+    "translation": "comment ça s'écrit?"
+  },
+  {
+    "phrase": "to write",
+    "translation": "écrire"
+  },
+  {
+    "phrase": "it is being written",
+    "translation": "ça s'écrit"
+  },
+  {
+    "phrase": "price, prize",
+    "translation": "prix"
+  },
+  {
+    "phrase": "what price",
+    "translation": "quelle prix"
+  },
+  {
+    "phrase": "what is the price?",
+    "translation": "quelle est le prix?"
+  },
+  {
+    "phrase": "it is how much?",
+    "translation": "c'est combien"
+  },
+  {
+    "phrase": "will you write it",
+    "translation": "voulez-vous l'écrire"
+  },
+  {
+    "phrase": "will you write down the price",
+    "translation": "voulez-vous écrire le prix"
+  },
+  {
+    "phrase": "in English",
+    "translation": "en anglais"
+  },
+  {
+    "phrase": "in Spanish",
+    "translation": "en espagnol"
+  },
+  {
+    "phrase": "in passing, while passing",
+    "translation": "en passant",
+    "explanation": "en also used in the construction \"while -ing\" en -ant"
+  },
+  {
+    "phrase": "while waiting",
+    "translation": "en attendant",
+    "explanation": "en by itself means \"of it\", \"from it\". It replaces the two words de ça \"of it\". en has the same position as \"it\". It also means \"some of it\", \"any of it\", \"some\" implying \"some of it\" or \"any\" implying \"any of it\""
+  },
+  {
+    "phrase": "I want",
+    "translation": "je veux"
+  },
+  {
+    "phrase": "I want it",
+    "translation": "je le veux"
+  },
+  {
+    "phrase": "I want some of it",
+    "translation": "j'en veux"
+  },
+  {
+    "phrase": "I don't want any of it",
+    "translation": "je n'en veux pas"
+  },
+  {
+    "phrase": "I'm going to buy some",
+    "translation": "je vais en acheter"
+  },
+  {
+    "phrase": "because I would like to have some",
+    "translation": "parce que je voudrais en avoir"
+  },
+  {
+    "phrase": "do you want to have some?",
+    "translation": "voulez-vous en avoir?"
+  },
+  {
+    "phrase": "do you have it?",
+    "translation": "l'avez-vous?, est-ce que vous l'avez?"
+  },
+  {
+    "phrase": "do you have some of it?",
+    "translation": "en avez-vous?, est-ce que vous en avez?"
+  },
+  {
+    "phrase": "do you want some of it?",
+    "translation": "en voulez-vous?, est-ce que vous en voulez?"
+  },
+  {
+    "phrase": "enough",
+    "translation": "assez"
+  },
+  {
+    "phrase": "I have enough",
+    "translation": "j'ai assez"
+  },
+  {
+    "phrase": "I have enough of it",
+    "translation": "j'en ai assez",
+    "explanation": "that also means \"I'm fed up with it\""
+  },
+  {
+    "phrase": "I'm really fed up with it!",
+    "translation": "j'en ai marre"
+  },
+  {
+    "phrase": "to need",
+    "translation": "avoir besoin de"
+  },
+  {
+    "phrase": "I need this book",
+    "translation": "j'ai besoin de ce livre"
+  },
+  {
+    "phrase": "I need to do it",
+    "translation": "j'ai besoin de le faire"
+  },
+  {
+    "phrase": "one must",
+    "translation": "on doit, il faut"
+  },
+  {
+    "phrase": "one must do it",
+    "translation": "il faut le faire"
+  },
+  {
+    "phrase": "what you want to do now?",
+    "translation": "qu'est-ce que vous voulez maintenant?"
+  },
+  {
+    "phrase": "if you want",
+    "translation": "si vous voulez",
+    "explanation": "that also means \"It's all right with me\". Vous verbs end -ez, with only three exceptions"
+  },
+  {
+    "phrase": "you are",
+    "translation": "vous êtes"
+  },
+  {
+    "phrase": "where are you?",
+    "translation": "où êtes-vous?"
+  },
+  {
+    "phrase": "are you busy?",
+    "translation": "êtes-vous occupé?"
+  },
+  {
+    "phrase": "free",
+    "translation": "libre"
+  },
+  {
+    "phrase": "are you free?",
+    "translation": "êtes-vous libre?"
+  },
+  {
+    "phrase": "where are you?",
+    "translation": "où êtes-vous?"
+  },
+  {
+    "phrase": "you are doing, making",
+    "translation": "vous faites"
+  },
+  {
+    "phrase": "what are you doing?",
+    "translation": "qu'est-ce que vous faites?"
+  },
+  {
+    "phrase": "you are saying, telling",
+    "translation": "vous dites"
+  },
+  {
+    "phrase": "what are you saying?",
+    "translation": "qu'est-ce que vous dites?"
+  },
+  {
+    "phrase": "what are you doing?",
+    "translation": "qu'est-ce que vous faites?"
+  },
+  {
+    "phrase": "I don't understand what you are saying",
+    "translation": "je ne comprends pas ce que vous dites"
+  },
+  {
+    "phrase": "to hurry",
+    "translation": "se dépêcher"
+  },
+  {
+    "phrase": "I am hurrying",
+    "translation": "je me dépeche"
+  },
+  {
+    "phrase": "I am in a hurry",
+    "translation": "je suis pressé"
+  },
+  {
+    "phrase": "I am hurrying because I am in a hurry",
+    "translation": "je me dépeche parce que je sais pressé"
+  },
+  {
+    "phrase": "I'm going to hurry",
+    "translation": "je vais me dépecher"
+  },
+  {
+    "phrase": "I must hurry",
+    "translation": "je dois me dépecher"
+  },
+  {
+    "phrase": "will you hurry please",
+    "translation": "voulez-vous vous dépechez"
+  },
+  {
+    "phrase": "hurry yourself!",
+    "translation": "dépechez-vous!"
+  },
+  {
+    "phrase": "to derange, bother",
+    "translation": "déranger"
+  },
+  {
+    "phrase": "it bothers me",
+    "translation": "ça me dérange"
+  },
+  {
+    "phrase": "it doesn't bother me",
+    "translation": "ça me dérange pas"
+  },
+  {
+    "phrase": "it bothers you",
+    "translation": "ça vous dérange"
+  },
+  {
+    "phrase": "it bothers me",
+    "translation": "ça me dérange"
+  },
+  {
+    "phrase": "it bothers you?",
+    "translation": "ça vous dérange"
+  },
+  {
+    "phrase": "to smoke",
+    "translation": "fumer"
+  },
+  {
+    "phrase": "will it bother you if I smoke?",
+    "translation": "ça vous dérange si je fume?"
+  },
+  {
+    "phrase": "information",
+    "translation": "information",
+    "explanation": "Information means \"information\" in the general sense. For specific information, such as directions to somewhere, use renseignements"
+  },
+  {
+    "phrase": "to teach",
+    "translation": "enseigner"
+  },
+  {
+    "phrase": "to inform",
+    "translation": "renseigner"
+  },
+  {
+    "phrase": "to inform oneself, get some information",
+    "translation": "se renseigner"
+  },
+  {
+    "phrase": "I'm going to find out",
+    "translation": "je vais ne renseigner",
+    "explanation": "now some more handle verbs"
+  },
+  {
+    "phrase": "I don't understand you",
+    "translation": "je ne vous comprends pas"
+  },
+  {
+    "phrase": "I cannot understand you",
+    "translation": "je ne peut pas vous comprendre"
+  },
+  {
+    "phrase": "I'm not doing it, i.e. I cannot do it now",
+    "translation": "je ne peut pas le faire maintenant"
+  },
+  {
+    "phrase": "he isn't doing it",
+    "translation": "il ne peut pas le faire"
+  },
+  {
+    "phrase": "do you understand me?",
+    "translation": "pouvez-vous me comprendre?"
+  },
+  {
+    "phrase": "why don't you do it now?",
+    "translation": "pourquoi ne pouvez-vous pas le faire maintenant?"
+  },
+  {
+    "phrase": "why don't you tell me?",
+    "translation": "pourquoi ne me dites pas?, pourquoi ne pouvez-vous pas me dire?"
+  },
+  {
+    "phrase": "why don't you come with me now?",
+    "translation": "pourquoi ne pouvez-vous pas venir avec moi maintenant?",
+    "explanation": "another handle"
+  },
+  {
+    "phrase": "I have to leave now",
+    "translation": "je dois partir maintenant"
+  },
+  {
+    "phrase": "we must leave now",
+    "translation": "on doit partir maintenant",
+    "explanation": "another handle"
+  },
+  {
+    "phrase": "do you want?",
+    "translation": "voulez-vous?"
+  },
+  {
+    "phrase": "why don't you do it, i.e. why don't you want to do it?",
+    "translation": "pourquoi ne voulez-vous pas le faire?",
+    "explanation": "You can also express the past tense using handles. In English, \"can\" in past tense is \"could\". So for \"I didn't understand you\", you can say \"I couldn't understand you\""
+  },
+  {
+    "phrase": "I could",
+    "translation": "je pouvais"
+  },
+  {
+    "phrase": "I couldn't understand you",
+    "translation": "je ne pouvais pas vous comprendre"
+  },
+  {
+    "phrase": "he didn't wait for us",
+    "translation": "il ne pouvait pas nous attendre"
+  },
+  {
+    "phrase": "I had to",
+    "translation": "je devais"
+  },
+  {
+    "phrase": "he had to",
+    "translation": "il devait"
+  },
+  {
+    "phrase": "he had to leave",
+    "translation": "il devait partir"
+  },
+  {
+    "phrase": "he wanted to wait",
+    "translation": "il voulait partir"
+  },
+  {
+    "phrase": "I didn't want to buy it",
+    "translation": "je ne voulais pas l'acheter"
+  },
+  {
+    "phrase": "to know",
+    "translation": "savoir"
+  },
+  {
+    "phrase": "I knew",
+    "translation": "je savais"
+  },
+  {
+    "phrase": "I didn't know",
+    "translation": "je ne savais pas"
+  },
+  {
+    "phrase": "to have",
+    "translation": "avoir"
+  },
+  {
+    "phrase": "you have",
+    "translation": "vous avez"
+  },
+  {
+    "phrase": "I had",
+    "translation": "j'avais"
+  },
+  {
+    "phrase": "I didn't have the time to do it",
+    "translation": "je n'avais pas le temps de le faire"
+  },
+  {
+    "phrase": "I was",
+    "translation": "j'étais"
+  },
+  {
+    "phrase": "it was",
+    "translation": "c'était"
+  },
+  {
+    "phrase": "it wasn't",
+    "translation": "ce n'était pas"
+  },
+  {
+    "phrase": "it was not possible to do it that way",
+    "translation": "ce n'était pas possible le faire comme ça"
+  },
+  {
+    "phrase": "because I was very busy",
+    "translation": "parce que j'était très occupé"
+  },
+  {
+    "phrase": "yesterday evening",
+    "translation": "hier soir"
+  },
+  {
+    "phrase": "yesterday morning",
+    "translation": "hier matin"
+  },
+  {
+    "phrase": "yesterday afternoon",
+    "translation": "hier après-midi"
+  },
+  {
+    "phrase": "I was there last night, but nobody was there",
+    "translation": "j'étais là hier soir, mais personne était là"
+  },
+  {
+    "phrase": "I like, I love",
+    "translation": "j'aime"
+  },
+  {
+    "phrase": "I like to do it that way",
+    "translation": "j'aime le faire comme ça",
+    "explanation": "but there is a distinction between \"I like you\" and \"I love you\"!"
+  },
+  {
+    "phrase": "I love you",
+    "translation": "je vous aime"
+  },
+  {
+    "phrase": "I like you",
+    "translation": "je vous aime bien"
+  },
+  {
+    "phrase": "I like you but I don't love you",
+    "translation": "je vous aime bien mais je ne vous aime pas"
+  },
+  {
+    "phrase": "I love to do it",
+    "translation": "j'adore le faire"
+  }
+]
