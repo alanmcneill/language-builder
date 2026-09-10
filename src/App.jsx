@@ -4,7 +4,6 @@ import {
   ChakraProvider,
   Container,
   defaultSystem,
-  Heading,
   HStack,
   Stack,
 } from '@chakra-ui/react'
