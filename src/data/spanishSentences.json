@@ -1,0 +1,61 @@
+[
+  {
+    "title": "13 Sentences You Need To Know",
+    "subtitle": "A Guide To Spanish Grammar Hacking",
+    "intro": "Learn thirteen simple sentences that demonstrate some of the most useful patterns in Spanish grammar.",
+    "language": "Spanish",
+    "direction": "source-first"
+  },
+  {
+    "phrase": "The apple is red",
+    "translation": "La manzana es roja"
+  },
+  {
+    "phrase": "It is John's apple",
+    "translation": "Es la manzana de John"
+  },
+  {
+    "phrase": "I give John the apple",
+    "translation": "Le doy la manzana a John"
+  },
+  {
+    "phrase": "We give him the apple",
+    "translation": "Le damos la manzana"
+  },
+  {
+    "phrase": "He gives it to John",
+    "translation": "Él se la da a John"
+  },
+  {
+    "phrase": "She gives it to him",
+    "translation": "Ella se la da"
+  },
+  {
+    "phrase": "I must give it to him",
+    "translation": "Debo dársela a él"
+  },
+  {
+    "phrase": "I want to give it to her",
+    "translation": "Quiero dársela (a ella)"
+  },
+  {
+    "phrase": "I'm going to know tomorrow",
+    "translation": "Voy a saber mañana"
+  },
+  {
+    "phrase": "I can't eat the apple",
+    "translation": "No puedo comer la manzana"
+  },
+  {
+    "phrase": "I have eaten the apple",
+    "translation": "Me he comido la manzana"
+  },
+  {
+    "phrase": "Is the apple red?",
+    "translation": "¿Es la manzana roja?"
+  },
+  {
+    "phrase": "The apples are red",
+    "translation": "Las manzanas son rojas"
+  }
+]

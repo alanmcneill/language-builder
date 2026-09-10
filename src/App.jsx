@@ -1,21 +1,21 @@
 import {
   Box,
+  Button,
   ChakraProvider,
   Container,
   defaultSystem,
   Heading,
   HStack,
   Stack,
-  Button,
 } from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 import EmptyState from './components/EmptyState'
 import HomeCard from './components/HomeCard'
-import LanguageCard from './components/LanguageCard'
 import LanguageMenu from './components/LanguageMenu'
 import LoadingState from './components/LoadingState'
+import LearningCard from './components/LearningCard'
 import ProgressControls from './components/ProgressControls'
-import ResourceCard from './components/ResourceCard'
+import ResourcesHomeCard from './components/ResourcesHomeCard'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
 import { datasetLoaders } from './data/datasets'
@@ -25,14 +25,27 @@ const progressStorageKeyPrefix = 'language-builder-current-index-'
 
 function App() {
   const [datasetKey, setDatasetKey] = useState(null)
-  const handleHome = () => {
-    setDatasetKey(null)
-  }
+  const [showResourcesHome, setShowResourcesHome] = useState(false)
   const [loadedDataset, setLoadedDataset] = useState({
     key: null,
     transcript: null,
   })
   const [currentIndex, setCurrentIndex] = useState(0)
+
+  const handleHome = () => {
+    setDatasetKey(null)
+    setShowResourcesHome(false)
+  }
+
+  const handleSelect = (key) => {
+    if (key === 'spanish-resources') {
+      setShowResourcesHome(true)
+      return
+    }
+
+    setShowResourcesHome(false)
+    setDatasetKey(key)
+  }
 
   // Load the selected dataset whenever the language/set changes.
   useEffect(() => {
@@ -76,7 +89,7 @@ function App() {
       ? loadedDataset.transcript
       : null
 
-  if (!datasetKey) {
+  if (!datasetKey && !showResourcesHome) {
     return (
       <ChakraProvider value={defaultSystem}>
         <Box
@@ -99,10 +112,48 @@ function App() {
               >
                 LEXICON
               </Button>
-              <LanguageMenu onSelect={setDatasetKey} />
+
+              <LanguageMenu onSelect={handleSelect} />
             </HStack>
 
-            <HomeCard onSelect={setDatasetKey} />
+            <HomeCard onSelect={handleSelect} />
+          </Container>
+        </Box>
+      </ChakraProvider>
+    )
+  }
+
+  if (showResourcesHome) {
+    return (
+      <ChakraProvider value={defaultSystem}>
+        <Box
+          minH="100vh"
+          bg="gray.800"
+          color="whiteAlpha.900"
+          py={10}
+          className="dark"
+        >
+          <Container maxW="container.md">
+            <HStack justify="space-between" mb={8}>
+              <Button
+                variant="plain"
+                p={0}
+                h="auto"
+                color="teal.300"
+                fontSize="lg"
+                fontWeight="bold"
+                onClick={handleHome}
+              >
+                LEXICON
+              </Button>
+
+              <LanguageMenu onSelect={handleSelect} />
+            </HStack>
+
+            <ResourcesHomeCard
+              onSelect={handleSelect}
+              onBack={handleHome}
+            />
           </Container>
         </Box>
       </ChakraProvider>
@@ -126,15 +177,14 @@ function App() {
   const totalItems = items.length
   const lastPosition = totalItems + 1
 
-  // Resources currently use a different card from language phrases.
-  const isResourceDataset = datasetKey === 'spanish-resources'
-
   const handleStart = () => {
     setCurrentIndex(0)
   }
+
   const handleNext = () => {
     setCurrentIndex((current) => Math.min(current + 1, lastPosition))
   }
+
   const handlePrevious = () => {
     setCurrentIndex((current) => Math.max(current - 1, 0))
   }
@@ -161,7 +211,8 @@ function App() {
             >
               LEXICON
             </Button>
-            <LanguageMenu onSelect={setDatasetKey} />
+
+            <LanguageMenu onSelect={handleSelect} />
           </HStack>
 
           <Stack spacing={8} align="center">
@@ -170,35 +221,26 @@ function App() {
                 <EmptyState message="This collection has no learning items yet." />
               ) : (
                 <>
-                  {/* Introduction */}
                   {currentIndex === 0 ? (
                     <SetIntroCard
                       item={intro}
                       onNext={handleNext}
                     />
                   ) : currentIndex === lastPosition ? (
-                    /* Completion screen */
                     <SetCompletionCard
                       onPrevious={handlePrevious}
                     />
-                  ) : isResourceDataset ? (
-                    /* Resource/vocabulary item */
-                    <ResourceCard
-                      key={`${datasetKey}-${currentIndex}`}
-                      item={currentItem}
-                      onNext={handleNext}
-                      showHint={currentIndex <= 3}
-                    />
                   ) : (
-                    /* Normal language phrase */
-                    <LanguageCard
+                    <LearningCard
                       key={`${datasetKey}-${currentIndex}`}
                       language={intro.language}
                       item={currentItem}
+                      direction={intro.direction}
                       onNext={handleNext}
                       showHint={currentIndex <= 3}
                     />
                   )}
+
                   <ProgressControls
                     currentPosition={currentIndex}
                     total={totalItems}

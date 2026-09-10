@@ -1,5 +1,5 @@
 import { Menu as MenuIcon } from 'lucide-react'
-import { IconButton, Link, Menu, Portal } from '@chakra-ui/react'
+import { IconButton, Menu, Portal } from '@chakra-ui/react'
 
 const languageGroups = [
   {
@@ -42,20 +42,13 @@ export default function LanguageMenu({ onSelect }) {
                 <Menu.ItemGroupLabel color="teal.300">{group.label}</Menu.ItemGroupLabel>
                 {group.links.map((link) => (
                   <Menu.Item
-                      key={`${group.label}-${link.key}`}
-                      value={link.key}
-                      asChild
-                    >
-                      <Link
-                        href="#"
-                        color="white"
-                        textDecoration="none"
-                        width="full"
-                        onClick={(event) => event.preventDefault()}
-                      >
-                        {link.label}
-                      </Link>
-                    </Menu.Item>
+                    key={`${group.label}-${link.key}`}
+                    value={link.key}
+                    color="white"
+                    textDecoration="none"
+                  >
+                  {link.label}
+                  </Menu.Item>
                 ))}
               </Menu.ItemGroup>
             ))}

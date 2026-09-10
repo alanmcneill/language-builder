@@ -8,50 +8,7 @@ import {
   HStack,
   Text,
 } from '@chakra-ui/react'
-
-const courses = [
-  {
-    key: 'spanish-basic',
-    language: 'Spanish',
-    title: 'Basic Spanish',
-    description: 'Build your Spanish skills one phrase at a time.',
-    badge: 'Course',
-  },
-  {
-    key: 'french-basic',
-    language: 'French',
-    title: 'Basic French',
-    description: 'Build your French skills one phrase at a time.',
-    badge: 'Course',
-  },
-  {
-    key: 'spanish-intermediate',
-    language: 'Spanish',
-    title: 'Intermediate Spanish',
-    description: 'Continue your Spanish learning journey with more complex sentences.',
-    badge: 'Course',
-  },
-  {
-    key: 'spanish-advanced',
-    language: 'Spanish',
-    title: 'Advanced Spanish',
-    description: 'Build on your Spanish vocabulary and master the language.',
-    badge: 'Course',
-  },
-  {
-    key: 'spanish-resources',
-    language: 'Spanish',
-    title: 'Spanish Resources',
-    description: 'Words, verbs, sentences and useful reference material.',
-    badge: 'Resources',
-  },
-  {
-    language: 'Italian',
-    title: 'Basic Italian',
-    description: 'Coming soon.',
-    badge: 'Course',
-  },
-]
+import homeData from '../data/home.json'
 
 export default function HomeCard({ onSelect }) {
   return (
@@ -64,12 +21,21 @@ export default function HomeCard({ onSelect }) {
       w="full"
     >
       <Stack spacing={8}>
+        <HStack spacing={2}>
+          <Heading size="lg" color="white">
+            Home
+          </Heading>
+          <Text color="gray.400">
+            Choose a language learning course or resource to get started.
+          </Text>
+        </HStack>
+
         <Stack spacing={4}>
           <SimpleGrid columns={{ base: 1, md: 2 }} gap={4}>
-            {courses.map((course) => (
+            {homeData.courses.map((course) => (
               <Button
                 key={course.key}
-                disabled={!course.key}
+                disabled={!course.available}
                 variant="outline"
                 borderColor="gray.700"
                 h="auto"
@@ -88,10 +54,12 @@ export default function HomeCard({ onSelect }) {
                     <Heading size="sm" color="whiteAlpha.700">
                       {course.title}
                     </Heading>
+
                     <Badge colorPalette="teal" variant="subtle">
                       {course.badge}
                     </Badge>
                   </HStack>
+
                   <Text
                     fontSize="sm"
                     fontWeight="normal"
