@@ -41,6 +41,7 @@ export default function ResourcesHomeCard({ onSelect }) {
               justifyContent="flex-start"
               textAlign="left"
               whiteSpace="normal"
+              disabled={!resource.available}
               onClick={() => onSelect(resource.datasetKey)}
               _hover={{
                 borderColor: 'teal.400',

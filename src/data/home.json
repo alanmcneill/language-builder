@@ -72,7 +72,7 @@
       "title": "Tenses",
       "description": "An introduction to Spanish verb tenses.",
       "badge": "Grammar",
-      "available": true
+      "available": false
     },
     {
       "key": "spanish-resources-regular-verbs",
@@ -80,7 +80,7 @@
       "title": "Regular Verbs",
       "description": "Common regular Spanish verbs and their conjugations.",
       "badge": "Verbs",
-      "available": true
+      "available": false
     },
     {
       "key": "spanish-resources-ser-estar",
@@ -88,7 +88,7 @@
       "title": "Ser & Estar",
       "description": "Learn when to use the two Spanish verbs for 'to be'.",
       "badge": "Verbs",
-      "available": true
+      "available": false
     },
     {
       "key": "spanish-resources-irregular-verbs",
@@ -96,7 +96,7 @@
       "title": "Irregular Verbs",
       "description": "Common Spanish verbs that don't follow regular patterns.",
       "badge": "Verbs",
-      "available": true
+      "available": false
     },
     {
       "key": "spanish-resources-stem-changing-verbs",
@@ -104,7 +104,7 @@
       "title": "Stem-Changing Verbs",
       "description": "Spanish verbs that change their stem when conjugated.",
       "badge": "Verbs",
-      "available": true
+      "available": false
     }
   ]
 }
