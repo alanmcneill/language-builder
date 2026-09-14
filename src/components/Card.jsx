@@ -26,7 +26,6 @@ export default function Card({ children, onClick, title }) {
       p={6}
       boxShadow="lg"
       w="full"
-      maxW="720px"
       display="flex"
       flexDirection="column"
       justifyContent="center"

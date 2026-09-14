@@ -3,6 +3,7 @@ export const datasetLoaders = {
   'spanish-intermediate': () => import('./intermediateSpanish.json'),
   'spanish-advanced': () => import('./advancedSpanish.json'),
   'french-basic': () => import('./basicFrench.json'),
+//   'italian-basic': () => import('./basicItalian.json'),
 
   'spanish-100': () => import('./spanish100.json'),
   'spanish-sentences': () => import('./spanishSentences.json'),

@@ -3,107 +3,104 @@
     {
       "key": "spanish-basic",
       "language": "Spanish",
-      "title": "Basic Spanish",
+      "title": "Spanish I",
       "description": "Build your Spanish skills one phrase at a time.",
       "badge": "Course",
+      "difficulty": "Beginner",
       "available": true
     },
     {
       "key": "french-basic",
       "language": "French",
-      "title": "Basic French",
+      "title": "French I",
       "description": "Build your French skills one phrase at a time.",
       "badge": "Course",
-      "available": true
-    },
-    {
-      "key": "spanish-intermediate",
-      "language": "Spanish",
-      "title": "Intermediate Spanish",
-      "description": "Continue your Spanish learning journey with more complex sentences.",
-      "badge": "Course",
-      "available": true
-    },
-    {
-      "key": "spanish-advanced",
-      "language": "Spanish",
-      "title": "Advanced Spanish",
-      "description": "Build on your Spanish vocabulary and master the language.",
-      "badge": "Course",
-      "available": true
-    },
-    {
-      "key": "spanish-resources",
-      "language": "Spanish",
-      "title": "Spanish Resources",
-      "description": "Words, verbs, sentences and useful reference material.",
-      "badge": "Resources",
+      "difficulty": "Beginner",
       "available": true
     },
     {
       "key": "italian-basic",
       "language": "Italian",
-      "title": "Basic Italian",
+      "title": "Italian I",
       "description": "Coming soon.",
       "badge": "Course",
+      "difficulty": "Beginner",
       "available": false
+    },
+    {
+      "key": "spanish-intermediate",
+      "language": "Spanish",
+      "title": "Spanish II",
+      "description": "Continue your Spanish learning journey with more complex sentences.",
+      "badge": "Course",
+      "difficulty": "Intermediate",
+      "available": true
+    },
+    {
+      "key": "spanish-advanced",
+      "language": "Spanish",
+      "title": "Spanish III",
+      "description": "Build on your Spanish vocabulary and master the language.",
+      "badge": "Course",
+      "difficulty": "Advanced",
+      "available": true
     }
   ],
-  "spanishResources": [
+  "resources": [
     {
-      "key": "spanish-resources-100",
-      "datasetKey": "spanish-100",
+      "key": "spanish-100",
       "title": "Top 100 Words",
       "description": "The 100 most frequently used Spanish words.",
       "badge": "Vocabulary",
+      "difficulty": "Beginner",
       "available": true
     },
     {
-      "key": "spanish-resources-sentences",
-      "datasetKey": "spanish-sentences",
+      "key": "spanish-sentences",
       "title": "Thirteen Sentences",
-      "description": "A collection of useful Spanish sentences.",
+      "description": "A collection of useful Spanish sentences to demonstrate the structure of the language.",
       "badge": "Sentences",
+      "difficulty": "Advanced",
       "available": true
     },
     {
-      "key": "spanish-resources-tenses",
-      "datasetKey": "spanish-tenses",
+      "key": "spanish-tenses",
       "title": "Tenses",
       "description": "An introduction to Spanish verb tenses.",
       "badge": "Grammar",
+      "difficulty": "Intermediate",
       "available": false
     },
     {
-      "key": "spanish-resources-regular-verbs",
-      "datasetKey": "spanish-regular-verbs",
+      "key": "spanish-regular-verbs",
       "title": "Regular Verbs",
       "description": "Common regular Spanish verbs and their conjugations.",
       "badge": "Verbs",
+      "difficulty": "Beginner",
       "available": false
     },
     {
-      "key": "spanish-resources-ser-estar",
-      "datasetKey": "spanish-ser-estar",
+      "key": "spanish-ser-estar",
       "title": "Ser & Estar",
       "description": "Learn when to use the two Spanish verbs for 'to be'.",
       "badge": "Verbs",
+      "difficulty": "Intermediate",
       "available": false
     },
     {
-      "key": "spanish-resources-irregular-verbs",
-      "datasetKey": "spanish-irregular-verbs",
+      "key": "spanish-irregular-verbs",
       "title": "Irregular Verbs",
       "description": "Common Spanish verbs that don't follow regular patterns.",
       "badge": "Verbs",
+      "difficulty": "Intermediate",
       "available": false
     },
     {
-      "key": "spanish-resources-stem-changing-verbs",
-      "datasetKey": "spanish-stem-changing-verbs",
+      "key": "spanish-stem-changing-verbs",
       "title": "Stem-Changing Verbs",
       "description": "Spanish verbs that change their stem when conjugated.",
       "badge": "Verbs",
+      "difficulty": "Advanced",
       "available": false
     }
   ]

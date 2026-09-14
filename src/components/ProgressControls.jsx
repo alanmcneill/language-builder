@@ -21,12 +21,13 @@ export default function ProgressControls({
       : `Phrase ${currentPosition} of ${total}`
 
   return (
-    <HStack gap={4} mt={2}>
+    <HStack gap={4} mt={2} w="full">
       <Progress.Root
         value={progressValue}
         colorPalette="teal"
         size="sm"
         flex="1"
+        minW={0}
         aria-label={progressLabel}
       >
         <Progress.Track bg="gray.700">
@@ -34,7 +35,7 @@ export default function ProgressControls({
         </Progress.Track>
       </Progress.Root>
 
-      <HStack gap={1}>
+      <HStack gap={1} flexShrink={0}>
         <Button
           type="button"
           variant="ghost"

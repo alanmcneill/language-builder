@@ -8,13 +8,18 @@ const languageGroups = [
       { label: 'Basic', key: 'spanish-basic' },
       { label: 'Intermediate', key: 'spanish-intermediate' },
       { label: 'Advanced', key: 'spanish-advanced' },
-      { label: 'Resources', key: 'spanish-resources' },
     ],
   },
   {
     label: 'French',
     links: [
         { label: 'Basic', key: 'french-basic' },
+    ]
+  },
+  {
+    label: 'Italian',
+    links: [
+        { label: 'Basic', key: 'italian-basic' },
     ]
   },
 ]
