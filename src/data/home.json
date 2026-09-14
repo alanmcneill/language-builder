@@ -4,7 +4,7 @@
       "key": "spanish-basic",
       "language": "Spanish",
       "title": "Spanish I",
-      "description": "Build your Spanish skills one phrase at a time.",
+      "description": "Build your Spanish skills one block at a time.",
       "badge": "Course",
       "difficulty": "Beginner",
       "available": true
@@ -13,7 +13,7 @@
       "key": "french-basic",
       "language": "French",
       "title": "French I",
-      "description": "Build your French skills one phrase at a time.",
+      "description": "Build your French skills one block at a time.",
       "badge": "Course",
       "difficulty": "Beginner",
       "available": true
@@ -49,6 +49,7 @@
   "resources": [
     {
       "key": "spanish-100",
+      "language": "Spanish",
       "title": "Top 100 Words",
       "description": "The 100 most frequently used Spanish words.",
       "badge": "Vocabulary",
@@ -57,6 +58,7 @@
     },
     {
       "key": "spanish-sentences",
+      "language": "Spanish",
       "title": "Thirteen Sentences",
       "description": "A collection of useful Spanish sentences to demonstrate the structure of the language.",
       "badge": "Sentences",
@@ -65,6 +67,7 @@
     },
     {
       "key": "spanish-tenses",
+      "language": "Spanish",
       "title": "Tenses",
       "description": "An introduction to Spanish verb tenses.",
       "badge": "Grammar",
@@ -73,11 +76,13 @@
     },
     {
       "key": "spanish-regular-verbs",
+      "language": "Spanish",
       "title": "Regular Verbs",
       "description": "Common regular Spanish verbs and their conjugations.",
       "badge": "Verbs",
       "difficulty": "Beginner",
-      "available": false
+      "view": "verb-list",
+      "available": true
     },
     {
       "key": "spanish-ser-estar",
@@ -89,6 +94,7 @@
     },
     {
       "key": "spanish-irregular-verbs",
+      "language": "Spanish",
       "title": "Irregular Verbs",
       "description": "Common Spanish verbs that don't follow regular patterns.",
       "badge": "Verbs",
@@ -97,6 +103,7 @@
     },
     {
       "key": "spanish-stem-changing-verbs",
+      "language": "Spanish",
       "title": "Stem-Changing Verbs",
       "description": "Spanish verbs that change their stem when conjugated.",
       "badge": "Verbs",

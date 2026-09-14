@@ -9,7 +9,7 @@ import {
   Text,
 } from '@chakra-ui/react'
 
-export default function Buttons({ items, onSelect }) {
+export default function CardGrid({ items, onSelect }) {
   return (
     <SimpleGrid columns={{ base: 1, md: 2 }} gap={4}>
       {items.map((item) => (

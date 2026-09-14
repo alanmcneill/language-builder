@@ -10,18 +10,21 @@ import {
 import { useEffect, useState } from 'react'
 import EmptyState from './components/EmptyState'
 import HomeLayout from './components/HomeLayout'
-import LanguageMenu from './components/LanguageMenu'
-import LoadingState from './components/LoadingState'
+import LanguageSelector from './components/LanguageSelector'
 import LearningCard from './components/LearningCard'
+import LoadingState from './components/LoadingState'
 import ProgressControls from './components/ProgressControls'
+import RegularVerbView from './components/RegularVerbView'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
 import { datasetLoaders } from './data/datasets'
 import { readProgress, writeProgress } from './storage'
 
-const progressStorageKeyPrefix = 'language-builder-current-index-'
+const progressStorageKeyPrefix =
+  'language-builder-current-index-'
 
 function App() {
+  const [language, setLanguage] = useState('Spanish')
   const [datasetKey, setDatasetKey] = useState(null)
   const [loadedDataset, setLoadedDataset] = useState({
     key: null,
@@ -61,6 +64,11 @@ function App() {
 
   const handleSelect = (key) => {
     setDatasetKey(key)
+  }
+
+  const handleLanguageChange = (nextLanguage) => {
+    setLanguage(nextLanguage)
+    setDatasetKey(null)
   }
 
   useEffect(() => {
@@ -103,45 +111,60 @@ function App() {
   let content
 
   if (!datasetKey) {
-    content = <HomeLayout onSelect={handleSelect} />
+    content = (
+      <HomeLayout
+        language={language}
+        onSelect={handleSelect}
+      />
+    )
   } else if (!transcript) {
     content = <LoadingState />
   } else {
     const intro = transcript[0]
 
-    content = totalItems === 0 ? (
-      <EmptyState message="This collection has no learning items yet." />
-    ) : (
-      <>
-        {currentIndex === 0 ? (
-          <SetIntroCard
-            item={intro}
-            onNext={handleNext}
-          />
-        ) : currentIndex === lastPosition ? (
-          <SetCompletionCard
-            onPrevious={handlePrevious}
-          />
-        ) : (
-          <LearningCard
-            key={`${datasetKey}-${currentIndex}`}
-            language={intro.language}
-            item={currentItem}
-            direction={intro.direction}
-            onNext={handleNext}
-            showHint={currentIndex <= 3}
-          />
-        )}
-
-        <ProgressControls
-          currentPosition={currentIndex}
-          total={totalItems}
-          onPrevious={handlePrevious}
-          onNext={handleNext}
-          onStart={handleStart}
+    if (intro.view === 'verb-list') {
+      content = (
+        <RegularVerbView
+          verbs={transcript.slice(1)}
         />
-      </>
-    )
+      )
+    } else {
+      content = totalItems === 0 ? (
+        <EmptyState
+          message="This collection has no learning items yet."
+        />
+      ) : (
+        <>
+          {currentIndex === 0 ? (
+            <SetIntroCard
+              item={intro}
+              onNext={handleNext}
+            />
+          ) : currentIndex === lastPosition ? (
+            <SetCompletionCard
+              onPrevious={handlePrevious}
+            />
+          ) : (
+            <LearningCard
+              key={`${datasetKey}-${currentIndex}`}
+              language={intro.language}
+              item={currentItem}
+              direction={intro.direction}
+              onNext={handleNext}
+              showHint={currentIndex <= 3}
+            />
+          )}
+
+          <ProgressControls
+            currentPosition={currentIndex}
+            total={totalItems}
+            onPrevious={handlePrevious}
+            onNext={handleNext}
+            onStart={handleStart}
+          />
+        </>
+      )
+    }
   }
 
   return (
@@ -167,7 +190,10 @@ function App() {
               LEXICON
             </Button>
 
-            <LanguageMenu onSelect={handleSelect} />
+            <LanguageSelector
+              language={language}
+              onSelect={handleLanguageChange}
+            />
           </HStack>
 
           <Stack spacing={8} align="center">

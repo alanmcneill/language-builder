@@ -1,0 +1,153 @@
+[
+  {
+    "title": "Regular verbs",
+    "subtitle": "Spanish verb conjugation",
+    "intro": "Learn how regular Spanish verbs are conjugated",
+    "language": "Spanish",
+    "view": "verb-list"
+  },
+  {
+    "verb": "hablar",
+    "type": "Regular",
+    "ending": "-ar",
+    "translation": "to speak",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "hablo", "I speak"],
+        ["tú", "you", "hablas", "you speak"],
+        ["él / ella / usted", "he / she / you", "habla", "he / she / you speak"],
+        ["nosotros", "we", "hablamos", "we speak"],
+        ["vosotros", "you", "habláis", "you speak"],
+        ["ellos / ellas / ustedes", "they / you", "hablan", "they / you speak"]
+      ],
+      "Preterite": [
+        ["yo", "I", "hablé", "I spoke"],
+        ["tú", "you", "hablaste", "you spoke"],
+        ["él / ella / usted", "he / she / you", "habló", "he / she / you spoke"],
+        ["nosotros", "we", "hablamos", "we spoke"],
+        ["vosotros", "you", "hablasteis", "you spoke"],
+        ["ellos / ellas / ustedes", "they / you", "hablaron", "they / you spoke"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "hablaba", "I used to speak"],
+        ["tú", "you", "hablabas", "you used to speak"],
+        ["él / ella / usted", "he / she / you", "hablaba", "he / she / you used to speak"],
+        ["nosotros", "we", "hablábamos", "we used to speak"],
+        ["vosotros", "you", "hablabais", "you used to speak"],
+        ["ellos / ellas / ustedes", "they", "hablaban", "they used to speak"]
+      ],
+      "Conditional": [
+        ["yo", "I", "hablaría", "I would speak"],
+        ["tú", "you", "hablarías", "you would speak"],
+        ["él / ella / usted", "he / she / you", "hablaría", "he / she / you would speak"],
+        ["nosotros", "we", "hablaríamos", "we would speak"],
+        ["vosotros", "you", "hablaríais", "you would speak"],
+        ["ellos / ellas / ustedes", "they / you", "hablarían", "they / you would speak"]
+      ],
+      "Future": [
+        ["yo", "I", "hablaré", "I will speak"],
+        ["tú", "you", "hablarás", "you will speak"],
+        ["él / ella / usted", "he / she / you", "hablará", "he / she / you will speak"],
+        ["nosotros", "we", "hablaremos", "we will speak"],
+        ["vosotros", "you", "hablaréis", "you will speak"],
+        ["ellos / ellas / ustedes", "they / you", "hablarán", "they / you will speak"]
+      ]
+    }
+  },
+  {
+    "verb": "comer",
+    "type": "Regular",
+    "ending": "-er",
+    "translation": "to eat",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "como", "I eat"],
+        ["tú", "you", "comes", "you eat"],
+        ["él / ella / usted", "he / she / you", "come", "he / she / you eat"],
+        ["nosotros", "we", "comemos", "we eat"],
+        ["vosotros", "you", "coméis", "you eat"],
+        ["ellos / ellas / ustedes", "they / you", "comen", "they / you eat"]
+      ],
+      "Preterite": [
+        ["yo", "I", "comí", "I ate"],
+        ["tú", "you", "comiste", "you ate"],
+        ["él / ella / usted", "he / she / you", "comió", "he / she / you ate"],
+        ["nosotros", "we", "comimos", "we ate"],
+        ["vosotros", "you", "comisteis", "you ate"],
+        ["ellos / ellas / ustedes", "they / you", "comieron", "they / you ate"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "comía", "I used to eat"],
+        ["tú", "you", "comías", "you used to eat"],
+        ["él / ella / usted", "he / she / you", "comía", "he / she / you used to eat"],
+        ["nosotros", "we", "comíamos", "we used to eat"],
+        ["vosotros", "you", "comíais", "you used to eat"],
+        ["ellos / ellas / ustedes", "they / you", "comían", "they used to eat"]
+      ],
+      "Conditional": [
+        ["yo", "I", "comería", "I would eat"],
+        ["tú", "you", "comerías", "you would eat"],
+        ["él / ella / usted", "he / she / you", "comería", "he / she / you would eat"],
+        ["nosotros", "we", "comeríamos", "we would eat"],
+        ["vosotros", "you", "comeríais", "you would eat"],
+        ["ellos / ellas / ustedes", "they / you", "comerían", "they / you would eat"]
+      ],
+      "Future": [
+        ["yo", "I", "comeré", "I will eat"],
+        ["tú", "you", "comerás", "you will eat"],
+        ["él / ella / usted", "he / she / you", "comerá", "he / she / you will eat"],
+        ["nosotros", "we", "comeremos", "we will eat"],
+        ["vosotros", "you", "comeréis", "you will eat"],
+        ["ellos / ellas / ustedes", "they / you", "comerán", "they / you will eat"]
+      ]
+    }
+  },
+  {
+    "verb": "vivir",
+    "type": "Regular",
+    "ending": "-ir",
+    "translation": "to live",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "vivo", "I live"],
+        ["tú", "you", "vives", "you live"],
+        ["él / ella / usted", "he / she / you", "vive", "he / she / you live"],
+        ["nosotros", "we", "vivimos", "we live"],
+        ["vosotros", "you", "vivís", "you live"],
+        ["ellos / ellas / ustedes", "they / you", "viven", "they / you live"]
+      ],
+      "Preterite": [
+        ["yo", "I", "viví", "I lived"],
+        ["tú", "you", "viviste", "you lived"],
+        ["él / ella / usted", "he / she / you", "vivió", "he / she / you lived"],
+        ["nosotros", "we", "vivimos", "we lived"],
+        ["vosotros", "you", "vivisteis", "you lived"],
+        ["ellos / ellas / ustedes", "they / you", "vivieron", "they / you lived"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "vivía", "I used to live"],
+        ["tú", "you", "vivías", "you used to live"],
+        ["él / ella / usted", "he / she / you", "vivía", "he / she / you used to live"],
+        ["nosotros", "we", "vivíamos", "we used to live"],
+        ["vosotros", "you", "vivíais", "you used to live"],
+        ["ellos / ellas / ustedes", "they / you", "vivían", "they used to live"]
+      ],
+      "Conditional": [
+        ["yo", "I", "viviría", "I would live"],
+        ["tú", "you", "vivirías", "you would live"],
+        ["él / ella / usted", "he / she / you", "viviría", "he / she / you would live"],
+        ["nosotros", "we", "viviríamos", "we would live"],
+        ["vosotros", "you", "viviríais", "you would live"],
+        ["ellos / ellas / ustedes", "they / you", "vivirían", "they / you would live"]
+      ],
+      "Future": [
+        ["yo", "I", "viviré", "I will live"],
+        ["tú", "you", "vivirás", "you will live"],
+        ["él / ella / usted", "he / she / you", "vivirá", "he / she / you will live"],
+        ["nosotros", "we", "viviremos", "we will live"],
+        ["vosotros", "you", "viviréis", "you will live"],
+        ["ellos / ellas / ustedes", "they / you", "vivirán", "they / you will live"]
+      ]
+    }
+  }
+]

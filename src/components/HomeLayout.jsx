@@ -7,9 +7,20 @@ import {
   Text,
 } from '@chakra-ui/react'
 import homeData from '../data/home.json'
-import Buttons from './Buttons'
+import CardGrid from './CardGrid'
 
-export default function HomeLayout({ onSelect }) {
+export default function HomeLayout({
+  language,
+  onSelect,
+}) {
+  const courses = homeData.courses.filter(
+    (item) => item.language === language,
+  )
+
+  const resources = homeData.resources.filter(
+    (item) => item.language === language,
+  )
+
   return (
     <Box
       bg="gray.900"
@@ -22,34 +33,44 @@ export default function HomeLayout({ onSelect }) {
       <Stack spacing={8}>
         <HomeSectionHeading
           title="Courses"
-          description="Choose a language learning course to get started."
+          description={`Learn ${language} block by block`}
         />
 
-        <Buttons
-          items={homeData.courses}
+        <CardGrid
+          items={courses}
           onSelect={onSelect}
         />
 
-        <Separator margin="1rem 0" />
+        {resources.length > 0 && (
+          <>
+            <Separator margin="1rem 0" />
 
-        <HomeSectionHeading
-          title="Spanish Resources"
-          description="Vocabulary, verbs, sentences and grammar reference material."
-        />
+            <HomeSectionHeading
+              title={`${language} Resources`}
+              description="Vocabulary, verbs, sentences and grammar reference material"
+            />
 
-        <Buttons
-          items={homeData.resources}
-          onSelect={onSelect}
-        />
+            <CardGrid
+              items={resources}
+              onSelect={onSelect}
+            />
+          </>
+        )}
       </Stack>
     </Box>
   )
 }
 
-function HomeSectionHeading({ title, description }) {
+function HomeSectionHeading({
+  title,
+  description,
+}) {
   return (
     <HStack spacing={2}>
-      <Heading size="lg" color="white">
+      <Heading
+        size="lg"
+        color="white"
+      >
         {title}
       </Heading>
 
