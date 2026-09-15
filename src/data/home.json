@@ -51,7 +51,7 @@
       "key": "spanish-100",
       "language": "Spanish",
       "title": "Top 100 Words",
-      "description": "The 100 most frequently used Spanish words.",
+      "description": "An average native Spanish speaker uses between 300 and 1,000 different words in their daily conversation, out of an active daily vocabulary of about 3,000 to 5,000 words. Learn the 100 most frequently used Spanish words.",
       "badge": "Vocabulary",
       "difficulty": "Beginner",
       "available": true
@@ -59,9 +59,9 @@
     {
       "key": "spanish-sentences",
       "language": "Spanish",
-      "title": "Thirteen Sentences",
-      "description": "A collection of useful Spanish sentences to demonstrate the structure of the language.",
-      "badge": "Sentences",
+      "title": "Sentence Structure",
+      "description": "A collection of useful Spanish sentences to demonstrate the structure of the language. Commit these sentences to memory and then practice using them. Once you have them locked in, you can apply these sentences to almost any situation by substituting other nouns and verbs.",
+      "badge": "Grammar",
       "difficulty": "Advanced",
       "available": true
     },
@@ -85,14 +85,6 @@
       "available": true
     },
     {
-      "key": "spanish-ser-estar",
-      "title": "Ser & Estar",
-      "description": "Learn when to use the two Spanish verbs for 'to be'.",
-      "badge": "Verbs",
-      "difficulty": "Intermediate",
-      "available": false
-    },
-    {
       "key": "spanish-irregular-verbs",
       "language": "Spanish",
       "title": "Irregular Verbs",
@@ -106,6 +98,22 @@
       "language": "Spanish",
       "title": "Stem-Changing Verbs",
       "description": "Spanish verbs that change their stem when conjugated.",
+      "badge": "Verbs",
+      "difficulty": "Advanced",
+      "available": false
+    },
+    {
+      "key": "spanish-ser-estar",
+      "title": "Ser y Estar",
+      "description": "Compare the two Spanish verbs meaning “to be”.",
+      "badge": "Reference",
+      "language": "Spanish"
+    },
+    {
+      "key": "spanish-reflexive-verbs",
+      "language": "Spanish",
+      "title": "Reflexive Verbs",
+      "description": "Spanish verbs that are used with reflexive pronouns.",
       "badge": "Verbs",
       "difficulty": "Advanced",
       "available": false

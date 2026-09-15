@@ -9,7 +9,7 @@ export const datasetLoaders = {
   'spanish-sentences': () => import('./spanishSentences.json'),
 //   'spanish-tenses': () => import('./spanishTenses.json'),
   'spanish-regular-verbs': () => import('./spanishRegularVerbs.json'),
-//   'spanish-ser-estar': () => import('./spanishSerEstar.json'),
+  'spanish-ser-estar': () => import('./spanishSerEstar.json'),
 //   'spanish-irregular-verbs': () => import('./spanishIrregularVerbs.json'),
 //   'spanish-stem-changing-verbs': () => import('./spanishStemChangingVerbs.json'),
 }

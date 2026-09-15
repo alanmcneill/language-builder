@@ -17,6 +17,7 @@ import ProgressControls from './components/ProgressControls'
 import RegularVerbView from './components/RegularVerbView'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
+import SerEstarView from './components/SerEstarView'
 import { datasetLoaders } from './data/datasets'
 import { readProgress, writeProgress } from './storage'
 
@@ -125,6 +126,12 @@ function App() {
     if (intro.view === 'verb-list') {
       content = (
         <RegularVerbView
+          verbs={transcript.slice(1)}
+        />
+      )
+    } else if (intro.view === 'ser-estar') {
+      content = (
+        <SerEstarView
           verbs={transcript.slice(1)}
         />
       )

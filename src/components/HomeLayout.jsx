@@ -47,7 +47,7 @@ export default function HomeLayout({
 
             <HomeSectionHeading
               title={`${language} Resources`}
-              description="Vocabulary, verbs, sentences and grammar reference material"
+              description="Vocabulary, verbs, and grammar reference material"
             />
 
             <CardGrid

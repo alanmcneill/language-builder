@@ -24,17 +24,27 @@ export default function VerbBlock({ verb }) {
             <Heading size="2xl" color="white" >
               {verb.verb}
             </Heading>
+            {verb.description && (
+              <Text color="gray.400">
+                {verb.description}
+              </Text>
+            )}
             <Text fontSize="2xl" color="gray.400" >
               {verb.translation}
             </Text>
           </Group>
           <Group>
-            <Badge colorPalette="teal" variant="subtle">
-              {verb.type} verb
-            </Badge>
-            <Badge colorPalette="gray" variant="outline">
-              {verb.ending}
-            </Badge>
+            {verb.type && (
+              <Badge colorPalette="teal" variant="subtle">
+                {verb.type} verb
+              </Badge>
+            )}
+
+            {verb.ending && (
+              <Badge colorPalette="gray" variant="outline">
+                {verb.ending}
+              </Badge>
+            )}
           </Group>
         </Flex>
 
@@ -60,7 +70,7 @@ export default function VerbBlock({ verb }) {
                 fontSize="sm"
                 color="gray.500"
               >
-                {person} · {translation}
+                {person}
               </Text>
 
               <Text

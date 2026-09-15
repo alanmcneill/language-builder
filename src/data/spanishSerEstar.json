@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Ser y Estar",
+    "subtitle": "The two Spanish verbs for “to be”",
+    "intro": "Learn the difference between ser and estar, and how to conjugate both verbs.",
+    "language": "Spanish",
+    "view": "ser-estar"
+  },
+  {
+    "verb": "ser",
+    "translation": "To be",
+    "description": "identity, essence and defining characteristics",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "soy", "I am"],
+        ["tú", "you", "eres", "you are"],
+        ["él / ella / usted", "he / she / you", "es", "he / she / you are"],
+        ["nosotros", "we", "somos", "we are"],
+        ["vosotros", "you", "sois", "you are"],
+        ["ellos / ellas / ustedes", "they / you", "son", "they / you are"]
+      ],
+      "Preterite": [
+        ["yo", "I", "fui", "I was"],
+        ["tú", "you", "fuiste", "you were"],
+        ["él / ella / usted", "he / she / you", "fue", "he / she / you were"],
+        ["nosotros", "we", "fuimos", "we were"],
+        ["vosotros", "you", "fuisteis", "you were"],
+        ["ellos / ellas / ustedes", "they / you", "fueron", "they / you were"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "era", "I used to be"],
+        ["tú", "you", "eras", "you used to be"],
+        ["él / ella / usted", "he / she / you", "era", "he / she / you used to be"],
+        ["nosotros", "we", "éramos", "we used to be"],
+        ["vosotros", "you", "erais", "you used to be"],
+        ["ellos / ellas / ustedes", "they / you", "eran", "they used to be"]
+      ],
+      "Conditional": [
+        ["yo", "I", "sería", "I would be"],
+        ["tú", "you", "serías", "you would be"],
+        ["él / ella / usted", "he / she / you", "sería", "he / she / you would be"],
+        ["nosotros", "we", "seríamos", "we would be"],
+        ["vosotros", "you", "seríais", "you would be"],
+        ["ellos / ellas / ustedes", "they / you", "serían", "they / you would be"]
+      ],
+      "Future": [
+        ["yo", "I", "seré", "I will be"],
+        ["tú", "you", "serás", "you will be"],
+        ["él / ella / usted", "he / she / you", "será", "he / she / you will be"],
+        ["nosotros", "we", "seremos", "we will be"],
+        ["vosotros", "you", "seréis", "you will be"],
+        ["ellos / ellas / ustedes", "they / you", "serán", "they / you will be"]
+      ]
+    }
+  },
+  {
+    "verb": "estar",
+    "translation": "To be",
+    "description": "states, conditions and situations",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "estoy", "I am"],
+        ["tú", "you", "estás", "you are"],
+        ["él / ella / usted", "he / she / you", "está", "he / she / you are"],
+        ["nosotros", "we", "estamos", "we are"],
+        ["vosotros", "you", "estáis", "you are"],
+        ["ellos / ellas / ustedes", "they / you", "están", "they / you are"]
+      ],
+      "Preterite": [
+        ["yo", "I", "estuve", "I was"],
+        ["tú", "you", "estuviste", "you were"],
+        ["él / ella / usted", "he / she / you", "estuvo", "he / she / you were"],
+        ["nosotros", "we", "estuvimos", "we were"],
+        ["vosotros", "you", "estuvisteis", "you were"],
+        ["ellos / ellas / ustedes", "they / you", "estuvieron", "they / you were"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "estaba", "I used to be"],
+        ["tú", "you", "estabas", "you used to be"],
+        ["él / ella / usted", "he / she / you", "estaba", "he / she / you used to be"],
+        ["nosotros", "we", "estábamos", "we used to be"],
+        ["vosotros", "you", "estabais", "you used to be"],
+        ["ellos / ellas / ustedes", "they / you", "estaban", "they used to be"]
+      ],
+      "Conditional": [
+        ["yo", "I", "estaría", "I would be"],
+        ["tú", "you", "estarías", "you would be"],
+        ["él / ella / usted", "he / she / you", "estaría", "he / she / you would be"],
+        ["nosotros", "we", "estaríamos", "we would be"],
+        ["vosotros", "you", "estaríais", "you would be"],
+        ["ellos / ellas / ustedes", "they / you", "estarían", "they / you would be"]
+      ],
+      "Future": [
+        ["yo", "I", "estaré", "I will be"],
+        ["tú", "you", "estarás", "you will be"],
+        ["él / ella / usted", "he / she / you", "estará", "he / she / you will be"],
+        ["nosotros", "we", "estaremos", "we will be"],
+        ["vosotros", "you", "estaréis", "you will be"],
+        ["ellos / ellas / ustedes", "they / you", "estarán", "they / you will be"]
+      ]
+    }
+  }
+]
