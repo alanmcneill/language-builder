@@ -106,8 +106,10 @@
       "key": "spanish-ser-estar",
       "title": "Ser y Estar",
       "description": "Compare the two Spanish verbs meaning “to be”.",
-      "badge": "Reference",
-      "language": "Spanish"
+      "badge": "Verbs",
+      "language": "Spanish",
+      "difficulty": "Advanced",
+      "available": true
     },
     {
       "key": "spanish-reflexive-verbs",
