@@ -18,6 +18,7 @@ import RegularVerbView from './components/RegularVerbView'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
 import SerEstarView from './components/SerEstarView'
+import IrregularVerbView from './components/IrregularVerbView'
 import { datasetLoaders } from './data/datasets'
 import { readProgress, writeProgress } from './storage'
 
@@ -123,19 +124,25 @@ function App() {
   } else {
     const intro = transcript[0]
 
-    if (intro.view === 'verb-list') {
-      content = (
-        <RegularVerbView
-          verbs={transcript.slice(1)}
-        />
-      )
-    } else if (intro.view === 'ser-estar') {
-      content = (
-        <SerEstarView
-          verbs={transcript.slice(1)}
-        />
-      )
-    } else {
+  if (intro.view === 'verb-list') {
+    content = (
+      <RegularVerbView
+        verbs={transcript.slice(1)}
+      />
+    )
+  } else if (intro.view === 'irregular-verb-list') {
+    content = (
+      <IrregularVerbView
+        verbs={transcript.slice(1)}
+      />
+    )
+  } else if (intro.view === 'ser-estar') {
+    content = (
+      <SerEstarView
+        verbs={transcript.slice(1)}
+      />
+    )
+  } else {
       content = totalItems === 0 ? (
         <EmptyState
           message="This collection has no learning items yet."

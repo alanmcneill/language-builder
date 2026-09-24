@@ -91,7 +91,7 @@
       "description": "Common Spanish verbs that don't follow regular patterns.",
       "badge": "Verbs",
       "difficulty": "Intermediate",
-      "available": false
+      "available": true
     },
     {
       "key": "spanish-stem-changing-verbs",

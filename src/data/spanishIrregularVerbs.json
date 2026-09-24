@@ -1,0 +1,338 @@
+[
+  {
+  "title": "Irregular verbs",
+  "subtitle": "Spanish verb conjugation",
+  "intro": "Learn how some of the most common irregular Spanish verbs are conjugated.",
+  "language": "Spanish",
+  "view": "irregular-verb-list"
+  },
+  {
+    "verb": "saber",
+    "type": "Irregular",
+    "translation": "to know",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "sé", "I know"],
+        ["tú", "you", "sabes", "you know"],
+        ["él / ella / usted", "he / she / you", "sabe", "he / she / you know"],
+        ["nosotros", "we", "sabemos", "we know"],
+        ["vosotros", "you", "sabéis", "you know"],
+        ["ellos / ellas / ustedes", "they / you", "saben", "they / you know"]
+      ],
+      "Preterite": [
+        ["yo", "I", "supe", "I found out"],
+        ["tú", "you", "supiste", "you found out"],
+        ["él / ella / usted", "he / she / you", "supo", "he / she / you found out"],
+        ["nosotros", "we", "supimos", "we found out"],
+        ["vosotros", "you", "supisteis", "you found out"],
+        ["ellos / ellas / ustedes", "they / you", "supieron", "they / you found out"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "sabía", "I knew"],
+        ["tú", "you", "sabías", "you knew"],
+        ["él / ella / usted", "he / she / you", "sabía", "he / she / you knew"],
+        ["nosotros", "we", "sabíamos", "we knew"],
+        ["vosotros", "you", "sabíais", "you knew"],
+        ["ellos / ellas / ustedes", "they / you", "sabían", "they / you knew"]
+      ],
+      "Conditional": [
+        ["yo", "I", "sabría", "I would know"],
+        ["tú", "you", "sabrías", "you would know"],
+        ["él / ella / usted", "he / she / you", "sabría", "he / she / you would know"],
+        ["nosotros", "we", "sabríamos", "we would know"],
+        ["vosotros", "you", "sabríais", "you would know"],
+        ["ellos / ellas / ustedes", "they / you", "sabrían", "they / you would know"]
+      ],
+      "Future": [
+        ["yo", "I", "sabré", "I will know"],
+        ["tú", "you", "sabrás", "you will know"],
+        ["él / ella / usted", "he / she / you", "sabrá", "he / she / you will know"],
+        ["nosotros", "we", "sabremos", "we will know"],
+        ["vosotros", "you", "sabréis", "you will know"],
+        ["ellos / ellas / ustedes", "they / you", "sabrán", "they / you will know"]
+      ]
+    }
+  },
+  {
+    "verb": "dar",
+    "type": "Irregular",
+    "translation": "to give",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "doy", "I give"],
+        ["tú", "you", "das", "you give"],
+        ["él / ella / usted", "he / she / you", "da", "he / she / you give"],
+        ["nosotros", "we", "damos", "we give"],
+        ["vosotros", "you", "dais", "you give"],
+        ["ellos / ellas / ustedes", "they / you", "dan", "they / you give"]
+      ],
+      "Preterite": [
+        ["yo", "I", "di", "I gave"],
+        ["tú", "you", "diste", "you gave"],
+        ["él / ella / usted", "he / she / you", "dio", "he / she / you gave"],
+        ["nosotros", "we", "dimos", "we gave"],
+        ["vosotros", "you", "disteis", "you gave"],
+        ["ellos / ellas / ustedes", "they / you", "dieron", "they / you gave"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "daba", "I used to give"],
+        ["tú", "you", "dabas", "you used to give"],
+        ["él / ella / usted", "he / she / you", "daba", "he / she / you used to give"],
+        ["nosotros", "we", "dábamos", "we used to give"],
+        ["vosotros", "you", "dabais", "you used to give"],
+        ["ellos / ellas / ustedes", "they / you", "daban", "they used to give"]
+      ],
+      "Conditional": [
+        ["yo", "I", "daría", "I would give"],
+        ["tú", "you", "darías", "you would give"],
+        ["él / ella / usted", "he / she / you", "daría", "he / she / you would give"],
+        ["nosotros", "we", "daríamos", "we would give"],
+        ["vosotros", "you", "daríais", "you would give"],
+        ["ellos / ellas / ustedes", "they / you", "darían", "they / you would give"]
+      ],
+      "Future": [
+        ["yo", "I", "daré", "I will give"],
+        ["tú", "you", "darás", "you will give"],
+        ["él / ella / usted", "he / she / you", "dará", "he / she / you will give"],
+        ["nosotros", "we", "daremos", "we will give"],
+        ["vosotros", "you", "daréis", "you will give"],
+        ["ellos / ellas / ustedes", "they / you", "darán", "they / you will give"]
+      ]
+    }
+  },
+  {
+    "verb": "ver",
+    "type": "Irregular",
+    "translation": "to see / watch",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "veo", "I see"],
+        ["tú", "you", "ves", "you see"],
+        ["él / ella / usted", "he / she / you", "ve", "he / she / you see"],
+        ["nosotros", "we", "vemos", "we see"],
+        ["vosotros", "you", "veis", "you see"],
+        ["ellos / ellas / ustedes", "they / you", "ven", "they / you see"]
+      ],
+      "Preterite": [
+        ["yo", "I", "vi", "I saw"],
+        ["tú", "you", "viste", "you saw"],
+        ["él / ella / usted", "he / she / you", "vio", "he / she / you saw"],
+        ["nosotros", "we", "vimos", "we saw"],
+        ["vosotros", "you", "visteis", "you saw"],
+        ["ellos / ellas / ustedes", "they / you", "vieron", "they / you saw"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "veía", "I used to see"],
+        ["tú", "you", "veías", "you used to see"],
+        ["él / ella / usted", "he / she / you", "veía", "he / she / you used to see"],
+        ["nosotros", "we", "veíamos", "we used to see"],
+        ["vosotros", "you", "veíais", "you used to see"],
+        ["ellos / ellas / ustedes", "they / you", "veían", "they used to see"]
+      ],
+      "Conditional": [
+        ["yo", "I", "vería", "I would see"],
+        ["tú", "you", "verías", "you would see"],
+        ["él / ella / usted", "he / she / you", "vería", "he / she / you would see"],
+        ["nosotros", "we", "veríamos", "we would see"],
+        ["vosotros", "you", "veríais", "you would see"],
+        ["ellos / ellas / ustedes", "they / you", "verían", "they / you would see"]
+      ],
+      "Future": [
+        ["yo", "I", "veré", "I will see"],
+        ["tú", "you", "verás", "you will see"],
+        ["él / ella / usted", "he / she / you", "verá", "he / she / you will see"],
+        ["nosotros", "we", "veremos", "we will see"],
+        ["vosotros", "you", "veréis", "you will see"],
+        ["ellos / ellas / ustedes", "they / you", "verán", "they / you will see"]
+      ]
+    }
+  },
+  {
+    "verb": "ir",
+    "type": "Irregular",
+    "translation": "to go",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "voy", "I go"],
+        ["tú", "you", "vas", "you go"],
+        ["él / ella / usted", "he / she / you", "va", "he / she / you go"],
+        ["nosotros", "we", "vamos", "we go"],
+        ["vosotros", "you", "vais", "you go"],
+        ["ellos / ellas / ustedes", "they / you", "van", "they / you go"]
+      ],
+      "Preterite": [
+        ["yo", "I", "fui", "I went"],
+        ["tú", "you", "fuiste", "you went"],
+        ["él / ella / usted", "he / she / you", "fue", "he / she / you went"],
+        ["nosotros", "we", "fuimos", "we went"],
+        ["vosotros", "you", "fuisteis", "you went"],
+        ["ellos / ellas / ustedes", "they / you", "fueron", "they / you went"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "iba", "I used to go"],
+        ["tú", "you", "ibas", "you used to go"],
+        ["él / ella / usted", "he / she / you", "iba", "he / she / you used to go"],
+        ["nosotros", "we", "íbamos", "we used to go"],
+        ["vosotros", "you", "ibais", "you used to go"],
+        ["ellos / ellas / ustedes", "they / you", "iban", "they used to go"]
+      ],
+      "Conditional": [
+        ["yo", "I", "iría", "I would go"],
+        ["tú", "you", "irías", "you would go"],
+        ["él / ella / usted", "he / she / you", "iría", "he / she / you would go"],
+        ["nosotros", "we", "iríamos", "we would go"],
+        ["vosotros", "you", "iríais", "you would go"],
+        ["ellos / ellas / ustedes", "they / you", "irían", "they / you would go"]
+      ],
+      "Future": [
+        ["yo", "I", "iré", "I will go"],
+        ["tú", "you", "irás", "you will go"],
+        ["él / ella / usted", "he / she / you", "irá", "he / she / you will go"],
+        ["nosotros", "we", "iremos", "we will go"],
+        ["vosotros", "you", "iréis", "you will go"],
+        ["ellos / ellas / ustedes", "they / you", "irán", "they / you will go"]
+      ]
+    }
+  },
+  {
+    "verb": "haber",
+    "type": "Irregular",
+    "translation": "to have (auxiliary)",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "he", "I have"],
+        ["tú", "you", "has", "you have"],
+        ["él / ella / usted", "he / she / you", "ha / hay", "he / she / you have / there is"],
+        ["nosotros", "we", "hemos", "we have"],
+        ["vosotros", "you", "habéis", "you have"],
+        ["ellos / ellas / ustedes", "they / you", "han", "they / you have"]
+      ],
+      "Preterite": [
+        ["yo", "I", "hube", "I had"],
+        ["tú", "you", "hubiste", "you had"],
+        ["él / ella / usted", "he / she / you", "hubo", "he / she / you had"],
+        ["nosotros", "we", "hubimos", "we had"],
+        ["vosotros", "you", "hubisteis", "you had"],
+        ["ellos / ellas / ustedes", "they / you", "hubieron", "they had"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "había", "I had"],
+        ["tú", "you", "habías", "you had"],
+        ["él / ella / usted", "he / she / you", "había", "he / she / you had"],
+        ["nosotros", "we", "habíamos", "we had"],
+        ["vosotros", "you", "habíais", "you had"],
+        ["ellos / ellas / ustedes", "they / you", "habían", "they had"]
+      ],
+      "Conditional": [
+        ["yo", "I", "habría", "I would have"],
+        ["tú", "you", "habrías", "you would have"],
+        ["él / ella / usted", "he / she / you", "habría", "he / she / you would have"],
+        ["nosotros", "we", "habríamos", "we would have"],
+        ["vosotros", "you", "habríais", "you would have"],
+        ["ellos / ellas / ustedes", "they / you", "habrían", "they / you would have"]
+      ],
+      "Future": [
+        ["yo", "I", "habré", "I will have"],
+        ["tú", "you", "habrás", "you will have"],
+        ["él / ella / usted", "he / she / you", "habrá", "he / she / you will have"],
+        ["nosotros", "we", "habremos", "we will have"],
+        ["vosotros", "you", "habréis", "you will have"],
+        ["ellos / ellas / ustedes", "they / you", "habrán", "they / you will have"]
+      ]
+    }
+  },
+  {
+    "verb": "decir",
+    "type": "Irregular",
+    "translation": "to say / tell",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "digo", "I say / tell"],
+        ["tú", "you", "dices", "you say / tell"],
+        ["él / ella / usted", "he / she / you", "dice", "he / she / you say / tell"],
+        ["nosotros", "we", "decimos", "we say / tell"],
+        ["vosotros", "you", "decís", "you say / tell"],
+        ["ellos / ellas / ustedes", "they / you", "dicen", "they / you say / tell"]
+      ],
+      "Preterite": [
+        ["yo", "I", "dije", "I said / told"],
+        ["tú", "you", "dijiste", "you said / told"],
+        ["él / ella / usted", "he / she / you", "dijo", "he / she / you said / told"],
+        ["nosotros", "we", "dijimos", "we said / told"],
+        ["vosotros", "you", "dijisteis", "you said / told"],
+        ["ellos / ellas / ustedes", "they / you", "dijeron", "they / you said / told"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "decía", "I used to say / tell"],
+        ["tú", "you", "decías", "you used to say / tell"],
+        ["él / ella / usted", "he / she / you", "decía", "he / she / you used to say / tell"],
+        ["nosotros", "we", "decíamos", "we used to say / tell"],
+        ["vosotros", "you", "decíais", "you used to say / tell"],
+        ["ellos / ellas / ustedes", "they / you", "decían", "they used to say / tell"]
+      ],
+      "Conditional": [
+        ["yo", "I", "diría", "I would say / tell"],
+        ["tú", "you", "dirías", "you would say / tell"],
+        ["él / ella / usted", "he / she / you", "diría", "he / she / you would say / tell"],
+        ["nosotros", "we", "diríamos", "we would say / tell"],
+        ["vosotros", "you", "diríais", "you would say / tell"],
+        ["ellos / ellas / ustedes", "they / you", "dirían", "they / you would say / tell"]
+      ],
+      "Future": [
+        ["yo", "I", "diré", "I will say / tell"],
+        ["tú", "you", "dirás", "you will say / tell"],
+        ["él / ella / usted", "he / she / you", "dirá", "he / she / you will say / tell"],
+        ["nosotros", "we", "diremos", "we will say / tell"],
+        ["vosotros", "you", "diréis", "you will say / tell"],
+        ["ellos / ellas / ustedes", "they / you", "dirán", "they / you will say / tell"]
+      ]
+    }
+  },
+  {
+    "verb": "hacer",
+    "type": "Irregular",
+    "translation": "to do / make",
+    "tenses": {
+      "Present": [
+        ["yo", "I", "hago", "I do / make"],
+        ["tú", "you", "haces", "you do / make"],
+        ["él / ella / usted", "he / she / you", "hace", "he / she / you do / make"],
+        ["nosotros", "we", "hacemos", "we do / make"],
+        ["vosotros", "you", "hacéis", "you do / make"],
+        ["ellos / ellas / ustedes", "they / you", "hacen", "they / you do / make"]
+      ],
+      "Preterite": [
+        ["yo", "I", "hice", "I did / made"],
+        ["tú", "you", "hiciste", "you did / made"],
+        ["él / ella / usted", "he / she / you", "hizo", "he / she / you did / made"],
+        ["nosotros", "we", "hicimos", "we did / made"],
+        ["vosotros", "you", "hicisteis", "you did / made"],
+        ["ellos / ellas / ustedes", "they / you", "hicieron", "they / you did / made"]
+      ],
+      "Imperfect": [
+        ["yo", "I", "hacía", "I used to do / make"],
+        ["tú", "you", "hacías", "you used to do / make"],
+        ["él / ella / usted", "he / she / you", "hacía", "he / she / you used to do / make"],
+        ["nosotros", "we", "hacíamos", "we used to do / make"],
+        ["vosotros", "you", "hacíais", "you used to do / make"],
+        ["ellos / ellas / ustedes", "they / you", "hacían", "they used to do / make"]
+      ],
+      "Conditional": [
+        ["yo", "I", "haría", "I would do / make"],
+        ["tú", "you", "harías", "you would do / make"],
+        ["él / ella / usted", "he / she / you", "haría", "he / she / you would do / make"],
+        ["nosotros", "we", "haríamos", "we would do / make"],
+        ["vosotros", "you", "haríais", "you would do / make"],
+        ["ellos / ellas / ustedes", "they / you", "harían", "they / you would do / make"]
+      ],
+      "Future": [
+        ["yo", "I", "haré", "I will do / make"],
+        ["tú", "you", "harás", "you will do / make"],
+        ["él / ella / usted", "he / she / you", "hará", "he / she / you will do / make"],
+        ["nosotros", "we", "haremos", "we will do / make"],
+        ["vosotros", "you", "haréis", "you will do / make"],
+        ["ellos / ellas / ustedes", "they / you", "harán", "they / you will do / make"]
+      ]
+    }
+  }
+]
