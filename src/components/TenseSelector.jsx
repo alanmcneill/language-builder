@@ -1,16 +1,9 @@
 import { Button, HStack } from '@chakra-ui/react'
 
-const tenses = [
-  'Present',
-  'Preterite',
-  'Imperfect',
-  'Conditional',
-  'Future',
-]
-
 export default function TenseSelector({
   selectedTense,
   onSelect,
+  tenses,
 }) {
   return (
     <HStack

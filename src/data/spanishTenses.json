@@ -1,0 +1,626 @@
+[
+  {
+    "title": "Spanish Tenses & Verb Forms",
+    "subtitle": "How Spanish verb tenses work",
+    "intro": "Learn how Spanish verbs are formed and when the main tenses and verb forms are used.",
+    "language": "Spanish",
+    "view": "tense-reference"
+  },
+  {
+    "tense": "Present",
+    "description": "The present tense is used for actions that are happening now, habitual actions and general facts.",
+    "sections": [
+      {
+        "title": "Regular verb endings",
+        "description": "Drop the -ar, -er or -ir ending from the infinitive and add the appropriate ending to the stem.",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-ar",
+            "endings": ["o", "as", "a", "amos", "áis", "an"]
+          },
+          {
+            "label": "-er",
+            "endings": ["o", "es", "e", "emos", "éis", "en"]
+          },
+          {
+            "label": "-ir",
+            "endings": ["o", "es", "e", "imos", "ís", "en"]
+          }
+        ]
+      },
+      {
+        "title": "Common irregular patterns",
+        "description": "Tener and venir are irregular, but they share a similar pattern in the present tense.",
+        "type": "verbs",
+        "verbs": [
+          {
+            "verb": "tener",
+            "translation": "to have",
+            "forms": [
+              ["tengo", "I have"],
+              ["tienes", "you have"],
+              ["tiene", "he has / she has / you have"],
+              ["tenemos", "we have"],
+              ["tenéis", "you have"],
+              ["tienen", "they / you have"]
+            ]
+          },
+          {
+            "verb": "venir",
+            "translation": "to come",
+            "forms": [
+              ["vengo", "I come"],
+              ["vienes", "you come"],
+              ["viene", "he comes / she comes / you come"],
+              ["venimos", "we come"],
+              ["venís", "you come"],
+              ["vienen", "they / you come"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Preterite",
+    "description": "The preterite is used for actions that occurred at a fixed point in time.",
+    "sections": [
+      {
+        "title": "Regular -ar verbs",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-ar",
+            "endings": ["é", "aste", "ó", "amos", "asteis", "aron"]
+          }
+        ]
+      },
+      {
+        "title": "Regular -er and -ir verbs",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-er",
+            "endings": ["í", "iste", "ió", "imos", "isteis", "ieron"]
+          },
+          {
+            "label": "-ir",
+            "endings": ["í", "iste", "ió", "imos", "isteis", "ieron"]
+          }
+        ]
+      },
+      {
+        "title": "Examples",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["hablé", "spoke"],
+              ["hablaste", "spoke"],
+              ["habló", "spoke"],
+              ["hablamos", "spoke"],
+              ["hablasteis", "spoke"],
+              ["hablaron", "spoke"]
+            ]
+          },
+          {
+            "verb": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["comí", "ate"],
+              ["comiste", "ate"],
+              ["comió", "ate"],
+              ["comimos", "ate"],
+              ["comisteis", "ate"],
+              ["comieron", "ate"]
+            ]
+          },
+          {
+            "verb": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["viví", "lived"],
+              ["viviste", "lived"],
+              ["vivió", "lived"],
+              ["vivimos", "lived"],
+              ["vivisteis", "lived"],
+              ["vivieron", "lived"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Common irregular verbs",
+        "description": "Many verbs in the preterite are irregular and must be memorised.",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "ser",
+            "translation": "to be",
+            "forms": [
+              ["fui", "was"],
+              ["fuiste", "were"],
+              ["fue", "was"],
+              ["fuimos", "were"],
+              ["fuisteis", "were"],
+              ["fueron", "were"]
+            ]
+          },
+          {
+            "verb": "ir",
+            "translation": "to go",
+            "forms": [
+              ["fui", "went"],
+              ["fuiste", "went"],
+              ["fue", "went"],
+              ["fuimos", "went"],
+              ["fuisteis", "went"],
+              ["fueron", "went"]
+            ]
+          },
+          {
+            "verb": "dar",
+            "translation": "to give",
+            "forms": [
+              ["di", "gave"],
+              ["diste", "gave"],
+              ["dio", "gave"],
+              ["dimos", "gave"],
+              ["disteis", "gave"],
+              ["dieron", "gave"]
+            ]
+          },
+          {
+            "verb": "hacer",
+            "translation": "to do / make",
+            "forms": [
+              ["hice", "did / made"],
+              ["hiciste", "did / made"],
+              ["hizo", "did / made"],
+              ["hicimos", "did / made"],
+              ["hicisteis", "did / made"],
+              ["hicieron", "did / made"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Imperfect",
+    "description": "The imperfect is used for ongoing, habitual or repeated actions in the past, and for describing circumstances or background.",
+    "sections": [
+      {
+        "title": "Regular verb endings",
+        "description": "Drop the -ar, -er or -ir ending from the infinitive and add the appropriate imperfect ending.",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-ar",
+            "endings": ["aba", "abas", "aba", "ábamos", "abais", "aban"]
+          },
+          {
+            "label": "-er",
+            "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]
+          },
+          {
+            "label": "-ir",
+            "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]
+          }
+        ]
+      },
+      {
+        "title": "Examples",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["hablaba", "used to speak"],
+              ["hablabas", "used to speak"],
+              ["hablaba", "used to speak"],
+              ["hablábamos", "used to speak"],
+              ["hablabais", "used to speak"],
+              ["hablaban", "used to speak"]
+            ]
+          },
+          {
+            "verb": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["comía", "used to eat"],
+              ["comías", "used to eat"],
+              ["comía", "used to eat"],
+              ["comíamos", "used to eat"],
+              ["comíais", "used to eat"],
+              ["comían", "used to eat"]
+            ]
+          },
+          {
+            "verb": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["vivía", "used to live"],
+              ["vivías", "used to live"],
+              ["vivía", "used to live"],
+              ["vivíamos", "used to live"],
+              ["vivíais", "used to live"],
+              ["vivían", "used to live"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The main irregular imperfect forms",
+        "description": "Only three Spanish verbs are irregular in the imperfect indicative.",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "ser",
+            "translation": "to be",
+            "forms": [
+              ["era", "used to be"],
+              ["eras", "used to be"],
+              ["era", "used to be"],
+              ["éramos", "used to be"],
+              ["erais", "used to be"],
+              ["eran", "used to be"]
+            ]
+          },
+          {
+            "verb": "ir",
+            "translation": "to go",
+            "forms": [
+              ["iba", "used to go"],
+              ["ibas", "used to go"],
+              ["iba", "used to go"],
+              ["íbamos", "used to go"],
+              ["ibais", "used to go"],
+              ["iban", "used to go"]
+            ]
+          },
+          {
+            "verb": "ver",
+            "translation": "to see / watch",
+            "forms": [
+              ["veía", "used to see / watch"],
+              ["veías", "used to see / watch"],
+              ["veía", "used to see / watch"],
+              ["veíamos", "used to see / watch"],
+              ["veíais", "used to see / watch"],
+              ["veían", "used to see / watch"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Commands",
+    "description": "Commands are used to tell someone to do or not to do something. The form depends on who is being addressed.",
+    "sections": [
+      {
+        "title": "Regular affirmative commands",
+        "description": "These are the common affirmative command forms for regular verbs.",
+        "type": "commands",
+        "columns": [
+          {
+            "label": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["tú", "habla", "speak"],
+              ["usted", "hable", "speak"],
+              ["nosotros", "hablemos", "let's speak"],
+              ["vosotros", "hablad", "speak"],
+              ["ustedes", "hablen", "speak"]
+            ]
+          },
+          {
+            "label": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["tú", "come", "eat"],
+              ["usted", "coma", "eat"],
+              ["nosotros", "comamos", "let's eat"],
+              ["vosotros", "comed", "eat"],
+              ["ustedes", "coman", "eat"]
+            ]
+          },
+          {
+            "label": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["tú", "vive", "live"],
+              ["usted", "viva", "live"],
+              ["nosotros", "vivamos", "let's live"],
+              ["vosotros", "vivid", "live"],
+              ["ustedes", "vivan", "live"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Negative commands",
+        "description": "Negative commands use a different set of forms from affirmative commands.",
+        "type": "commands",
+        "negative": true,
+        "columns": [
+          {
+            "label": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["tú", "no hables", "don't speak"],
+              ["usted", "no hable", "don't speak"],
+              ["nosotros", "no hablemos", "let's not speak"],
+              ["vosotros", "no habléis", "don't speak"],
+              ["ustedes", "no hablen", "don't speak"]
+            ]
+          },
+          {
+            "label": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["tú", "no comas", "don't eat"],
+              ["usted", "no coma", "don't eat"],
+              ["nosotros", "no comamos", "let's not eat"],
+              ["vosotros", "no comáis", "don't eat"],
+              ["ustedes", "no coman", "don't eat"]
+            ]
+          },
+          {
+            "label": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["tú", "no vivas", "don't live"],
+              ["usted", "no viva", "don't live"],
+              ["nosotros", "no vivamos", "let's not live"],
+              ["vosotros", "no viváis", "don't live"],
+              ["ustedes", "no vivan", "don't live"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Future",
+    "description": "The future tense is used to talk about actions or events that will happen in the future.",
+    "sections": [
+      {
+        "title": "Regular verb endings",
+        "description": "For regular verbs, add the future endings to the complete infinitive.",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-ar",
+            "endings": ["é", "ás", "á", "emos", "éis", "án"]
+          },
+          {
+            "label": "-er",
+            "endings": ["é", "ás", "á", "emos", "éis", "án"]
+          },
+          {
+            "label": "-ir",
+            "endings": ["é", "ás", "á", "emos", "éis", "án"]
+          }
+        ]
+      },
+      {
+        "title": "Examples",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["hablaré", "will speak"],
+              ["hablarás", "will speak"],
+              ["hablará", "will speak"],
+              ["hablaremos", "will speak"],
+              ["hablaréis", "will speak"],
+              ["hablarán", "will speak"]
+            ]
+          },
+          {
+            "verb": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["comeré", "will eat"],
+              ["comerás", "will eat"],
+              ["comerá", "will eat"],
+              ["comeremos", "will eat"],
+              ["comeréis", "will eat"],
+              ["comerán", "will eat"]
+            ]
+          },
+          {
+            "verb": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["viviré", "will live"],
+              ["vivirás", "will live"],
+              ["vivirá", "will live"],
+              ["viviremos", "will live"],
+              ["viviréis", "will live"],
+              ["vivirán", "will live"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Conditional",
+    "description": "The conditional is used for hypothetical situations, possibilities and actions that would happen under certain circumstances.",
+    "sections": [
+      {
+        "title": "Regular verb endings",
+        "description": "For regular verbs, add the conditional endings to the complete infinitive.",
+        "type": "endings",
+        "columns": [
+          {
+            "label": "-ar",
+            "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]
+          },
+          {
+            "label": "-er",
+            "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]
+          },
+          {
+            "label": "-ir",
+            "endings": ["ía", "ías", "ía", "íamos", "íais", "ían"]
+          }
+        ]
+      },
+      {
+        "title": "Examples",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "hablar",
+            "translation": "to speak",
+            "forms": [
+              ["hablaría", "would speak"],
+              ["hablarías", "would speak"],
+              ["hablaría", "would speak"],
+              ["hablaríamos", "would speak"],
+              ["hablaríais", "would speak"],
+              ["hablarían", "would speak"]
+            ]
+          },
+          {
+            "verb": "comer",
+            "translation": "to eat",
+            "forms": [
+              ["comería", "would eat"],
+              ["comerías", "would eat"],
+              ["comería", "would eat"],
+              ["comeríamos", "would eat"],
+              ["comeríais", "would eat"],
+              ["comerían", "would eat"]
+            ]
+          },
+          {
+            "verb": "vivir",
+            "translation": "to live",
+            "forms": [
+              ["viviría", "would live"],
+              ["vivirías", "would live"],
+              ["viviría", "would live"],
+              ["viviríamos", "would live"],
+              ["viviríais", "would live"],
+              ["vivirían", "would live"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tense": "Perfect",
+    "description": "The present perfect is formed with the present tense of haber followed by the past participle. It is commonly used for completed actions that are connected to the present.",
+    "sections": [
+      {
+        "title": "Haber + past participle",
+        "description": "Use the appropriate form of haber followed by the past participle of the main verb.",
+        "type": "perfect",
+        "auxiliary": [
+          "he",
+          "has",
+          "ha",
+          "hemos",
+          "habéis",
+          "han"
+        ],
+        "verbs": [
+          {
+            "verb": "hablar",
+            "translation": "to speak",
+            "participle": "hablado",
+            "forms": [
+              "he hablado",
+              "has hablado",
+              "ha hablado",
+              "hemos hablado",
+              "habéis hablado",
+              "han hablado"
+            ]
+          },
+          {
+            "verb": "comer",
+            "translation": "to eat",
+            "participle": "comido",
+            "forms": [
+              "he comido",
+              "has comido",
+              "ha comido",
+              "hemos comido",
+              "habéis comido",
+              "han comido"
+            ]
+          },
+          {
+            "verb": "vivir",
+            "translation": "to live",
+            "participle": "vivido",
+            "forms": [
+              "he vivido",
+              "has vivido",
+              "ha vivido",
+              "hemos vivido",
+              "habéis vivido",
+              "han vivido"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Common irregular past participles",
+        "description": "Some common verbs have irregular past participles that must be learned separately.",
+        "type": "examples",
+        "verbs": [
+          {
+            "verb": "hacer",
+            "translation": "to do / make",
+            "forms": [
+              "he hecho",
+              "has hecho",
+              "ha hecho",
+              "hemos hecho",
+              "habéis hecho",
+              "han hecho"
+            ]
+          },
+          {
+            "verb": "ver",
+            "translation": "to see / watch",
+            "forms": [
+              "he visto",
+              "has visto",
+              "ha visto",
+              "hemos visto",
+              "habéis visto",
+              "han visto"
+            ]
+          },
+          {
+            "verb": "decir",
+            "translation": "to say / tell",
+            "forms": [
+              "he dicho",
+              "has dicho",
+              "ha dicho",
+              "hemos dicho",
+              "habéis dicho",
+              "han dicho"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

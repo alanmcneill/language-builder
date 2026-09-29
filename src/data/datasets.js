@@ -7,7 +7,7 @@ export const datasetLoaders = {
 
   'spanish-100': () => import('./spanish100.json'),
   'spanish-sentences': () => import('./spanishSentences.json'),
-//   'spanish-tenses': () => import('./spanishTenses.json'),
+  'spanish-tenses': () => import('./spanishTenses.json'),
   'spanish-regular-verbs': () => import('./spanishRegularVerbs.json'),
   'spanish-ser-estar': () => import('./spanishSerEstar.json'),
   'spanish-irregular-verbs': () => import('./spanishIrregularVerbs.json'),

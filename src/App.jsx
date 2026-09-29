@@ -17,6 +17,7 @@ import ProgressControls from './components/ProgressControls'
 import RegularVerbView from './components/RegularVerbView'
 import SetCompletionCard from './components/SetCompletionCard'
 import SetIntroCard from './components/SetIntroCard'
+import TenseReferenceView from './components/TenseReferenceView'
 import SerEstarView from './components/SerEstarView'
 import IrregularVerbView from './components/IrregularVerbView'
 import { datasetLoaders } from './data/datasets'
@@ -130,6 +131,12 @@ function App() {
         verbs={transcript.slice(1)}
       />
     )
+  } else if (intro.view === 'tense-reference') {
+    content = (
+      <TenseReferenceView
+        tenses={transcript.slice(1)}
+      />
+    )
   } else if (intro.view === 'irregular-verb-list') {
     content = (
       <IrregularVerbView
@@ -190,7 +197,7 @@ function App() {
         py={10}
         className="dark"
       >
-        <Container maxW="1024px">
+        <Container maxW="1280px">
           <HStack justify="space-between" mb={8}>
             <Button
               variant="plain"
@@ -209,7 +216,8 @@ function App() {
               onSelect={handleLanguageChange}
             />
           </HStack>
-
+        </Container>
+        <Container maxW="1280px">
           <Stack spacing={8} align="center">
             {content}
           </Stack>

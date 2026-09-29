@@ -68,7 +68,7 @@ function HomeSectionHeading({
   return (
     <HStack spacing={2}>
       <Heading
-        size="lg"
+        size="xl"
         color="white"
       >
         {title}

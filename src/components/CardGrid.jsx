@@ -32,7 +32,7 @@ export default function CardGrid({ items, onSelect }) {
         >
           <Stack spacing={2} align="flex-start" w="full">
             <HStack gap={4} justify="space-between" w="full">
-              <Heading size="sm" color="whiteAlpha.700">
+              <Heading size="md" color="whiteAlpha.800">
                 {item.title}
               </Heading>
 

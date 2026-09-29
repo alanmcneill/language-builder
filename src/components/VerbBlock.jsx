@@ -13,7 +13,8 @@ import TenseSelector from './TenseSelector'
 import Card from './Card'
 
 export default function VerbBlock({ verb }) {
-  const [selectedTense, setSelectedTense] = useState('Present')
+  const tenses = Object.keys(verb.tenses)
+  const [selectedTense, setSelectedTense] = useState(tenses[0])
   const conjugations = verb.tenses[selectedTense] ?? []
 
   return (
@@ -21,18 +22,21 @@ export default function VerbBlock({ verb }) {
       <Stack gap={6} w="full">
         <Flex gap="4" justify="space-between">
           <Group>
-            <Heading size="2xl" color="white" >
+            <Heading size="2xl" color="white">
               {verb.verb}
             </Heading>
+
             {verb.description && (
               <Text color="gray.400">
                 {verb.description}
               </Text>
             )}
-            <Text fontSize="2xl" color="gray.400" >
+
+            <Text fontSize="2xl" color="gray.400">
               {verb.translation}
             </Text>
           </Group>
+
           <Group>
             {verb.type && (
               <Badge colorPalette="teal" variant="subtle">
@@ -51,46 +55,49 @@ export default function VerbBlock({ verb }) {
         <TenseSelector
           selectedTense={selectedTense}
           onSelect={setSelectedTense}
+          tenses={tenses}
         />
 
         <SimpleGrid
           columns={{ base: 1, md: 2 }}
           gap={2}
         >
-          {conjugations.map(([person, translation, form, meaning]) => (
-            <Box
-              key={person}
-              p={4}
-              border="1px solid"
-              borderColor="gray.700"
-              borderRadius="md"
-              bg="gray.800"
-            >
-              <Text
-                fontSize="sm"
-                color="gray.500"
+          {conjugations.map(
+            ([person, translation, form, meaning]) => (
+              <Box
+                key={person}
+                p={4}
+                border="1px solid"
+                borderColor="gray.700"
+                borderRadius="md"
+                bg="gray.800"
               >
-                {person}
-              </Text>
+                <Text
+                  fontSize="sm"
+                  color="gray.500"
+                >
+                  {person}
+                </Text>
 
-              <Text
-                mt={1}
-                fontSize="xl"
-                fontWeight="bold"
-                color="white"
-              >
-                {form}
-              </Text>
+                <Text
+                  mt={1}
+                  fontSize="xl"
+                  fontWeight="bold"
+                  color="white"
+                >
+                  {form}
+                </Text>
 
-              <Text
-                mt={1}
-                fontSize="sm"
-                color="gray.400"
-              >
-                {meaning}
-              </Text>
-            </Box>
-          ))}
+                <Text
+                  mt={1}
+                  fontSize="sm"
+                  color="gray.400"
+                >
+                  {meaning}
+                </Text>
+              </Box>
+            ),
+          )}
         </SimpleGrid>
       </Stack>
     </Card>

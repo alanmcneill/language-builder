@@ -44,6 +44,15 @@
       "badge": "Course",
       "difficulty": "Advanced",
       "available": true
+    },
+    {
+      "key": "spanish-super",
+      "language": "Spanish",
+      "title": "Spanish IV",
+      "description": "Coming soon.",
+      "badge": "Course",
+      "difficulty": "Advanced",
+      "available": false
     }
   ],
   "resources": [
@@ -72,7 +81,7 @@
       "description": "An introduction to Spanish verb tenses.",
       "badge": "Grammar",
       "difficulty": "Intermediate",
-      "available": false
+      "available": true
     },
     {
       "key": "spanish-regular-verbs",
