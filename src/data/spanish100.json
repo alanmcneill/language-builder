@@ -4,7 +4,10 @@
     "title": "TOP SPANISH VOCABULARY",
     "subtitle": "100 most frequently used Spanish words.",
     "intro": "You don't need to learn every Spanish word, but you do need to know these. The 100 most frequently used Spanish words, along with their English translations and parts of speech. This list is a great starting point for building your Spanish vocabulary.",
-    "direction": "target-first"
+    "direction": "target-first",
+    "view": "top-100-words",
+    "key": "spanish-top-100-words",
+    "slug": "top-100-words"
   },
   {
     "translation": "el / la",

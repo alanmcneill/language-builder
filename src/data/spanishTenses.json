@@ -4,7 +4,9 @@
     "subtitle": "How Spanish verb tenses work",
     "intro": "Learn how Spanish verbs are formed and when the main tenses and verb forms are used.",
     "language": "Spanish",
-    "view": "tense-reference"
+    "view": "tense-reference",
+    "key": "spanish-tenses",
+    "slug": "tense-reference"
   },
   {
     "tense": "Present",

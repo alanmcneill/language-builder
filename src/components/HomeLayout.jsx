@@ -38,6 +38,7 @@ export default function HomeLayout({
 
         <CardGrid
           items={courses}
+          category="courses"
           onSelect={onSelect}
         />
 
@@ -52,6 +53,7 @@ export default function HomeLayout({
 
             <CardGrid
               items={resources}
+              category="resources"
               onSelect={onSelect}
             />
           </>

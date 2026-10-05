@@ -1,7 +1,12 @@
 {
+  "label": "LEXICON",
+  "view": "home",
+  "key": "home",
+  "slug": "/",
   "courses": [
     {
-      "key": "spanish-basic",
+      "key": "spanish-i",
+      "slug": "spanish-i",
       "language": "Spanish",
       "title": "Spanish I",
       "description": "Build your Spanish skills one block at a time.",
@@ -10,7 +15,8 @@
       "available": true
     },
     {
-      "key": "french-basic",
+      "key": "french-i",
+      "slug": "french-i",
       "language": "French",
       "title": "French I",
       "description": "Build your French skills one block at a time.",
@@ -19,7 +25,8 @@
       "available": true
     },
     {
-      "key": "italian-basic",
+      "key": "italian-i",
+      "slug": "italian-i",
       "language": "Italian",
       "title": "Italian I",
       "description": "Coming soon.",
@@ -28,7 +35,8 @@
       "available": false
     },
     {
-      "key": "spanish-intermediate",
+      "key": "spanish-ii",
+      "slug": "spanish-ii",
       "language": "Spanish",
       "title": "Spanish II",
       "description": "Continue your Spanish learning journey with more complex sentences.",
@@ -37,7 +45,8 @@
       "available": true
     },
     {
-      "key": "spanish-advanced",
+      "key": "spanish-iii",
+      "slug": "spanish-iii",
       "language": "Spanish",
       "title": "Spanish III",
       "description": "Build on your Spanish vocabulary and master the language.",
@@ -46,7 +55,8 @@
       "available": true
     },
     {
-      "key": "spanish-super",
+      "key": "spanish-iv",
+      "slug": "spanish-iv",
       "language": "Spanish",
       "title": "Spanish IV",
       "description": "Coming soon.",
@@ -57,7 +67,8 @@
   ],
   "resources": [
     {
-      "key": "spanish-100",
+      "key": "spanish-top-100-words",
+      "slug": "top-100-words",
       "language": "Spanish",
       "title": "Top 100 Words",
       "description": "An average native Spanish speaker uses between 300 and 1,000 different words in their daily conversation, out of an active daily vocabulary of about 3,000 to 5,000 words. Learn the 100 most frequently used Spanish words.",
@@ -67,6 +78,7 @@
     },
     {
       "key": "spanish-sentences",
+      "slug": "sentence-structure",
       "language": "Spanish",
       "title": "Sentence Structure",
       "description": "A collection of useful Spanish sentences to demonstrate the structure of the language. Commit these sentences to memory and then practice using them. Once you have them locked in, you can apply these sentences to almost any situation by substituting other nouns and verbs.",
@@ -76,6 +88,7 @@
     },
     {
       "key": "spanish-tenses",
+      "slug": "tenses",
       "language": "Spanish",
       "title": "Tenses",
       "description": "An introduction to Spanish verb tenses.",
@@ -85,16 +98,17 @@
     },
     {
       "key": "spanish-regular-verbs",
+      "slug": "regular-verbs",
       "language": "Spanish",
       "title": "Regular Verbs",
       "description": "Common regular Spanish verbs and their conjugations.",
       "badge": "Verbs",
       "difficulty": "Beginner",
-      "view": "verb-list",
       "available": true
     },
     {
       "key": "spanish-irregular-verbs",
+      "slug": "irregular-verbs",
       "language": "Spanish",
       "title": "Irregular Verbs",
       "description": "Common Spanish verbs that don't follow regular patterns.",
@@ -104,6 +118,7 @@
     },
     {
       "key": "spanish-stem-changing-verbs",
+      "slug": "stem-changing-verbs",
       "language": "Spanish",
       "title": "Stem-Changing Verbs",
       "description": "Spanish verbs that change their stem when conjugated.",
@@ -112,7 +127,18 @@
       "available": false
     },
     {
+      "key": "spanish-reflexive-verbs",
+      "slug": "reflexive-verbs",
+      "language": "Spanish",
+      "title": "Reflexive Verbs",
+      "description": "Spanish verbs that are used with reflexive pronouns.",
+      "badge": "Verbs",
+      "difficulty": "Advanced",
+      "available": false
+    },
+    {
       "key": "spanish-ser-estar",
+      "slug": "ser-estar",
       "title": "Ser y Estar",
       "description": "Compare the two Spanish verbs meaning “to be”.",
       "badge": "Verbs",
@@ -121,11 +147,22 @@
       "available": true
     },
     {
-      "key": "spanish-reflexive-verbs",
+      "key": "spanish-por-para",
+      "slug": "por-para",
+      "title": "Por y Para",
+      "description": "Compare the two Spanish prepositions meaning “for”.",
+      "badge": "Grammar",
       "language": "Spanish",
-      "title": "Reflexive Verbs",
-      "description": "Spanish verbs that are used with reflexive pronouns.",
-      "badge": "Verbs",
+      "difficulty": "Advanced",
+      "available": false
+    },
+    {
+      "key": "spanish-subjunctive",
+      "slug": "subjunctive",
+      "title": "Subjunctive",
+      "description": "An introduction to the Spanish subjunctive mood.",
+      "badge": "Grammar",
+      "language": "Spanish",
       "difficulty": "Advanced",
       "available": false
     }

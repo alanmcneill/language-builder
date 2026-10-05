@@ -4,7 +4,9 @@
     "subtitle": "Spanish verb conjugation",
     "intro": "Learn how regular Spanish verbs are conjugated",
     "language": "Spanish",
-    "view": "verb-list"
+    "view": "regular-verbs",
+    "key": "spanish-regular-verbs",
+    "slug": "regular-verbs"
   },
   {
     "verb": "hablar",

@@ -24,7 +24,7 @@ export default function CardGrid({ items, onSelect }) {
           textAlign="left"
           alignItems="flex-start"
           whiteSpace="normal"
-          onClick={() => onSelect(item.key)}
+          onClick={() => onSelect(item)}
           _hover={{
             borderColor: 'teal.400',
             bg: 'whiteAlpha.100',

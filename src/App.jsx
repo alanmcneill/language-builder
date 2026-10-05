@@ -1,6 +1,5 @@
 import {
   Box,
-  Button,
   ChakraProvider,
   Container,
   defaultSystem,
@@ -8,6 +7,12 @@ import {
   Stack,
 } from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
+import {
+  Navigate,
+  useLocation,
+  useNavigate,
+} from 'react-router-dom'
+import Breadcrumbs from './components/Breadcrumbs'
 import EmptyState from './components/EmptyState'
 import HomeLayout from './components/HomeLayout'
 import LanguageSelector from './components/LanguageSelector'
@@ -20,20 +25,88 @@ import SetIntroCard from './components/SetIntroCard'
 import TenseReferenceView from './components/TenseReferenceView'
 import SerEstarView from './components/SerEstarView'
 import IrregularVerbView from './components/IrregularVerbView'
+import homeData from './data/home.json'
 import { datasetLoaders } from './data/datasets'
 import { readProgress, writeProgress } from './storage'
+
+const languages = {
+  spanish: 'Spanish',
+  french: 'French',
+  italian: 'Italian',
+}
+
+function getRouteInfo(pathname) {
+  const parts = pathname.split('/').filter(Boolean)
+
+  if (parts.length === 0) {
+    return {
+      language: 'Spanish',
+      dataset: null,
+    }
+  }
+
+  const language = languages[parts[0]]
+
+  if (!language) {
+    return null
+  }
+
+  if (parts.length === 1) {
+    return {
+      language,
+      dataset: null,
+    }
+  }
+
+  if (parts.length !== 3) {
+    return null
+  }
+
+  const [, category, slug] = parts
+  const items = homeData[category]
+
+  if (!items) {
+    return null
+  }
+
+  const dataset = items.find(
+    (item) =>
+      item.language === language &&
+      item.slug === slug,
+  )
+
+  if (!dataset) {
+    return null
+  }
+
+  return {
+    language,
+    dataset,
+    category,
+  }
+}
 
 const progressStorageKeyPrefix =
   'language-builder-current-index-'
 
 function App() {
-  const [language, setLanguage] = useState('Spanish')
-  const [datasetKey, setDatasetKey] = useState(null)
+  const location = useLocation()
+  const navigate = useNavigate()
+
   const [loadedDataset, setLoadedDataset] = useState({
     key: null,
     transcript: null,
   })
   const [currentIndex, setCurrentIndex] = useState(0)
+
+  const routeInfo = getRouteInfo(location.pathname)
+
+  if (!routeInfo) {
+    return <Navigate to="/" replace />
+  }
+
+  const language = routeInfo.language
+  const datasetKey = routeInfo.dataset?.key ?? null
 
   const transcript =
     loadedDataset.key === datasetKey
@@ -61,17 +134,20 @@ function App() {
     )
   }
 
-  const handleHome = () => {
-    setDatasetKey(null)
-  }
+  const handleSelect = (item) => {
+    const category = homeData.courses.some(
+      (course) => course.key === item.key,
+    )
+      ? 'courses'
+      : 'resources'
 
-  const handleSelect = (key) => {
-    setDatasetKey(key)
+    navigate(
+      `/${item.language.toLowerCase()}/${category}/${item.slug}`,
+    )
   }
 
   const handleLanguageChange = (nextLanguage) => {
-    setLanguage(nextLanguage)
-    setDatasetKey(null)
+    navigate(`/${nextLanguage.toLowerCase()}`)
   }
 
   useEffect(() => {
@@ -125,31 +201,31 @@ function App() {
   } else {
     const intro = transcript[0]
 
-  if (intro.view === 'verb-list') {
-    content = (
-      <RegularVerbView
-        verbs={transcript.slice(1)}
-      />
-    )
-  } else if (intro.view === 'tense-reference') {
-    content = (
-      <TenseReferenceView
-        tenses={transcript.slice(1)}
-      />
-    )
-  } else if (intro.view === 'irregular-verb-list') {
-    content = (
-      <IrregularVerbView
-        verbs={transcript.slice(1)}
-      />
-    )
-  } else if (intro.view === 'ser-estar') {
-    content = (
-      <SerEstarView
-        verbs={transcript.slice(1)}
-      />
-    )
-  } else {
+    if (intro.view === 'verb-list') {
+      content = (
+        <RegularVerbView
+          verbs={transcript.slice(1)}
+        />
+      )
+    } else if (intro.view === 'tense-reference') {
+      content = (
+        <TenseReferenceView
+          tenses={transcript.slice(1)}
+        />
+      )
+    } else if (intro.view === 'irregular-verb-list') {
+      content = (
+        <IrregularVerbView
+          verbs={transcript.slice(1)}
+        />
+      )
+    } else if (intro.view === 'ser-estar') {
+      content = (
+        <SerEstarView
+          verbs={transcript.slice(1)}
+        />
+      )
+    } else {
       content = totalItems === 0 ? (
         <EmptyState
           message="This collection has no learning items yet."
@@ -188,6 +264,30 @@ function App() {
     }
   }
 
+  const breadcrumbItems = [
+    {
+      label: 'LEXICON',
+      href: '/',
+    },
+    {
+      label: language,
+      href: `/${language.toLowerCase()}`,
+    },
+  ]
+
+  if (routeInfo.dataset) {
+    breadcrumbItems.push({
+      label:
+        routeInfo.category === 'courses'
+          ? 'Courses'
+          : 'Resources',
+    })
+
+    breadcrumbItems.push({
+      label: routeInfo.dataset.title,
+    })
+  }
+
   return (
     <ChakraProvider value={defaultSystem}>
       <Box
@@ -199,17 +299,12 @@ function App() {
       >
         <Container maxW="1280px">
           <HStack justify="space-between" mb={8}>
-            <Button
-              variant="plain"
-              p={0}
-              h="auto"
+            <Breadcrumbs
               color="teal.300"
               fontSize="lg"
               fontWeight="bold"
-              onClick={handleHome}
-            >
-              LEXICON
-            </Button>
+              items={breadcrumbItems}
+            />
 
             <LanguageSelector
               language={language}

@@ -18,7 +18,7 @@ export default function PerfectExamples({ verbs }) {
   return (
     <Stack gap={4}>
       <SimpleGrid
-        columns={{ base: 1, md: 2 }}
+        columns={{ base: 1, md: 3 }}
         gap={3}
       >
         {verbs.map((verb) => (

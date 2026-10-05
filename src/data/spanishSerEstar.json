@@ -4,7 +4,9 @@
     "subtitle": "The two Spanish verbs for “to be”",
     "intro": "Learn the difference between ser and estar, and how to conjugate both verbs.",
     "language": "Spanish",
-    "view": "ser-estar"
+    "view": "ser-estar",
+    "key": "spanish-ser-estar",
+    "slug": "ser-estar"
   },
   {
     "verb": "ser",

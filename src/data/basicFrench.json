@@ -4,7 +4,10 @@
     "title": "FRENCH I",
     "subtitle": "Build your French skills one block at a time. No streaks, no pressure, no cartoon owls.",
     "intro": "Read each English phrase and try to translate it out loud. If it's a new phrase, take a guess! If it's a phrase you've seen before, try to remember the correct translation. Then tap the card to reveal the correct French translation. Tap the card again to continue to the next phrase.",
-    "instruction": "Tap to start"
+    "instruction": "Tap to start",
+    "view": "french-i",
+    "key": "french-i",
+    "slug": "french-i"
   },
   {
     "phrase": "possible",

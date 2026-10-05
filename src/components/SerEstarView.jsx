@@ -13,10 +13,11 @@ import Card from './Card'
 import TenseSelector from './TenseSelector'
 
 export default function SerEstarView({ verbs }) {
-  const [selectedTense, setSelectedTense] = useState('Present')
-
   const ser = verbs.find((verb) => verb.verb === 'ser')
   const estar = verbs.find((verb) => verb.verb === 'estar')
+
+  const tenses = ser ? Object.keys(ser.tenses) : []
+  const [selectedTense, setSelectedTense] = useState(tenses[0])
 
   if (!ser || !estar) return null
 
@@ -63,6 +64,7 @@ export default function SerEstarView({ verbs }) {
           <TenseSelector
             selectedTense={selectedTense}
             onSelect={setSelectedTense}
+            tenses={tenses}
           />
 
           <Box

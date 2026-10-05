@@ -1,10 +1,12 @@
 [
   {
-  "title": "Irregular verbs",
-  "subtitle": "Spanish verb conjugation",
-  "intro": "Learn how some of the most common irregular Spanish verbs are conjugated.",
-  "language": "Spanish",
-  "view": "irregular-verb-list"
+    "title": "Irregular verbs",
+    "subtitle": "Spanish verb conjugation",
+    "intro": "Learn how some of the most common irregular Spanish verbs are conjugated.",
+    "language": "Spanish",
+    "view": "irregular-verb-list",
+    "key": "spanish-irregular-verb-list",
+    "slug": "irregular-verb-list"
   },
   {
     "verb": "saber",

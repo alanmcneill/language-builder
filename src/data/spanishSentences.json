@@ -4,7 +4,10 @@
     "subtitle": "A Guide To Spanish Grammar Hacking",
     "intro": "Learn thirteen simple sentences that demonstrate some of the most useful patterns in Spanish grammar.",
     "language": "Spanish",
-    "direction": "source-first"
+    "direction": "source-first",
+    "view": "sentence-structure",
+    "key": "spanish-sentences",
+    "slug": "sentence-structure"
   },
   {
     "phrase": "The apple is red",
